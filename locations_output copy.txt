@@ -1,0 +1,8306 @@
+```json
+{
+  "1004 Venture Partners": ["New York, NY"],
+  "1315 Capital": ["Philadelphia, PA"],
+  "1435 Capital": ["McLean, VA"],
+  "1cBio": ["San Jose, CA"],
+  "20/20 OptimEyes Technologies": ["Houston, TX"],
+  "2048 Ventures": ["New York, NY"],
+  "2Flo Ventures": ["San Francisco, CA"],
+  "360biolabs": ["Melbourne, Australia"],
+  "3B Future Health Ventures": ["Basel, Switzerland"],
+  "3DBioFibR Inc.": ["Halifax, Nova Scotia, Canada"],
+  "3E Bioventures Capital": ["Beijing, China", "Shanghai, China", "San Francisco, CA"],
+  "3SBio Inc.": ["Shenyang, China", "Beijing, China", "Shanghai, China", "San Diego, CA"],
+  "3Z": ["Beijing, China"],
+  "3i Partners (Impact India Investment Partners, LLC)": ["Houston, TX"],
+  "42nd Street Healthcare Partners": ["New York, NY"],
+  "4B Technologies": ["Calgary, Alberta, Canada"],
+  "4BIO Capital": ["London, UK"],
+  "4M Therapeutics, Inc": ["South San Francisco, CA"],
+  "4Moving Biotech": ["Illkirch-Graffenstaden, France"],
+  "5 Horizons Capital": ["Zug, Switzerland"]
+}
+```
+```json
+{
+  "5Y Capital": [
+    "Hong Kong",
+    "Shanghai, China",
+    "Beijing, China",
+    "Shenzhen, China"
+  ],
+  "6 Dimensions Capital": [
+    "Shanghai, China",
+    "Boston, MA, USA"
+  ],
+  "64x Bio": [
+    "Emeryville, CA, USA"
+  ],
+  "7G BioVentures": [
+    "Shanghai, China"
+  ],
+  "AAA Family Office": [
+    "Dubai, UAE"
+  ],
+  "ABION Inc.": [
+    "Seoul, South Korea"
+  ],
+  "ADvantage Therapeutics Inc.": [
+    "South San Francisco, CA, USA"
+  ],
+  "AELIS FARMA": [
+    "Bordeaux, France"
+  ],
+  "AI Proteins": [
+    "Boston, MA, USA"
+  ],
+  "AIM -HI Accelerator Fund": [
+    "Philadelphia, PA, USA"
+  ],
+  "AIVITA Biomedical, Inc.": [
+    "Irvine, CA, USA"
+  ],
+  "ALSA Ventures": [
+    "London, UK"
+  ],
+  "AN Ventures": [
+    "Singapore"
+  ],
+  "ANTABIO SAS": [
+    "Labège, France"
+  ],
+  "ARC Medical Inc.": [
+    "Singapore"
+  ],
+  "ARCH": [
+    "Chicago, IL, USA",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "New York, NY, USA"
+  ],
+  "ARENSIA Exploratory Medicine": [
+    "Chisinau, Moldova",
+    "Kharkiv, Ukraine",
+    "Tbilisi, Georgia",
+    "Bucharest, Romania",
+    "Minsk, Belarus"
+  ],
+  "ARPA -H": [
+    "Washington, D.C., USA",
+    "Boston, MA, USA",
+    "Dallas, TX, USA"
+  ],
+  "ART MEDICAL": [
+    "Ra'anana, Israel"
+  ],
+  "ASDERA LLC": [
+    "Rockville, MD, USA"
+  ]
+}
+```
+```json
+{
+  "ATEL Ventures, Inc.": [
+    "San Francisco, CA, USA",
+    "San Jose, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Diego, CA, USA",
+    "Denver, CO, USA",
+    "Dallas, TX, USA",
+    "Houston, TX, USA",
+    "Atlanta, GA, USA",
+    "Chicago, IL, USA",
+    "Boston, MA, USA",
+    "New York, NY, USA",
+    "Philadelphia, PA, USA",
+    "Washington, D.C., USA",
+    "Phoenix, AZ, USA",
+    "Portland, OR, USA",
+    "Seattle, WA, USA"
+  ],
+  "ATEM Capital": [
+    "Boston, MA, USA"
+  ],
+  "AUM Biosciences": [
+    "Singapore",
+    "Whippany, NJ, USA"
+  ],
+  "AV8 Ventures": [
+    "Palo Alto, CA, USA"
+  ],
+  "AXA Investment Managers": [
+    "Paris, France",
+    "London, UK",
+    "Hong Kong",
+    "New York, NY, USA",
+    "Sydney, Australia",
+    "Tokyo, Japan",
+    "Milan, Italy",
+    "Madrid, Spain",
+    "Zurich, Switzerland",
+    "Frankfurt, Germany",
+    "Brussels, Belgium",
+    "Dubai, UAE",
+    "Singapore",
+    "Santiago, Chile",
+    "Bogota, Colombia",
+    "Mexico City, Mexico",
+    "Sao Paulo, Brazil",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Taipei, Taiwan",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Amsterdam, Netherlands",
+    "Stockholm, Sweden"
+  ],
+  "AZBio": [
+    "Phoenix, AZ, USA"
+  ],
+  "Aagami, Inc.": [
+    "San Diego, CA, USA",
+    "Pune, Maharashtra, India"
+  ],
+  "Abacus Bioscience": [
+    "San Diego, CA, USA"
+  ],
+  "Abalos Therapeutics GmbH": [
+    "Düsseldorf, Germany"
+  ],
+  "AbbVie": [
+    "North Chicago, IL, USA",
+    "South San Francisco, CA, USA",
+    "Redwood City, CA, USA",
+    "Cambridge, MA, USA",
+    "Worcester, MA, USA",
+    "Ludwigshafen, Germany",
+    "Singapore",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Sydney, Australia",
+    "Dublin, Ireland",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Paris, France",
+    "Basel, Switzerland",
+    "Toronto, Canada",
+    "Mexico City, Mexico",
+    "Sao Paulo, Brazil",
+    "Buenos Aires, Argentina",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Bangkok, Thailand",
+    "Istanbul, Turkey",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Vienna, Austria",
+    "Brussels, Belgium",
+    "Copenhagen, Denmark",
+    "Helsinki, Finland",
+    "Athens, Greece",
+    "Budapest, Hungary",
+    "Oslo, Norway",
+    "Lisbon, Portugal",
+    "Stockholm, Sweden",
+    "Manila, Philippines",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Ho Chi Minh City, Vietnam",
+    "New Delhi, India",
+    "Riyadh, Saudi Arabia",
+    "Dubai, UAE",
+    "Johannesburg, South Africa",
+    "Bogota, Colombia",
+    "Lima, Peru",
+    "Santiago, Chile",
+    "Auckland, New Zealand"
+  ],
+  "Able Sciences, Inc.": [
+    "Madison, CT, USA"
+  ],
+  "Accelagen Pty Ltd": [
+    "Melbourne, Victoria, Australia"
+  ],
+  "Accequa AB, Minemed AI, Gabather AB": [
+    "Lund, Sweden",
+    "Basel, Switzerland",
+    "New York, NY, USA",
+    "Stockholm, Sweden"
+  ],
+  "Accession Therapeutics": [
+    "Oxford, UK"
+  ],
+  "Accropeutics": [],
+  "Ace Vision Group": [
+    "Sunnyvale, CA, USA"
+  ],
+  "Aceras Life Sciences, LLC": [
+    "San Diego, CA, USA"
+  ],
+  "Ackermans & van Haaren": [
+    "Antwerp, Belgium"
+  ],
+  "Actinium Pharmaceuticals": [
+    "New York, NY, USA"
+  ],
+  "Acuris Partners": [
+    "Singapore"
+  ]
+}
+```
+```json
+{
+  "AdAlta Limited": [
+    "Bundoora, Victoria, Australia",
+    "Parkville, Victoria, Australia"
+  ],
+  "Adaptimmune": [
+    "Abingdon, Oxfordshire, UK",
+    "Rockville, Maryland, USA"
+  ],
+  "Adelphi Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "AdimaBioVentures": [
+    "Boston, Massachusetts, USA"
+  ],
+  "Aditum Bio": [
+    "New York, New York, USA"
+  ],
+  "Adjuvant Partners": [
+    "San Francisco, California, USA",
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Adrenomed AG": [
+    "Hennigsdorf, Brandenburg, Germany"
+  ],
+  "Adva Biotechnology Ltd": [
+    "Kadima Zoran, Israel"
+  ],
+  "AdvaMed": [
+    "Washington D.C., USA"
+  ],
+  "Advanced Test Equipment Rentals": [
+    "San Diego, California, USA",
+    "Santa Clara, California, USA",
+    "Sacramento, California, USA",
+    "Los Angeles, California, USA",
+    "Toronto, Ontario, Canada"
+  ],
+  "Aegis Capital Corp": [
+    "New York, New York, USA",
+    "Dallas, Texas, USA",
+    "Boca Raton, Florida, USA",
+    "Holbrook, New York, USA"
+  ],
+  "Aegle Therapeutics Corporation": [
+    "Miami, Florida, USA"
+  ],
+  "Aevice Health Pte Ltd": [
+    "Singapore"
+  ],
+  "Affilogic": [
+    "Nantes, France"
+  ],
+  "Affinia Therapeutics": [
+    "Waltham, Massachusetts, USA"
+  ],
+  "Aflac Ventures Japan": [
+    "Tokyo, Japan"
+  ],
+  "Agent Capital": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Agilent Technologies": [
+    "Santa Clara, California, USA",
+    "Folsom, California, USA",
+    "Wilmington, Delaware, USA",
+    "Waldbronn, Germany",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Singapore",
+    "Bangalore, India",
+    "Stockport, UK"
+  ],
+  "Agilex Biolabs": [
+    "Thebarton, South Australia, Australia",
+    "Melbourne, Victoria, Australia",
+    "Brisbane, Queensland, Australia"
+  ],
+  "Aglaia Oncology Funds": [
+    "Rotterdam, Netherlands"
+  ]
+}
+```
+```json
+{
+  "Agrithera Inc": [
+    "2480, chemin Sainte-Foy, Québec, QC G1V 0A6, Canada"
+  ],
+  "AiM Medical Robotics": [
+    "Fort Lauderdale, Florida, USA"
+  ],
+  "Aikium Inc.": [
+    "Menlo Park, California, USA"
+  ],
+  "AilseBio": [
+    "판교테크노밸리, 판교이노베이션랩 A동 502호, 220, Pangyoyeok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea"
+  ],
+  "Aimbio": [
+    "Aimbio Building, 40-14, Docheop-ro 522beon-gil, Opo-eup, Gwangju-si, Gyeonggi-do, Republic of Korea"
+  ],
+  "Aimed Bio Inc.": [
+    "6F, Bupyeong-ro 228beon-gil 12, Guro-gu, Seoul, 08381, Republic of Korea"
+  ],
+  "Aivo Biosciences, Inc.": [
+    "San Francisco, California, USA"
+  ],
+  "Aixial Group": [
+    "Levallois-Perret, France",
+    "Paris, France",
+    "Lyon, France",
+    "Toulouse, France",
+    "Nantes, France",
+    "Brussels, Belgium",
+    "London, UK",
+    "Munich, Germany",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Warsaw, Poland",
+    "Lisbon, Portugal",
+    "Bucharest, Romania",
+    "Prague, Czech Republic",
+    "Zug, Switzerland",
+    "San Diego, California, USA",
+    "Montreal, Quebec, Canada"
+  ],
+  "Ajinomoto": [
+    "Tokyo, Japan (Headquarters)",
+    "Fort Lee, New Jersey, USA",
+    "Itasca, Illinois, USA",
+    "Raleigh, North Carolina, USA",
+    "Los Angeles, California, USA",
+    "Mexico City, Mexico",
+    "São Paulo, Brazil",
+    "Lima, Peru",
+    "Buenos Aires, Argentina",
+    "Bogotá, Colombia",
+    "Paris, France",
+    "Hamburg, Germany",
+    "London, UK",
+    "Milan, Italy",
+    "Madrid, Spain",
+    "Warsaw, Poland",
+    "Moscow, Russia",
+    "Istanbul, Turkey",
+    "Bangkok, Thailand",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Singapore",
+    "Hanoi, Vietnam",
+    "Manila, Philippines",
+    "Beijing, China",
+    "Shanghai, China",
+    "Guangzhou, China",
+    "Hong Kong, China",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Mumbai, India",
+    "Sydney, Australia",
+    "Cairo, Egypt",
+    "Lagos, Nigeria"
+  ],
+  "Ajinomoto Corporate Venture Capital": [
+    "Operates within Ajinomoto's global network, primarily from Tokyo, Japan (headquarters)"
+  ],
+  "Akadeum Life Sciences, Inc.": [
+    "2350 Green Road, Suite 100, Ann Arbor, MI 48105, USA"
+  ],
+  "Albion VC": [
+    "17-19 Cockspur Street, London, SW1Y 5BL, UK"
+  ],
+  "AlbionVC": [
+    "17-19 Cockspur Street, London, SW1Y 5BL, UK"
+  ],
+  "Aleon Pharma International, Inc.": [
+    "105 South Columbia Street, Chapel Hill, NC 27514, USA"
+  ],
+  "Alerce Investment Management": [
+    "Av. Apoquindo 3000, Oficina 501, Las Condes, Santiago, Chile"
+  ],
+  "Alessa Therapeutics, Inc.": [
+    "One Kendall Square, Building 100, Suite B112, Cambridge, MA 02139, USA"
+  ],
+  "Algen": [
+    "Via Dell'Artigianato, 16, 40016 San Giorgio di Piano BO, Italy"
+  ],
+  "Algok Bio Inc.": [
+    "Daejeon Techno Park, Techno Building B, Room B410, 292, Dunsan-ro, Seo-gu, Daejeon, Republic of Korea"
+  ],
+  "Alignment Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "Alkapharmics SARL": [
+    "Avenue du Vert Chasseur 38 B, 1332 Genval, Belgium"
+  ]
+}
+```
+```json
+{
+  "Allegro": [
+    "Irvine, CA, USA"
+  ],
+  "Allele Capital Partners, LLC": [
+    "San Francisco, CA, USA"
+  ],
+  "Allez Health Inc.": [
+    "San Francisco, CA, USA"
+  ],
+  "Alliance for Regenerative Medicine": [
+    "Washington, DC, USA",
+    "London, UK",
+    "Brussels, Belgium",
+    "Tokyo, Japan"
+  ],
+  "Alliance for mRNA Medicines": [
+    "Washington, DC, USA"
+  ],
+  "AllosteRx Capital Management": [
+    "Boston, MA, USA"
+  ],
+  "Alloy Therapeutics": [
+    "Boston, MA, USA",
+    "Chapel Hill, NC, USA",
+    "Athens, GA, USA",
+    "Basel, Switzerland",
+    "Cambridge, UK"
+  ],
+  "Ally Bridge Group": [
+    "New York, NY, USA",
+    "Hong Kong",
+    "Shanghai, China"
+  ],
+  "Aloe Therapeutics, Inc": [
+    "Irvine, CA, USA"
+  ],
+  "Alpha Bioventure LLC": [
+    "Seoul, South Korea"
+  ],
+  "AlphaLife Sciences Group": [
+    "New York, NY, USA"
+  ],
+  "AlphaMol Science AG": [
+    "Zug, Switzerland",
+    "Zurich, Switzerland",
+    "Shanghai, China"
+  ],
+  "Alphyn Biologics, Inc.": [
+    "Jupiter, FL, USA",
+    "Philadelphia, PA, USA"
+  ],
+  "Alpina Biotechnology": [
+    "Cambridge, MA, USA"
+  ],
+  "AltMedical Ltd.,Co.": [
+    "Bangkok, Thailand"
+  ],
+  "Altis Biosystems": [
+    "Chapel Hill, NC, USA"
+  ],
+  "Altius Bioventures": [
+    "London, UK"
+  ],
+  "Altpep Corporation": [
+    "Tokyo, Japan"
+  ],
+  "Alveolus Bio": [
+    "San Francisco, CA, USA"
+  ],
+  "Alyea Therapeutics": [
+    "Boston, MA, USA"
+  ]
+}
+```
+```json
+{
+  "Alzheimers Drug Discovery Foundation": [
+    "New York, NY, USA"
+  ],
+  "AmacaThera Inc.": [
+    "London, ON, Canada"
+  ],
+  "Amadix": [
+    "Valladolid, Spain",
+    "Madrid, Spain"
+  ],
+  "Amarna Therapeutics BV": [
+    "Leiden, Netherlands"
+  ],
+  "Amaro Therapeutics, Inc.": [
+    "Lexington, MA, USA"
+  ],
+  "Amivas Inc": [
+    "Rockville, MD, USA"
+  ],
+  "Amplitude Ventures": [
+    "Montreal, QC, Canada",
+    "Vancouver, BC, Canada",
+    "Toronto, ON, Canada"
+  ],
+  "Ananda Immunotherapies": [
+    "Barcelona, Spain"
+  ],
+  "Anaxis Pharma": [
+    "Paris, France"
+  ],
+  "Andera partners": [
+    "Paris, France",
+    "London, UK"
+  ],
+  "Angel Investor": [
+    "N/A"
+  ],
+  "Angelini Ventures": [
+    "Rome, Italy"
+  ],
+  "Angiex Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "Angiotensin Therapeutics": [
+    "N/A"
+  ],
+  "Anodyne Nanotech, Inc.": [
+    "Dallas, TX, USA"
+  ],
+  "Antiverse": [
+    "Cardiff, UK"
+  ],
+  "AnuBio": [
+    "Dublin, Ireland"
+  ],
+  "Apeiron Investment Group - Elevat3 Capital": [
+    "Limassol, Cyprus"
+  ],
+  "Apis Health Angels": [
+    "Switzerland"
+  ],
+  "ApoStrata, LLC": [
+    "Chapel Hill, NC, USA"
+  ]
+}
+```
+```json
+{
+  "Apollo Health Ventures": [
+    "Berlin, Germany",
+    "Boston, USA"
+  ],
+  "AptaBio Therapeutics Inc": [
+    "Gyeonggi-do, South Korea"
+  ],
+  "Aqilion AB": [
+    "Lund, Sweden"
+  ],
+  "Aqua Partners LLC": [
+    "New York, USA"
+  ],
+  "Aqualung Therapeutics, Corp.": [
+    "Tucson, Arizona, USA"
+  ],
+  "Aquillius Ventures": [
+    "Boston, USA"
+  ],
+  "Arc Bio Communications": [
+    "San Diego, California, USA"
+  ],
+  "Argentum Peak": [
+    "Boston, USA"
+  ],
+  "ArgoBio Studio": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Arog Pharmaceuticals, Inc.": [
+    "Las Vegas, Nevada, USA"
+  ],
+  "Arovella Therapeutics": [
+    "Melbourne, Australia"
+  ],
+  "Arrowfield Capital": [
+    "Boston, Massachusetts, USA"
+  ],
+  "Artery Therapeutics, Inc.": [
+    "Newark, California, USA"
+  ],
+  "Artiman Ventures": [
+    "Palo Alto, California, USA"
+  ],
+  "Artin Bioscience": [
+    "New Delhi, India"
+  ],
+  "Aruna Bio": [
+    "Athens, Georgia, USA"
+  ],
+  "Asabys Partners": [
+    "Barcelona, Spain"
+  ],
+  "Asahi Kasei Pharma Corporation": [
+    "Tokyo, Japan",
+    "Kawasaki, Japan",
+    "Fuji, Japan",
+    "Ibaraki, Japan",
+    "London, UK",
+    "Düsseldorf, Germany",
+    "New York, USA"
+  ],
+  "Asahi Kasei Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "Ascendia Pharmaceutical Solutions": [
+    "North Brunswick, New Jersey, USA"
+  ]
+}
+```
+```json
+{
+  "Ascendiant Capital Fund, LP": [
+    "Irvine, CA, USA",
+    "New York, NY, USA"
+  ],
+  "Ascension Ventures": [
+    "St. Louis, MO, USA"
+  ],
+  "Aspect Biosystems": [
+    "Vancouver, BC, Canada"
+  ],
+  "Aspiro Therapeutics, Inc.": [
+    "No current public office locations found (historically associated with Santa Monica, CA, USA)"
+  ],
+  "Astellas Pharma": [
+    "Tokyo, Japan (Global HQ)",
+    "Northbrook, IL, USA (US HQ)",
+    "London, UK (EMEA HQ)",
+    "Singapore (Asia/Oceania HQ)",
+    "Tsukuba, Japan (Research)",
+    "Westborough, MA, USA",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "Markham, ON, Canada",
+    "Sydney, Australia",
+    "Munich, Germany",
+    "Paris, France",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Beijing, China",
+    "Shanghai, China"
+  ],
+  "Astellas Venture Management LLC": [
+    "South San Francisco, CA, USA",
+    "Tokyo, Japan"
+  ],
+  "Astex Pharmaceuticals": [
+    "Pleasanton, CA, USA",
+    "Cambridge, UK"
+  ],
+  "AstriVax": [
+    "Leuven, Belgium"
+  ],
+  "Astrizi Bio": [
+    "Boston, MA, USA"
+  ],
+  "Astrocyte Pharmaceuticals": [
+    "Southborough, MA, USA"
+  ],
+  "Asymchem Clinical": [
+    "Tianjin, China (HQ of Asymchem Group)",
+    "TEDA, China",
+    "Shanghai, China",
+    "Beijing, China",
+    "Shenyang, China",
+    "Morrisville, NC, USA",
+    "Boston, MA, USA",
+    "San Francisco, CA, USA",
+    "The Woodlands, TX, USA",
+    "Basel, Switzerland",
+    "Copenhagen, Denmark"
+  ],
+  "Asymchem Group": [
+    "Tianjin, China (HQ)",
+    "TEDA, China",
+    "Shanghai, China",
+    "Beijing, China",
+    "Shenyang, China",
+    "Morrisville, NC, USA",
+    "Boston, MA, USA",
+    "San Francisco, CA, USA",
+    "The Woodlands, TX, USA",
+    "Basel, Switzerland",
+    "Copenhagen, Denmark"
+  ],
+  "AthenaDAO": [
+    "No physical office locations (Decentralized/Remote organization)"
+  ],
+  "Atheneos Ventures": [
+    "Cambridge, MA, USA"
+  ],
+  "Atheris": [
+    "Sherbrooke, Quebec, Canada"
+  ],
+  "Atlas Capital": [
+    "New York, NY, USA (Atlas Capital Group)",
+    "Los Angeles, CA, USA (Atlas Capital Group)"
+  ],
+  "Atom Bioworks": [
+    "Vancouver, BC, Canada"
+  ],
+  "Atombeat, a DP Technology Company": [
+    "Camarillo, CA, USA (DP Technology HQ)",
+    "Leonberg, Germany",
+    "Lyon, France",
+    "Milan, Italy",
+    "Warwick, UK",
+    "Yokohama, Japan",
+    "Shanghai, China",
+    "Bangalore, India",
+    "São Paulo, Brazil"
+  ],
+  "Atomic Striper LLC": [
+    "No public physical office locations found (likely small/home-based business)"
+  ],
+  "Aurealis Therapeutics": [
+    "Basel, Switzerland (HQ)",
+    "Kuopio, Finland"
+  ]
+}
+```
+```json
+{
+  "Aureka Biotechnologies, Inc.": [
+    "Pune, India"
+  ],
+  "Aurigene Oncology Limited": [
+    "Bengaluru, India",
+    "Hyderabad, India",
+    "Waltham, MA, USA"
+  ],
+  "AurorA Science": [
+    "San Diego, CA, USA",
+    "Boston, MA, USA",
+    "Basel, Switzerland"
+  ],
+  "AustinPx LLC": [
+    "Austin, TX, USA"
+  ],
+  "Autobio Diagnostics (Invitro Diagnostics)": [
+    "Zhengzhou, Henan, China",
+    "Shanghai, China"
+  ],
+  "Autoimmunity BioSolutions": [
+    "San Carlos, CA, USA"
+  ],
+  "Avance Clinical": [
+    "Adelaide, SA, Australia",
+    "Melbourne, VIC, Australia",
+    "Brisbane, QLD, Australia",
+    "Sydney, NSW, Australia",
+    "Perth, WA, Australia",
+    "Auckland, New Zealand",
+    "Singapore",
+    "Seoul, South Korea",
+    "Kuala Lumpur, Malaysia",
+    "Taipei, Taiwan",
+    "Bangkok, Thailand",
+    "Manila, Philippines"
+  ],
+  "Avant Bio II": [
+    "South San Francisco, CA, USA"
+  ],
+  "Avata Biosciences": [
+    "Menlo Park, CA, USA"
+  ],
+  "Avecris Pte. Ltd.": [
+    "Singapore"
+  ],
+  "Avectas": [
+    "Dublin, Ireland"
+  ],
+  "Avego": [
+    "Cork, Ireland",
+    "Redwood City, CA, USA"
+  ],
+  "AviadoBio": [
+    "London, UK",
+    "Boston, MA, USA"
+  ],
+  "Avidity Biosciences": [
+    "La Jolla, CA, USA"
+  ],
+  "Avistone Biotechnology": [
+    "Shanghai, China",
+    "Boston, MA, USA"
+  ],
+  "Avobis Bio": [
+    "St. Louis, MO, USA"
+  ],
+  "Awen GmbH": [
+    "Munich, Germany"
+  ],
+  "Axcynsis Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Axil Capital Advisors": [
+    "New York, NY, USA"
+  ],
+  "Ayass Bioscience LLC": [
+    "Frisco, TX, USA"
+  ]
+}
+```
+```json
+{
+  "Ayuvant Inc.": [
+    "Boston, MA, USA"
+  ],
+  "Azitra, Inc.": [
+    "Branford, CT, USA"
+  ],
+  "B3ARTX": [
+    "New York, NY, USA"
+  ],
+  "B3ar Therapeutics": [
+    "New York, NY, USA"
+  ],
+  "BERNINA BioInvest": [
+    "Steinhausen, Switzerland"
+  ],
+  "BIAL": [
+    "S. Mamede do Coronado, Portugal",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Frankfurt, Germany",
+    "London, UK"
+  ],
+  "BIO": [
+    "Washington, D.C., USA"
+  ],
+  "BIO KOREA Organizing Committee": [
+    "Seoul, South Korea"
+  ],
+  "BIOLIGHT Life Sciences Ltd.": [
+    "Netanya, Israel"
+  ],
+  "BIOTECanada": [
+    "Ottawa, ON, Canada"
+  ],
+  "BKW Partners": [
+    "San Francisco, CA, USA"
+  ],
+  "BNC Korea Co., Ltd.": [
+    "Daegu, South Korea"
+  ],
+  "BOHE Angel Fund": [
+    "Beijing, China"
+  ],
+  "BOLD Capital Partners": [
+    "Newport Beach, CA, USA"
+  ],
+  "BRESLIN AG": [
+    "Baar, Switzerland"
+  ],
+  "BROTHERS Partners Europe": [
+    "London, UK"
+  ],
+  "BTB Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "BVCF": [
+    "Shanghai, China"
+  ],
+  "Bachem": [
+    "Bubendorf, Switzerland",
+    "Vionnaz, Switzerland",
+    "Torrance, CA, USA",
+    "Vista, CA, USA",
+    "St. Helens, UK",
+    "Saffron Walden, UK",
+    "Weil am Rhein, Germany"
+  ],
+  "Backed VC": [
+    "London, UK"
+  ]
+}
+```
+```json
+{
+  "BairesDev": [
+    "San Francisco, California, USA",
+    "New York, New York, USA",
+    "London, UK",
+    "Madrid, Spain",
+    "Buenos Aires, Argentina",
+    "Montevideo, Uruguay",
+    "Mexico City, Mexico",
+    "São Paulo, Brazil",
+    "Bogotá, Colombia",
+    "San José, Costa Rica"
+  ],
+  "Baiya Phytopharm. Co., Ltd.": [
+    "Beijing, China"
+  ],
+  "Band of Angels": [
+    "Silicon Valley, California, USA"
+  ],
+  "Banook / Keosys": [
+    "Nancy, France",
+    "Paris, France",
+    "Montreal, Canada",
+    "New York, New York, USA",
+    "London, UK",
+    "Mannheim, Germany"
+  ],
+  "Barcode Nanotech": [
+    "Rockville, Maryland, USA"
+  ],
+  "Barings": [
+    "Charlotte, North Carolina, USA",
+    "Boston, Massachusetts, USA",
+    "New York, New York, USA",
+    "London, UK",
+    "Dublin, Ireland",
+    "Frankfurt, Germany",
+    "Luxembourg City, Luxembourg",
+    "Milan, Italy",
+    "Paris, France",
+    "Singapore",
+    "Hong Kong",
+    "Tokyo, Japan",
+    "Sydney, Australia"
+  ],
+  "Barrington Angels": [
+    "Barrington, Illinois, USA"
+  ],
+  "Barrington James": [
+    "Horley, UK",
+    "London, UK",
+    "New York, New York, USA",
+    "San Diego, California, USA",
+    "Miami, Florida, USA",
+    "Frankfurt, Germany",
+    "Singapore",
+    "Tokyo, Japan",
+    "Suzhou, China",
+    "Basel, Switzerland",
+    "Zürich, Switzerland"
+  ],
+  "BayMed Venture Partners": [
+    "San Francisco, California, USA"
+  ],
+  "Bayer": [
+    "Leverkusen, Germany",
+    "Whippany, New Jersey, USA",
+    "Berlin, Germany",
+    "São Paulo, Brazil",
+    "Shanghai, China",
+    "Tokyo, Japan"
+  ],
+  "Bayland Capital": [
+    "Oakland, California, USA"
+  ],
+  "Baylink Biosciences": [
+    "Hayward, California, USA"
+  ],
+  "Bectas Therapeutics Inc.": [
+    "Boston, Massachusetts, USA"
+  ],
+  "Bee Connected Group": [
+    "London, UK"
+  ],
+  "Beech Biotech SA": [
+    "Buenos Aires, Argentina"
+  ],
+  "Beijing CorreGene Biotechnology Co., Ltd": [
+    "Beijing, China"
+  ],
+  "Beijing Inno Medicine Co., Ltd.": [
+    "Beijing, China"
+  ],
+  "Belgian Trade Commission (AWEX)": [
+    "Brussels, Belgium",
+    "New York, New York, USA",
+    "London, UK",
+    "Paris, France",
+    "Berlin, Germany",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "São Paulo, Brazil"
+  ],
+  "Ben Franklin Technology Partners of Southeastern PA": [
+    "Philadelphia, Pennsylvania, USA"
+  ],
+  "Benzinga": [
+    "Detroit, Michigan, USA"
+  ]
+}
+```
+```json
+{
+  "Berkeley Angel Network": [
+    "Berkeley, California, USA"
+  ],
+  "Betawave Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "Bexion Pharmaceuticals, Inc.": [
+    "Covington, Kentucky, USA"
+  ],
+  "Beyond Next Ventures Inc.": [
+    "Tokyo, Japan"
+  ],
+  "BeyondBridge&Co. Pte. Ltd": [
+    "Singapore"
+  ],
+  "Bi -Path Bio": [
+    "Houston, Texas, USA"
+  ],
+  "Big4Bio": [
+    "San Francisco Bay Area, California, USA"
+  ],
+  "Bill and Melinda Gates Foundation": [
+    "Seattle, Washington, USA",
+    "Washington D.C., USA",
+    "London, UK",
+    "Beijing, China",
+    "Delhi, India"
+  ],
+  "Binhui Biopharmaceutical Co., Ltd": [
+    "Zhengzhou, China"
+  ],
+  "Bio 9 Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "Bio Capital Impact Fund": [
+    "London, UK"
+  ],
+  "BioCentury": [
+    "Palo Alto, California, USA",
+    "Washington D.C., USA",
+    "London, UK"
+  ],
+  "BioCina": [
+    "Adelaide, South Australia, Australia"
+  ],
+  "BioDuro -Sundia": [
+    "San Diego, California, USA",
+    "Princeton, New Jersey, USA",
+    "Shanghai, China",
+    "Beijing, China",
+    "Wuhan, China",
+    "Guangzhou, China",
+    "Chengdu, China",
+    "Chongqing, China",
+    "Harbin, China",
+    "Changsha, China"
+  ],
+  "BioGlobal Consulting Group": [
+    "San Francisco, California, USA",
+    "Foster City, California, USA"
+  ],
+  "BioIdeations": [
+    "Princeton, New Jersey, USA"
+  ],
+  "BioInvest": [
+    "Milan, Italy"
+  ],
+  "BioLizard": [
+    "Ghent, Belgium",
+    "Basel, Switzerland"
+  ],
+  "BioNJ": [
+    "Trenton, New Jersey, USA"
+  ],
+  "BioNova Pharmaceuticals Ltd.": [
+    "Taipei, Taiwan"
+  ]
+}
+```
+```json
+{
+  "BioPharm Strategy": [
+    "Boston, MA, USA"
+  ],
+  "BioPharma Connections LLC": [
+    "West Chester, PA, USA"
+  ],
+  "BioPharma Dive": [
+    "Washington, D.C., USA"
+  ],
+  "BioPharmaceuticals Consulting Group": [
+    "San Diego, CA, USA"
+  ],
+  "BioResearchAI. Co.,Ltd.": [
+    "Seoul, Republic of Korea"
+  ],
+  "BioRock Ventures": [
+    "Cambridge, MA, USA"
+  ],
+  "BioSingularity Institute / BioSingularity Ventures": [
+    "Cambridge, MA, USA",
+    "Barcelona, Spain"
+  ],
+  "BioSpace": [
+    "San Francisco, CA, USA"
+  ],
+  "BioStem Technologies": [
+    "Sunrise, FL, USA"
+  ],
+  "BioStock": [
+    "Lund, Sweden"
+  ],
+  "BioStrategies LC": [
+    "Salt Lake City, UT, USA"
+  ],
+  "BioSuperior Technology, Inc.": [
+    "Shenzhen, China"
+  ],
+  "BioTools Innovator": [
+    "Los Angeles, CA, USA"
+  ],
+  "BioWorld": [
+    "London, UK"
+  ],
+  "Bioarchitech Ltd": [
+    "Dundee, Scotland, UK"
+  ],
+  "Bioceptive Holdings (BHLS)": [
+    "Research Triangle Park, NC, USA"
+  ],
+  "Biocom": [
+    "San Diego, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Francisco Bay Area, CA, USA",
+    "Sacramento, CA, USA",
+    "Tokyo, Japan"
+  ],
+  "Biocytogen Pharmaceuticals": [
+    "Beijing, China",
+    "East Walpole, MA, USA",
+    "Germany",
+    "Australia"
+  ],
+  "Bioidea Group": [
+    "Buenos Aires, Argentina"
+  ],
+  "Biolabs -NYULangone": [
+    "New York, NY, USA"
+  ]
+}
+```
+```json
+{
+  "Biomia": [
+    "Milan, Italy"
+  ],
+  "Biomica": [
+    "London, UK"
+  ],
+  "Biomissile Pharmaceuticals": [
+    "San Francisco, CA, USA"
+  ],
+  "Biorelate": [
+    "Manchester, UK"
+  ],
+  "Biorevert Inc": [
+    "New York, NY, USA"
+  ],
+  "Bios Partners": [
+    "Fort Worth, TX, USA"
+  ],
+  "Bioscience Equity Partners S.A": [
+    "Geneva, Switzerland"
+  ],
+  "Bioscience Navigators Global LLC": [
+    "Washington, DC, USA"
+  ],
+  "Biosolution": [
+    "Seoul, South Korea"
+  ],
+  "Biotech Mountains BV": [
+    "Maastricht, Netherlands"
+  ],
+  "BiotechExec": [
+    "Carlsbad, CA, USA"
+  ],
+  "BiotechTV": [
+    "San Carlos, CA, USA"
+  ],
+  "Biotechnology Innovation Organization (BIO)": [
+    "Washington, DC, USA"
+  ],
+  "Biotts SA": [
+    "Wrocław, Poland"
+  ],
+  "Bioverge Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Bioviida Venture Studio": [
+    "Helsinki, Finland"
+  ],
+  "Biovision Ventures": [
+    "Palo Alto, CA, USA"
+  ],
+  "Black Opal Ventures": [
+    "New York, NY, USA"
+  ],
+  "Blackhawk Innovation": [
+    "Boulder, CO, USA"
+  ],
+  "Blanver": [
+    "Cotia, São Paulo, Brazil"
+  ]
+}
+```
+```json
+{
+  "Bloomberg News": [
+    "New York, USA",
+    "London, UK",
+    "Tokyo, Japan",
+    "Singapore",
+    "Hong Kong",
+    "Dubai, UAE",
+    "Frankfurt, Germany",
+    "San Francisco, USA",
+    "Washington D.C., USA",
+    "Mumbai, India"
+  ],
+  "Blue Goose Capital": [
+    "New York, USA"
+  ],
+  "BlueOx Healthcare Partners": [
+    "Minneapolis, USA"
+  ],
+  "Bluepoint Partners": [
+    "New York, USA",
+    "Greenwich, USA"
+  ],
+  "Bluestar Investment Managers": [
+    "Cape Town, South Africa",
+    "Johannesburg, South Africa"
+  ],
+  "BobcatBio": [
+    "New York, USA"
+  ],
+  "Boom Capital": [
+    "San Francisco, USA"
+  ],
+  "Borealis Biosciences, Inc.": [
+    "Boston, USA"
+  ],
+  "Boryung Corp.": [
+    "Seoul, South Korea",
+    "Boston, USA",
+    "Plano, USA",
+    "Huntsville, USA"
+  ],
+  "Boston Harbor Angels": [
+    "Boston, USA"
+  ],
+  "BoxOne Ventures": [
+    "New York, USA"
+  ],
+  "Bpifrance - Life Sciences VC": [
+    "Paris, France"
+  ],
+  "Brabant Development Agency (BOM)": [
+    "Den Bosch, Netherlands"
+  ],
+  "Brace Pharma Capital": [
+    "New York, USA"
+  ],
+  "BrainScope Company, Inc.": [
+    "Bethesda, USA"
+  ],
+  "Braingels": [
+    "Barcelona, Spain"
+  ],
+  "Brainify.ai": [
+    "London, UK"
+  ],
+  "Brandon Capital": [
+    "Melbourne, Australia",
+    "Sydney, Australia",
+    "London, UK",
+    "Auckland, New Zealand",
+    "Palo Alto, USA"
+  ],
+  "Brazen Capital": [
+    "Miami, USA"
+  ],
+  "Breakpoint Therapeutics GmbH": [
+    "Munich, Germany"
+  ]
+}
+```
+```json
+{
+  "BreakthroughT1D": [
+    "New York, NY, USA",
+    "Numerous regional offices worldwide (e.g., Washington D.C., Boston, Chicago, Los Angeles, Dallas, Atlanta, and international chapters)"
+  ],
+  "Brenus Pharma": [
+    "Boulogne-Billancourt, France",
+    "Boston, MA, USA"
+  ],
+  "BriaCell Therapeutics Corp.": [
+    "Vancouver, BC, Canada",
+    "Berkeley, CA, USA"
+  ],
+  "Bridge Link Capital": [
+    "Palo Alto, CA, USA"
+  ],
+  "Bridgewest Group": [
+    "La Jolla, CA, USA"
+  ],
+  "Bridgewest Ventures": [
+    "La Jolla, CA, USA"
+  ],
+  "BrightEdge - American Cancer Society": [
+    "Atlanta, GA, USA"
+  ],
+  "BrightPath Bio": [
+    "Brisbane, QLD, Australia"
+  ],
+  "BrilliantStrings Therapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "Broad Street Angels": [
+    "Philadelphia, PA, USA"
+  ],
+  "Brookline Capital Markets": [
+    "New York, NY, USA"
+  ],
+  "Buck Institute": [
+    "Novato, CA, USA"
+  ],
+  "Builders VC": [
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA"
+  ],
+  "BullFrog AI": [
+    "Frederick, MD, USA"
+  ],
+  "ButoBeiwe": [],
+  "C4U Corporation": [
+    "Tokyo, Japan"
+  ],
+  "CABHI Ventures": [
+    "Toronto, ON, Canada"
+  ],
+  "CARTx Therapeutics": [
+    "Brisbane, QLD, Australia"
+  ],
+  "CBC": [
+    "Singapore",
+    "Shanghai, China",
+    "Beijing, China",
+    "New York, NY, USA"
+  ],
+  "CBCC Family Office": []
+}
+```
+```json
+{
+  "CCRM Enterprises Inc.": [
+    "Toronto, Canada"
+  ],
+  "CD Capital": [
+    "London, UK"
+  ],
+  "CDIB Capital Healthcare Ventures II L.P.": [
+    "Taipei, Taiwan",
+    "Shanghai, China",
+    "Hong Kong",
+    "Singapore",
+    "Seoul, South Korea"
+  ],
+  "CELLeBRAIN": [
+    "Cambridge, MA, USA"
+  ],
+  "CEPI": [
+    "Oslo, Norway",
+    "London, UK",
+    "Washington D.C., USA"
+  ],
+  "CG Life": [
+    "Chicago, IL, USA",
+    "San Diego, CA, USA",
+    "Washington D.C., USA",
+    "Boston, MA, USA",
+    "Raleigh, NC, USA"
+  ],
+  "CLI Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "CLSA Capital Partners": [
+    "Hong Kong",
+    "Singapore",
+    "London, UK",
+    "New York, NY, USA",
+    "Sydney, Australia",
+    "Tokyo, Japan"
+  ],
+  "CMAX Clinical Research": [
+    "Adelaide, Australia",
+    "Brisbane, Australia"
+  ],
+  "CNCure Co., Ltd.": [
+    "Seoul, South Korea"
+  ],
+  "CPC Scientific": [
+    "San Jose, CA, USA",
+    "Suzhou, China"
+  ],
+  "CR Ventures": [
+    "Boston, MA, USA"
+  ],
+  "CRB Health Tech": [
+    "St. Louis, MO, USA",
+    "San Diego, CA, USA",
+    "Boston, MA, USA",
+    "Research Triangle Park, NC, USA",
+    "Dublin, Ireland",
+    "Basel, Switzerland"
+  ],
+  "CRISPR QC, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "CRS clinical research": [
+    "Bochum, Germany",
+    "Mannheim, Germany",
+    "Berlin, Germany"
+  ],
+  "CS Genetics": [
+    "San Francisco, CA, USA"
+  ],
+  "CT Innovations": [
+    "Rocky Hill, CT, USA"
+  ],
+  "CTFH": [
+    "Hong Kong"
+  ],
+  "CTI Clinical Research and Consulting": [
+    "Covington, KY, USA",
+    "London, UK",
+    "Tokyo, Japan",
+    "Paris, France"
+  ],
+  "California Biomanufacturing Center": [
+    "Sacramento, CA, USA"
+  ]
+}
+```
+```json
+{
+  "California Israel Chamber of Commerce": [
+    "San Francisco Bay Area, California, USA"
+  ],
+  "Calvine Partners LLP": [
+    "London, UK"
+  ],
+  "Cambrian Growth Partners": [
+    "San Francisco, California, USA"
+  ],
+  "Camino Science": [
+    "San Francisco, California, USA"
+  ],
+  "Cancer Research Horizons": [
+    "London, UK",
+    "Cambridge, UK",
+    "Manchester, UK",
+    "Glasgow, UK"
+  ],
+  "CancerVax, Inc.": [
+    "Carlsbad, California, USA"
+  ],
+  "Cantex Pharmaceuticals": [
+    "Horsham, Pennsylvania, USA"
+  ],
+  "Cantilever Investors": [
+    "San Francisco, California, USA"
+  ],
+  "Capital BioVentures": [
+    "Bethesda, Maryland, USA"
+  ],
+  "Capital Global Partners": [
+    "London, UK"
+  ],
+  "Capital One": [
+    "McLean, Virginia, USA",
+    "Richmond, Virginia, USA",
+    "Plano, Texas, USA",
+    "New York, New York, USA",
+    "San Francisco, California, USA",
+    "Chicago, Illinois, USA",
+    "Washington D.C., USA",
+    "Hyderabad, India",
+    "Bengaluru, India",
+    "Toronto, Canada",
+    "London, UK"
+  ],
+  "Carbon Wave, Inc": [
+    "Irvine, California, USA"
+  ],
+  "Cardiac Wire": [
+    "Austin, Texas, USA"
+  ],
+  "Carina Biotech": [
+    "Adelaide, Australia"
+  ],
+  "Carl Zeiss Microscopy, LLC": [
+    "Pleasanton, California, USA"
+  ],
+  "Carroll & Morrisette Consulting LLC": [
+    "Alexandria, Virginia, USA"
+  ],
+  "Cascade Pharmaceutics": [
+    "Seattle, Washington, USA"
+  ],
+  "Catalent Pharma Solutions": [
+    "Somerset, New Jersey, USA",
+    "Bloomington, Indiana, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "Schorndorf, Germany",
+    "Anagni, Italy",
+    "Brussels, Belgium",
+    "Shanghai, China",
+    "Bathgate, Scotland, UK"
+  ],
+  "Catalyst Healthcare Consulting": [
+    "Raleigh, North Carolina, USA"
+  ],
+  "Catalytic Impact Foundation": [
+    "Alexandria, Virginia, USA"
+  ]
+}
+```
+```json
+{
+  "Cathay Capital": [
+    "Paris, France",
+    "Shanghai, China",
+    "Beijing, China",
+    "New York, New York, USA",
+    "San Francisco, California, USA",
+    "Munich, Germany",
+    "Singapore"
+  ],
+  "Cbio A/S": [
+    "Copenhagen, Denmark"
+  ],
+  "Cell and Gene Therapy Catapult": [
+    "London, UK",
+    "Stevenage, UK",
+    "Edinburgh, UK"
+  ],
+  "CellARTs": [
+    "Munich, Germany"
+  ],
+  "CellFE Inc.": [
+    "Berkeley, California, USA"
+  ],
+  "Cellectar Biosciences Inc.": [
+    "Madison, Wisconsin, USA"
+  ],
+  "Cellergy Pharma Inc.": [
+    "Tel Aviv, Israel"
+  ],
+  "Cellevate AB": [
+    "Lund, Sweden"
+  ],
+  "Cellino": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Cellis AG": [
+    "Zürich, Switzerland"
+  ],
+  "CelluGenix": [
+    "Stockholm, Sweden"
+  ],
+  "Cellxlife": [
+    "Singapore"
+  ],
+  "Cenos Therapeutics": [
+    "San Francisco, California, USA"
+  ],
+  "Cenyx Biotech Inc.": [
+    "Boston, Massachusetts, USA"
+  ],
+  "CereCura Nanotherapeutics Inc.": [
+    "New York, New York, USA"
+  ],
+  "Cereno Scientific": [
+    "Gothenburg, Sweden"
+  ],
+  "Certa Therapeutics": [
+    "Melbourne, Australia"
+  ],
+  "Certara": [
+    "Princeton, New Jersey, USA",
+    "Parsippany, New Jersey, USA",
+    "San Diego, California, USA",
+    "Raleigh, North Carolina, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "Boston, Massachusetts, USA",
+    "San Francisco, California, USA",
+    "Lexington, Kentucky, USA",
+    "Washington D.C., USA",
+    "Dallas, Texas, USA",
+    "Tampa, Florida, USA",
+    "Phoenix, Arizona, USA",
+    "Sheffield, UK",
+    "London, UK",
+    "Cambridge, UK",
+    "Paris, France",
+    "Milan, Italy",
+    "Basel, Switzerland",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Berlin, Germany",
+    "Stockholm, Sweden",
+    "Utrecht, Netherlands",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Hyderabad, India",
+    "Sydney, Australia"
+  ],
+  "Certest Pharma": [
+    "Zaragoza, Spain"
+  ],
+  "Certified Genetool": [
+    "San Diego, California, USA"
+  ]
+}
+```
+```json
+{
+  "ChainGen Bio": [
+    "Seoul, South Korea"
+  ],
+  "Chardan": [
+    "New York, NY, USA",
+    "Miami, FL, USA"
+  ],
+  "Chariot Biosciences, Inc.": [
+    "Houston, TX, USA"
+  ],
+  "CheckOrphan": [
+    "Zug, Switzerland"
+  ],
+  "ChemLex Pte. Ltd.": [
+    "Singapore"
+  ],
+  "Chemical & Engineering News": [
+    "Washington, D.C., USA"
+  ],
+  "Chemical Angels Network": [
+    "Doylestown, PA, USA"
+  ],
+  "Chengdu Huajian Science Co., Ltd.": [
+    "Chengdu, China"
+  ],
+  "Chengdu Huitai Biomedicine Co., Ltd": [
+    "Chengdu, China"
+  ],
+  "Cheryl Rogers Consulting": [
+    "Boulder, CO, USA"
+  ],
+  "Chimeric Therapeutics Limited": [
+    "Melbourne, Australia",
+    "San Diego, CA, USA"
+  ],
+  "Chimeron Bio": [
+    "State College, PA, USA",
+    "San Diego, CA, USA"
+  ],
+  "Chordia Therapeutics Inc.": [
+    "Kashiwa, Chiba, Japan"
+  ],
+  "Chrysalis BioTherapeutics": [
+    "Galveston, TX, USA"
+  ],
+  "Cidara": [
+    "San Diego, CA, USA"
+  ],
+  "Cigma": [
+    "N/A - Company name too generic; specific biotech entity not identified without further context."
+  ],
+  "Cilcare": [
+    "Montpellier, France",
+    "Boston, MA, USA"
+  ],
+  "Cincinnati Children's Hospital": [
+    "Cincinnati, OH, USA"
+  ],
+  "CinoCore Health": [
+    "San Antonio, TX, USA"
+  ],
+  "Circio AB": [
+    "Oslo, Norway"
+  ]
+}
+```
+```json
+{
+  "Citeline": [
+    "New York, NY, United States",
+    "London, England, United Kingdom",
+    "Boston, MA, United States",
+    "Sheffield, England, United Kingdom",
+    "Tokyo, Japan"
+  ],
+  "Clairity": [
+    "San Diego, CA, United States"
+  ],
+  "Clarify Health": [
+    "San Francisco, CA, United States",
+    "New York, NY, United States",
+    "Houston, TX, United States",
+    "Cambridge, MA, United States",
+    "Seattle, WA, United States"
+  ],
+  "Clarivate Plc": [
+    "London, England, United Kingdom",
+    "Philadelphia, PA, United States",
+    "Boston, MA, United States",
+    "New York, NY, United States",
+    "San Francisco, CA, United States",
+    "Bangalore, India",
+    "Beijing, China",
+    "Singapore",
+    "Tokyo, Japan",
+    "Madrid, Spain"
+  ],
+  "Class Bravo Ventures": [
+    "San Diego, CA, United States"
+  ],
+  "Clear Street LLC": [
+    "New York, NY, United States",
+    "Dallas, TX, United States",
+    "London, England, United Kingdom",
+    "West Palm Beach, FL, United States"
+  ],
+  "Clearbridge Health Ltd": [
+    "Singapore",
+    "Hong Kong",
+    "Manila, Philippines",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Bangalore, India"
+  ],
+  "Cleveland Clinic Ventures": [
+    "Cleveland, OH, United States"
+  ],
+  "ClexBio": [
+    "Oslo, Norway"
+  ],
+  "Clexio Biosciences": [
+    "Dublin, Ireland",
+    "Lausanne, Switzerland"
+  ],
+  "Click Therapeutics": [
+    "New York, NY, United States"
+  ],
+  "Co -win Ventures": [
+    "Shanghai, China"
+  ],
+  "CoDevCo LLC": [
+    "Philadelphia, PA, United States"
+  ],
+  "Coagulant Therapeutics": [
+    "South San Francisco, CA, United States"
+  ],
+  "Code Biotherapeutics, Inc.": [
+    "King of Prussia, PA, United States"
+  ],
+  "Codon Capital": [
+    "San Francisco, CA, United States"
+  ],
+  "Cognito Therapeutics": [
+    "Cambridge, MA, United States"
+  ],
+  "Cohesion Bureau": [
+    "New York, NY, United States"
+  ],
+  "Coho VC": [
+    "New York, NY, United States"
+  ],
+  "Collaborative Drug Discovery": [
+    "Burlingame, CA, United States"
+  ]
+}
+```
+```json
+{
+  "Collage Venture Partners LLC": [
+    "New York, NY, USA",
+    "San Francisco, CA, USA"
+  ],
+  "Comac Medical": [
+    "Sofia, Bulgaria",
+    "Varna, Bulgaria",
+    "Skopje, North Macedonia",
+    "Belgrade, Serbia",
+    "Bucharest, Romania",
+    "Zagreb, Croatia",
+    "Ljubljana, Slovenia",
+    "Sarajevo, Bosnia and Herzegovina",
+    "Tirana, Albania",
+    "Pristina, Kosovo",
+    "Podgorica, Montenegro",
+    "Kyiv, Ukraine",
+    "Chișinău, Moldova",
+    "Tbilisi, Georgia",
+    "Yerevan, Armenia",
+    "Boston, MA, USA"
+  ],
+  "Combined Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Commercial Eyes, a PLG company": [
+    "Melbourne, VIC, Australia"
+  ],
+  "Company (Placeholder)": [
+    "N/A (No specific company or locations provided for this placeholder)"
+  ],
+  "Concept Bio": [
+    "New York, NY, USA"
+  ],
+  "Conform Medical": [
+    "San Diego, CA, USA"
+  ],
+  "Conner Strong & Buckelew": [
+    "Marlton, NJ, USA (Headquarters)",
+    "Philadelphia, PA, USA",
+    "Wilmington, DE, USA",
+    "New York, NY, USA",
+    "Stamford, CT, USA",
+    "Orlando, FL, USA",
+    "Fort Lauderdale, FL, USA",
+    "Atlanta, GA, USA",
+    "Boston, MA, USA"
+  ],
+  "Consulate General of Canada, San Francisco": [
+    "San Francisco, CA, USA"
+  ],
+  "Content Carnivores, LLC": [
+    "Denver, CO, USA"
+  ],
+  "Continuum Health Ventures": [
+    "New York, NY, USA"
+  ],
+  "Convergence Partners": [
+    "Johannesburg, South Africa",
+    "Ebene, Mauritius"
+  ],
+  "Cortado Ventures": [
+    "Oklahoma City, OK, USA"
+  ],
+  "Corundum Neuroscience": [
+    "No specific public physical office found, likely research-based or virtual"
+  ],
+  "Corundum Systems Biology": [
+    "No specific public physical office found, likely research-based or virtual"
+  ],
+  "Cosm Medical": [
+    "Toronto, ON, Canada"
+  ],
+  "Coval Biopharma Co., Ltd.": [
+    "Shanghai, China",
+    "Hong Kong, China"
+  ],
+  "Covenant Venture Capital": [
+    "Menlo Park, CA, USA"
+  ],
+  "Crimson Peak, LLC": [
+    "No specific public physical office found or difficult to identify without more context"
+  ],
+  "Cross -Border Impact Ventures": [
+    "Toronto, ON, Canada",
+    "London, UK"
+  ]
+}
+```
+```json
+{
+  "Cross Border Partners, LLC": [
+    "New York, NY"
+  ],
+  "Cross Pollinate Capital, LLC": [
+    "San Francisco, CA"
+  ],
+  "Crosswave Management Inc.": [
+    "New York, NY"
+  ],
+  "Cryoport Systems": [
+    "Irvine, CA",
+    "Houston, TX",
+    "Morris Plains, NJ",
+    "Leiden, Netherlands",
+    "Horsham, UK",
+    "Singapore",
+    "Osaka, Japan",
+    "Stuttgart, Germany",
+    "Paris, France",
+    "Dublin, Ireland",
+    "Manchester, UK"
+  ],
+  "Cryostasis Inc": [
+    "No easily verifiable public locations found for a current, distinct company with this name."
+  ],
+  "Cullgen Inc.": [
+    "San Diego, CA",
+    "Shanghai, China"
+  ],
+  "Cultivation Capital": [
+    "St. Louis, MO",
+    "Chicago, IL"
+  ],
+  "CuraFi": [
+    "San Diego, CA"
+  ],
+  "Curam Therapeutics": [
+    "Menlo Park, CA"
+  ],
+  "Cure.": [
+    "New York, NY"
+  ],
+  "CureDuchenne Ventures": [
+    "Newport Beach, CA"
+  ],
+  "CureLab Oncology": [
+    "Framingham, MA",
+    "Moscow, Russia"
+  ],
+  "CureMeta": [
+    "San Diego, CA"
+  ],
+  "Curia": [
+    "Albany, NY",
+    "Rensselaer, NY",
+    "Burlington, MA",
+    "Frederick, MD",
+    "Princeton, NJ",
+    "Cambridge, MA",
+    "Glasgow, Scotland, UK",
+    "Carlsbad, CA",
+    "Florence, SC",
+    "Indianapolis, IN",
+    "Cork, Ireland",
+    "Juncos, Puerto Rico",
+    "San Diego, CA"
+  ],
+  "Curie Capital": [
+    "New York, NY"
+  ],
+  "Curie.Bio": [
+    "San Francisco, CA",
+    "Boston, MA"
+  ],
+  "Curome Biosciences Co., Ltd.": [
+    "Seoul, South Korea"
+  ],
+  "Currus Biologics": [
+    "San Francisco, CA"
+  ],
+  "Custom Biologics": [
+    "Melbourne, FL"
+  ],
+  "Cuttlefish Communications": [
+    "Portland, OR"
+  ]
+}
+```
+```json
+{
+  "Cynata Therapeutics Ltd": [
+    "Melbourne, Australia"
+  ],
+  "Cyrus Therapeutics": [
+    "Chapel Hill, North Carolina, USA"
+  ],
+  "Cystic Fibrosis Foundation": [
+    "Bethesda, Maryland, USA"
+  ],
+  "Cytel Inc.": [
+    "Waltham, Massachusetts, USA",
+    "Pune, India",
+    "London, UK",
+    "Paris, France",
+    "Munich, Germany",
+    "Basel, Switzerland"
+  ],
+  "CytoSorbents Corporation": [
+    "Monmouth Junction, New Jersey, USA",
+    "Berlin, Germany"
+  ],
+  "Cytocares (Shanghai) Inc.": [
+    "Shanghai, China"
+  ],
+  "CytomX Therapeutics": [
+    "South San Francisco, California, USA"
+  ],
+  "Cytovance Biologics": [
+    "Oklahoma City, Oklahoma, USA"
+  ],
+  "DEL BioPharma LLC": [
+    "Princeton, New Jersey, USA"
+  ],
+  "DFB Pharmaceuticals": [
+    "Fort Worth, Texas, USA"
+  ],
+  "DJK BioConsult": [
+    "San Carlos, California, USA"
+  ],
+  "Daejoong Life Science": [
+    "Seoul, South Korea"
+  ],
+  "Daewoong Pharmaceutical": [
+    "Seoul, South Korea",
+    "Englewood Cliffs, New Jersey, USA",
+    "Jakarta, Indonesia",
+    "Shanghai, China"
+  ],
+  "Daiichi Sankyo, Inc.": [
+    "Basking Ridge, New Jersey, USA",
+    "Tokyo, Japan"
+  ],
+  "Danen capital": [
+    "Shanghai, China"
+  ],
+  "DavosPharma": [
+    "Bridgewater, New Jersey, USA"
+  ],
+  "De Montfort University": [
+    "Leicester, UK",
+    "Dubai, UAE"
+  ],
+  "DeBere Partners": [
+    "London, UK"
+  ],
+  "Debiopharm Innovation Fund SA": [
+    "Lausanne, Switzerland"
+  ],
+  "Decheng Capital": [
+    "Shanghai, China",
+    "Menlo Park, California, USA"
+  ]
+}
+```
+```json
+{
+  "DeepCure": [
+    "Boston, MA",
+    "Tel Aviv, Israel"
+  ],
+  "DeepWork Capital": [
+    "Orlando, FL"
+  ],
+  "Defand Therapeutics": [
+    "Cambridge, England, UK"
+  ],
+  "Defence Therapeutics Inc.": [
+    "Vancouver, Canada",
+    "Sherbrooke, Canada"
+  ],
+  "Degron Therapeutics": [
+    "Cambridge, MA"
+  ],
+  "Delian Capital": [
+    "New York, NY"
+  ],
+  "Delin Ventures Ltd": [
+    "London, UK"
+  ],
+  "Deliver Biosciences": [
+    "San Francisco Bay Area, CA"
+  ],
+  "Delos Capital": [
+    "New York, NY"
+  ],
+  "Delve Bio": [
+    "San Carlos, CA"
+  ],
+  "Demy -Colton": [
+    "New York, NY"
+  ],
+  "Denovo Biopharma LLC": [
+    "La Jolla, CA",
+    "Hangzhou, China"
+  ],
+  "Departure Capital": [
+    "San Francisco, CA"
+  ],
+  "Dermaliq Therapeutics Inc.": [
+    "Carlsbad, CA"
+  ],
+  "DiMe": [
+    "Boston, MA"
+  ],
+  "Diadem Biotherapeutics": [
+    "Copenhagen, Denmark"
+  ],
+  "Diakonos Oncology": [
+    "Austin, TX"
+  ],
+  "Dicot Pharma AB": [
+    "Uppsala, Sweden"
+  ],
+  "DigiLife, LLC": [],
+  "Digital Networks PLC": [
+    "London, UK"
+  ]
+}
+```
+```json
+{
+  "Digital Times Korea": [
+    "22, Sejong-daero 21-gil, Jung-gu, Seoul, South Korea",
+    "929, Sangmu-daero, Seo-gu, Gwangju, South Korea",
+    "90, Centum Jungang-ro, Haeundae-gu, Busan, South Korea",
+    "2336, Dalgubeol-daero, Suseong-gu, Daegu, South Korea",
+    "189, Daedeok-daero, Seo-gu, Daejeon, South Korea"
+  ],
+  "DigitalDx Ventures": [
+    "2360 Middlefield Rd, Suite 101, Redwood City, CA 94063, USA"
+  ],
+  "Dignify Therapeutics": [
+    "11100 Penny Rd., Raleigh, NC 27606, USA"
+  ],
+  "Dimericon Therapeutics AG": [
+    "Josef-Engert-Straße 13, 93053 Regensburg, Germany"
+  ],
+  "Diorasis Therapeutics Corporation": [
+    "1000 Massachusetts Ave, Cambridge, MA 02138, USA"
+  ],
+  "Divamics Inc.": [
+    "Irvine, CA, USA"
+  ],
+  "Dong -A ST": [
+    "20, Cheonho-daero, Dongdaemun-gu, Seoul, South Korea",
+    "580-1, Gyeonggi-daero, Giheung-gu, Yongin-si, Gyeonggi-do, South Korea",
+    "21, Sandan-ro, Seobuk-gu, Cheonan-si, Chungcheongnam-do, South Korea",
+    "198, Jijeong-gil, Cheongni-myeon, Sangju-si, Gyeongsangbuk-do, South Korea"
+  ],
+  "DoriNano": [
+    "3F, Seoul-TechOne Bldg., 141-11, Samseong-ro, Gangnam-gu, Seoul, South Korea"
+  ],
+  "Doron Therapeutics": [
+    "Ra'anana, Israel"
+  ],
+  "Double U Fund/ Crosswork Pre -IPO Funf": [
+    "13th Floor, 55, Eulji-ro, Jung-gu, Seoul, South Korea"
+  ],
+  "Dr.PARK": [],
+  "DrNose": [
+    "704, 7F, SmartHub, 994, Hanchon-ro, Danwon-gu, Ansan-si, Gyeonggi-do, South Korea"
+  ],
+  "Drawbridge Health": [
+    "2350 Qume Drive, San Jose, CA 95131, USA"
+  ],
+  "Droia Ventures": [
+    "Technologielaan 3, B-3001 Leuven, Belgium"
+  ],
+  "Dx&Vx": [
+    "28, Beobwon-ro 11-gil, Songpa-gu, Seoul, South Korea"
+  ],
+  "Dydo Pharma, Inc.": [
+    "2-1-7 Nishi-Shimbashi, Minato-ku, Tokyo, Japan",
+    "1-5-10 Oroshimachi Higashi, Wakabayashi-ku, Sendai-shi, Miyagi, Japan",
+    "4-13-1 Nishi-Hasegawa-cho, Atsuta-ku, Nagoya-shi, Aichi, Japan",
+    "1-5-18 Minami-Funaba, Chuo-ku, Osaka-shi, Osaka, Japan",
+    "2-1-3 Hakataeki Higashi, Hakata-ku, Fukuoka-shi, Fukuoka, Japan"
+  ],
+  "EA Pharma Co., Ltd.": [
+    "2-4-1 Nihonbashi, Chuo-ku, Tokyo 103-8472, Japan",
+    "1-1-103 Kitahigata, Kawashima, Gifu 509-0109, Japan",
+    "2-3-11 Azusawa, Itabashi-ku, Tokyo 174-0043, Japan",
+    "Sapporo, Japan",
+    "Sendai, Japan",
+    "Nagoya, Japan",
+    "Osaka, Japan",
+    "Hiroshima, Japan",
+    "Fukuoka, Japan"
+  ],
+  "EB Shaw Securities, LLC": [
+    "1111 Brickell Avenue, Suite 1050, Miami, FL 33131, USA"
+  ],
+  "EBD Group": [
+    "2000 L Street NW, Suite 200, Washington D.C., 20036, USA",
+    "Zeil 127, 60313 Frankfurt am Main, Germany"
+  ],
+  "ECI Therapeutics": [
+    "3438 E. Lake Lansing Road, Ste 120, East Lansing, MI 48823, USA"
+  ]
+}
+```
+```json
+{
+  "EGB Ventures": [
+    "Bangalore, India",
+    "Delhi, India"
+  ],
+  "ENTENTE Network": [
+    "London, UK"
+  ],
+  "EPM Group Inc": [
+    "New York, NY, USA",
+    "Costa Mesa, CA, USA"
+  ],
+  "EVERSANA": [
+    "Milwaukee, WI, USA",
+    "Chicago, IL, USA",
+    "Burlington, MA, USA",
+    "New York, NY, USA",
+    "Stamford, CT, USA",
+    "Toronto, ON, Canada",
+    "Basel, Switzerland",
+    "Dublin, Ireland",
+    "Manchester, UK",
+    "Bangalore, India",
+    "Tokyo, Japan"
+  ],
+  "EVEXTA BIO": [
+    "Tampa, FL, USA"
+  ],
+  "Earli": [
+    "South San Francisco, CA, USA"
+  ],
+  "Eckuity Capital": [
+    "New York, NY, USA",
+    "Boston, MA, USA",
+    "San Francisco, CA, USA",
+    "Basel, Switzerland"
+  ],
+  "EdgeOne Venture Partners": [
+    "San Francisco, CA, USA"
+  ],
+  "Edigene": [
+    "Beijing, China",
+    "Guangzhou, China",
+    "Cambridge, MA, USA"
+  ],
+  "EditForce, Inc.": [
+    "Fukuoka, Japan",
+    "Tokyo, Japan"
+  ],
+  "Eight Bridges": [
+    "New York, NY, USA"
+  ],
+  "Eight Roads Ventures": [
+    "London, UK",
+    "Boston, MA, USA",
+    "Shanghai, China",
+    "Mumbai, India",
+    "Singapore",
+    "Tokyo, Japan"
+  ],
+  "Eisai Co., Ltd.": [
+    "Tokyo, Japan",
+    "Tsukuba, Japan",
+    "Woodcliff Lake, NJ, USA",
+    "Andover, MA, USA",
+    "Hatfield, UK",
+    "Frankfurt, Germany",
+    "Paris, France",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Beijing, China",
+    "Gurgaon, India",
+    "Singapore",
+    "Sydney, Australia",
+    "São Paulo, Brazil",
+    "Mississauga, Canada"
+  ],
+  "Eisai Innovation Inc": [
+    "Cambridge, MA, USA"
+  ],
+  "Eleva GmbH": [
+    "Braunschweig, Germany"
+  ],
+  "Elix, Inc.": [
+    "Tokyo, Japan"
+  ],
+  "Elixirgen Scientific": [
+    "Baltimore, MD, USA",
+    "Yokohama, Japan"
+  ],
+  "Ellipses Pharma Ltd": [
+    "London, UK"
+  ],
+  "Elpis Biopharmaceuticals": [
+    "New York, NY, USA"
+  ],
+  "Emerald Bioventures, LLC": [
+    "Boston, MA, USA"
+  ]
+}
+```
+```json
+{
+  "Emory Drug Development Fund": [
+    "Atlanta, Georgia, USA"
+  ],
+  "Empath Biosciences, Inc": [
+    "San Francisco, California, USA"
+  ],
+  "Endless Frontier Labs": [
+    "New York, New York, USA"
+  ],
+  "Endpoints Capital Pty Ltd": [
+    "Sydney, New South Wales, Australia"
+  ],
+  "Endpoints News": [
+    "Boston, Massachusetts, USA",
+    "New York, New York, USA",
+    "Washington D.C., USA",
+    "Raleigh, North Carolina, USA",
+    "London, UK",
+    "Tokyo, Japan",
+    "Singapore",
+    "Tel Aviv, Israel"
+  ],
+  "Endurance28": [
+    "Washington D.C., USA"
+  ],
+  "Endure Biotherapeutics, Inc.": [
+    "San Diego, California, USA"
+  ],
+  "Engine Ventures": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Enhanc3d Genomics": [
+    "London, UK"
+  ],
+  "Enquyst Technologies Inc": [
+    "Berkeley, California, USA"
+  ],
+  "Ensante": [
+    "San Diego, California, USA"
+  ],
+  "Enterprise Singapore": [
+    "Singapore",
+    "Bangkok, Thailand",
+    "Beijing, China",
+    "Chengdu, China",
+    "Chongqing, China",
+    "Guangzhou, China",
+    "Ho Chi Minh City, Vietnam",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Manila, Philippines",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Shenzhen, China",
+    "Sydney, Australia",
+    "Taipei, Taiwan",
+    "Tokyo, Japan",
+    "Yangon, Myanmar",
+    "Berlin, Germany",
+    "Dubai, UAE",
+    "Frankfurt, Germany",
+    "Istanbul, Turkey",
+    "London, UK",
+    "Paris, France",
+    "Moscow, Russia",
+    "Los Angeles, California, USA",
+    "New York, New York, USA",
+    "San Francisco, California, USA",
+    "Sao Paulo, Brazil",
+    "Washington D.C., USA"
+  ],
+  "Enveric Biosciences, Inc.": [
+    "Naples, Florida, USA"
+  ],
+  "Envisagenics": [
+    "New York, New York, USA"
+  ],
+  "Eos BioInnovation": [
+    "San Diego, California, USA"
+  ],
+  "Epidarex Capital": [
+    "Edinburgh, UK",
+    "Bethesda, Maryland, USA"
+  ],
+  "Epigenetix Inc": [
+    "San Diego, California, USA"
+  ],
+  "Epiliquid Holding, Inc": [
+    "Lausanne, Switzerland"
+  ],
+  "Epion Therapeutics, Inc.": [
+    "Boston, Massachusetts, USA"
+  ],
+  "Erevna Inc": [
+    "San Francisco, California, USA"
+  ]
+}
+```
+```json
+{
+  "Erez Capital": [
+    "New York, NY, USA"
+  ],
+  "Ergomed Clinical Research": [
+    "Guildford, UK",
+    "London, UK",
+    "Durham, NC, USA",
+    "Princeton, NJ, USA",
+    "Houston, TX, USA",
+    "San Antonio, TX, USA",
+    "Chicago, IL, USA",
+    "San Diego, CA, USA",
+    "Phoenix, AZ, USA",
+    "Indianapolis, IN, USA",
+    "Paris, France",
+    "Munich, Germany",
+    "Warsaw, Poland",
+    "Bucharest, Romania",
+    "Moscow, Russia",
+    "Belgrade, Serbia",
+    "Kyiv, Ukraine",
+    "Zagreb, Croatia",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Sofia, Bulgaria",
+    "Sarajevo, Bosnia and Herzegovina",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Basel, Switzerland",
+    "Amsterdam, Netherlands",
+    "Copenhagen, Denmark",
+    "Stockholm, Sweden",
+    "Oslo, Norway",
+    "Helsinki, Finland",
+    "Ghent, Belgium",
+    "Vienna, Austria",
+    "Athens, Greece",
+    "Dublin, Ireland",
+    "Lisbon, Portugal",
+    "Tallinn, Estonia",
+    "Riga, Latvia",
+    "Vilnius, Lithuania",
+    "Istanbul, Turkey",
+    "Cape Town, South Africa",
+    "Tel Aviv, Israel",
+    "Cairo, Egypt",
+    "Casablanca, Morocco",
+    "Dubai, UAE",
+    "Riyadh, Saudi Arabia",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Auckland, New Zealand",
+    "Seoul, South Korea",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Bengaluru, India",
+    "Singapore",
+    "Kuala Lumpur, Malaysia",
+    "Manila, Philippines",
+    "Bangkok, Thailand",
+    "Buenos Aires, Argentina",
+    "São Paulo, Brazil",
+    "Santiago, Chile",
+    "Bogota, Colombia",
+    "Mexico City, Mexico",
+    "Lima, Peru",
+    "Toronto, Canada",
+    "Montreal, Canada"
+  ],
+  "EsoCap AG": [
+    "Basel, Switzerland"
+  ],
+  "Esousa Holdings": [
+    "New York, NY, USA"
+  ],
+  "Esperante Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Esphera SynBio": [
+    "Madrid, Spain"
+  ],
+  "EuBiologics Co., Ltd.": [
+    "Chuncheon, South Korea",
+    "Seoul, South Korea"
+  ],
+  "EuMentis Therapeutics": [
+    "Boston, MA, USA"
+  ],
+  "Eureka Biotechnology": [
+    "Wuxi, China",
+    "Shanghai, China",
+    "Beijing, China"
+  ],
+  "Eurofins CDMO Alphora": [
+    "Toronto, ON, Canada"
+  ],
+  "Evaluate": [
+    "London, UK",
+    "Boston, MA, USA",
+    "Tokyo, Japan",
+    "New York, NY, USA"
+  ],
+  "Evariste": [
+    "No clear public location found for a relevant company"
+  ],
+  "Evecxia Therapeutics": [
+    "Durham, NC, USA"
+  ],
+  "EverEx": [
+    "No clear public location found for a relevant company"
+  ],
+  "Evexia Fund": [
+    "Luxembourg City, Luxembourg"
+  ],
+  "Evidence Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Evox Therapeutics": [
+    "Oxford, UK",
+    "Boston, MA, USA"
+  ],
+  "ExCellThera": [
+    "Montreal, QC, Canada"
+  ],
+  "Exact Therapeutics AS": [
+    "Oslo, Norway",
+    "London, UK"
+  ],
+  "Exogene": [
+    "Palo Alto, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Exolvo Biosciences": [
+    "Salt Lake City, Utah, USA"
+  ],
+  "Exthymic": [
+    "Chapel Hill, North Carolina, USA"
+  ],
+  "Extracellular Vesicles and Circulating Nucleic Acids": [],
+  "Eyam": [],
+  "Eyegenex": [
+    "Durham, North Carolina, USA"
+  ],
+  "FGK Clinical Research GmbH": [
+    "Munich, Germany",
+    "Berlin, Germany",
+    "Basel, Switzerland",
+    "Leiden, Netherlands",
+    "Vienna, Austria",
+    "Paris, France",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Lisbon, Portugal",
+    "Warsaw, Poland",
+    "Budapest, Hungary",
+    "Bucharest, Romania",
+    "Prague, Czech Republic",
+    "Istanbul, Turkey",
+    "London, UK"
+  ],
+  "FIMECS, INC.": [
+    "Kawasaki, Kanagawa, Japan"
+  ],
+  "FIZE Medical": [
+    "Warsaw, Poland"
+  ],
+  "FNCT Biotech, Inc.": [
+    "Seattle, Washington, USA"
+  ],
+  "FORCE Family Office": [
+    "New York, New York, USA"
+  ],
+  "FUJIFILM Cellular Dynamics, Inc.": [
+    "Madison, Wisconsin, USA",
+    "Bothell, Washington, USA"
+  ],
+  "FUJIFILM Diosynth Biotechnologies": [
+    "Billingham, UK",
+    "Holly Springs, North Carolina, USA",
+    "Research Triangle Park, North Carolina, USA",
+    "College Station, Texas, USA",
+    "Watertown, Massachusetts, USA",
+    "Thousand Oaks, California, USA",
+    "Hillerød, Denmark",
+    "Yangpu, Shanghai, China"
+  ],
+  "Fairmount Funds": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Fankhauser Arealentwicklung AG": [
+    "Langenthal, Switzerland"
+  ],
+  "Fapon": [
+    "Dongguan, China",
+    "San Diego, California, USA",
+    "Boston, Massachusetts, USA",
+    "Wuxi, China",
+    "Shanghai, China",
+    "Suzhou, China",
+    "Shenzhen, China"
+  ],
+  "Farquhar VC": [
+    "Sydney, Australia"
+  ],
+  "Fast Company": [
+    "New York, New York, USA"
+  ],
+  "Fast Track Initiative": [
+    "Tokyo, Japan"
+  ],
+  "Fauna Bio": [
+    "Emeryville, California, USA"
+  ],
+  "Federov Investments": [
+    "Moscow, Russia"
+  ]
+}
+```
+```json
+{
+  "Feldan Therapeutics": ["Quebec City, Canada"],
+  "Feliqs Corporation": ["San Jose, California, USA"],
+  "FemHealth Ventures": ["Menlo Park, California, USA"],
+  "Femavet": ["New York, New York, USA"],
+  "Fermelanta, Inc.": ["Miami, Florida, USA"],
+  "Ferring Pharmaceuticals A/S": ["Saint-Prex, Switzerland", "Parsippany, New Jersey, USA", "Copenhagen, Denmark", "Frankfurt, Germany", "Beijing, China", "Mumbai, India"],
+  "FibroBiologics": ["Houston, Texas, USA"],
+  "Fiddlehead Ventures": ["London, UK"],
+  "Fierce Healthcare": ["Remote", "Washington D.C., USA", "New York, New York, USA", "Boston, Massachusetts, USA"],
+  "Financial Times": ["London, UK", "New York, New York, USA", "Hong Kong", "Tokyo, Japan", "Paris, France", "Frankfurt, Germany", "Dubai, UAE", "Singapore"],
+  "Finchley Healthcare Ventures": ["New York, New York, USA"],
+  "Find Therapeutics": ["Montreal, Canada"],
+  "Finney Capital": ["San Francisco, California, USA"],
+  "FirstWord Pharma": ["London, UK", "New York, New York, USA"],
+  "Flag Bio, Inc": ["San Diego, California, USA"],
+  "Flagship Pioneering": ["Cambridge, Massachusetts, USA"],
+  "Flashpoint Therapeutics": ["San Diego, California, USA"],
+  "Flerie": ["Stockholm, Sweden"],
+  "Flu Lab": ["N/A - Not a singular company with fixed locations; typically refers to various research laboratories globally"],
+  "FluidForm Bio": ["Boston, Massachusetts, USA"]
+}
+```
+```json
+{
+  "FluoSphera SA": [
+    "Epalinges, Switzerland"
+  ],
+  "FlyWorks America, Inc.": [
+    "No public office found"
+  ],
+  "FoRx Therapeutics AG": [
+    "Basel, Switzerland"
+  ],
+  "Focalpoint Partners": [
+    "Los Angeles, CA, USA",
+    "Chicago, IL, USA",
+    "New York, NY, USA",
+    "San Francisco, CA, USA"
+  ],
+  "Foley Hoag": [
+    "Boston, MA, USA",
+    "Washington, D.C., USA",
+    "New York, NY, USA",
+    "Denver, CO, USA",
+    "Paris, France",
+    "Copenhagen, Denmark"
+  ],
+  "Forbes": [
+    "Jersey City, NJ, USA",
+    "New York, NY, USA"
+  ],
+  "Forbion": [
+    "Naarden, Netherlands",
+    "Munich, Germany"
+  ],
+  "Forcyte Bio": [
+    "San Diego, CA, USA"
+  ],
+  "Foreground Capital": [
+    "San Francisco, CA, USA"
+  ],
+  "Forest Road Asset Management": [
+    "New York, NY, USA",
+    "Los Angeles, CA, USA"
+  ],
+  "Formation Bio": [
+    "New York, NY, USA",
+    "Boston, MA, USA",
+    "San Francisco, CA, USA",
+    "London, UK"
+  ],
+  "Fortrea": [
+    "Durham, NC, USA",
+    "Princeton, NJ, USA",
+    "Indianapolis, IN, USA",
+    "San Antonio, TX, USA",
+    "Nashville, TN, USA",
+    "Montreal, Canada",
+    "Maidenhead, UK",
+    "Berlin, Germany",
+    "Paris, France",
+    "Basel, Switzerland",
+    "Madrid, Spain",
+    "Singapore",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Sydney, Australia",
+    "Bangalore, India",
+    "São Paulo, Brazil",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina"
+  ],
+  "Fortunatus Capital": [
+    "London, UK"
+  ],
+  "Forward Equity Partners Co., Ltd.": [
+    "Taipei, Taiwan"
+  ],
+  "Fosun Pharmaceutical AG": [
+    "Berlin, Germany"
+  ],
+  "FoundersX Ventures": [
+    "Palo Alto, CA, USA"
+  ],
+  "Foundery Biosciences": [
+    "Cambridge, MA, USA"
+  ],
+  "Fraunhofer -Institut für Toxikologie und Experimentelle Medizin ITEM": [
+    "Hannover, Germany",
+    "Braunschweig, Germany"
+  ],
+  "FreeMind Group": [
+    "Washington, D.C., USA",
+    "Cambridge, MA, USA",
+    "Herzliya Pituach, Israel"
+  ],
+  "FreeMind Investments": [
+    "No public office found"
+  ]
+}
+```
+```json
+{
+  "Freedom Capital Family Office": [
+    "Sydney, Australia",
+    "Melbourne, Australia"
+  ],
+  "Freelance": [],
+  "Freenome Holdings, Inc.": [
+    "South San Francisco, USA",
+    "Palo Alto, USA",
+    "Singapore"
+  ],
+  "Frezent Biological Solutions": [
+    "Chennai, India"
+  ],
+  "Friedman Bioventure Fund 1 LP": [
+    "New York, USA"
+  ],
+  "Frontier Bio": [
+    "New York, USA"
+  ],
+  "FujiFilm Irvine Scientific": [
+    "Santa Ana, USA",
+    "Tilburg, Netherlands",
+    "Tokyo, Japan",
+    "Kawasaki, Japan",
+    "Wuxi, China"
+  ],
+  "Future Planet Capital": [
+    "London, UK"
+  ],
+  "GC Biopharma Corp.": [
+    "Yongin, South Korea",
+    "Ochang, South Korea",
+    "Fort Lee, USA",
+    "Toronto, Canada",
+    "Beijing, China",
+    "Netherlands"
+  ],
+  "GCF Family Office": [
+    "Zurich, Switzerland"
+  ],
+  "GEM NY": [
+    "New York, USA",
+    "Paris, France"
+  ],
+  "GEN": [
+    "New Rochelle, USA"
+  ],
+  "GHO Capital": [
+    "London, UK"
+  ],
+  "GL Chemtec International Ltd.": [
+    "Oakville, Canada"
+  ],
+  "GO Therapeutics": [
+    "Cambridge, USA"
+  ],
+  "GPG Ventures": [
+    "New York, USA"
+  ],
+  "GSR Ventures": [
+    "Palo Alto, USA",
+    "Beijing, China"
+  ],
+  "Gain Therapeutics, Inc.": [
+    "Bethesda, USA",
+    "Barcelona, Spain",
+    "Lausanne, Switzerland"
+  ],
+  "Galena Innovations": [
+    "Houston, USA"
+  ],
+  "Galimedix Therapeutics": [
+    "La Jolla, USA"
+  ]
+}
+```
+```json
+{
+  "Gamma Biosciences": [
+    "Boston, Massachusetts, USA",
+    "Novato, California, USA"
+  ],
+  "Gaorong Capital": [
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong, China"
+  ],
+  "Garland Holdings Inc": [
+    "New York, New York, USA"
+  ],
+  "GelMEDIX": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "GelSana": [
+    "Boulder, Colorado, USA"
+  ],
+  "Gemseki Venture": [
+    "Tokyo, Japan",
+    "San Francisco, California, USA",
+    "Seoul, South Korea",
+    "Shanghai, China"
+  ],
+  "GenAssist Ltd": [
+    "Cambridge, UK"
+  ],
+  "GenScript Biotech": [
+    "Nanjing, China",
+    "Shanghai, China",
+    "Suzhou, China",
+    "Piscataway, New Jersey, USA",
+    "San Diego, California, USA",
+    "Fremont, California, USA",
+    "Research Triangle Park, North Carolina, USA",
+    "Tokyo, Japan",
+    "Singapore",
+    "Leiden, Netherlands",
+    "Dublin, Ireland",
+    "London, UK"
+  ],
+  "GeneCapture, Inc.": [
+    "Huntsville, Alabama, USA"
+  ],
+  "GeneQuantum Healthcare (Suzhou) Co. Ltd.": [
+    "Suzhou, China"
+  ],
+  "Genenta (NASDAQ: GNTA)": [
+    "Milan, Italy"
+  ],
+  "General Inception": [
+    "San Diego, California, USA"
+  ],
+  "Genescience Pharmaceutical Co. Ltd.": [
+    "Changchun, China",
+    "Beijing, China",
+    "Shanghai, China"
+  ],
+  "Genesis Capital": [
+    "Beijing, China",
+    "Shanghai, China"
+  ],
+  "Genesys Capital": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Genialis, Inc": [
+    "Houston, Texas, USA",
+    "Ljubljana, Slovenia"
+  ],
+  "Genicity limited": [
+    "Cambridge, UK"
+  ],
+  "GenoMeCoin": [],
+  "Genoa Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "Genopore": [
+    "Boulder, Colorado, USA"
+  ]
+}
+```
+```json
+{
+  "Genvara Biopharma": [
+    "Morris Plains, New Jersey, USA"
+  ],
+  "GeoVax Labs, Inc.": [
+    "Smyrna, Georgia, USA"
+  ],
+  "George Clinical": [
+    "Sydney, Australia",
+    "Philadelphia, Pennsylvania, USA",
+    "Beijing, China",
+    "Bangalore, India",
+    "Singapore",
+    "Kuala Lumpur, Malaysia",
+    "Hong Kong",
+    "Amsterdam, Netherlands",
+    "Auckland, New Zealand",
+    "London, UK",
+    "Cape Town, South Africa"
+  ],
+  "Georgia Bio": [
+    "Atlanta, Georgia, USA"
+  ],
+  "Gimv NV": [
+    "Antwerp, Belgium",
+    "The Hague, Netherlands",
+    "Munich, Germany",
+    "Paris, France"
+  ],
+  "Global Alpha Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "Global BioAccess Fund": [
+    "Palo Alto, California, USA"
+  ],
+  "Global Brain": [
+    "Tokyo, Japan",
+    "San Francisco, California, USA",
+    "Seoul, South Korea",
+    "London, UK",
+    "Singapore"
+  ],
+  "Global Climate Solutions Institute": [
+    "Washington D.C., USA"
+  ],
+  "Global Pharma Solutions": [
+    "Hyderabad, India"
+  ],
+  "Global Source Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "Global Webcasting Group": [
+    "San Francisco, California, USA"
+  ],
+  "GlobalData": [
+    "London, UK",
+    "Hyderabad, India",
+    "New York, New York, USA",
+    "Sydney, Australia"
+  ],
+  "Glucotrack Inc": [
+    "Santa Clara, California, USA"
+  ],
+  "Gluetacs Therapeutics (Shanghai) Co., Ltd.": [
+    "Shanghai, China"
+  ],
+  "GlycoNex Inc.": [
+    "Taipei, Taiwan"
+  ],
+  "Glytherix": [
+    "Sydney, Australia"
+  ],
+  "Golden Eagle Partners": [
+    "San Diego, California, USA"
+  ],
+  "GondolaBio": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Good Growth Capital": [
+    "Charleston, South Carolina, USA",
+    "Boston, Massachusetts, USA",
+    "Atlanta, Georgia, USA",
+    "Miami, Florida, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "San Francisco, California, USA"
+  ]
+}
+```
+```json
+{
+  "Good Health Capital LLC": [
+    "San Francisco, CA, USA"
+  ],
+  "Gradiant Corporation": [
+    "Boston, MA, USA",
+    "Singapore",
+    "Dubai, UAE",
+    "Perth, Australia",
+    "São Paulo, Brazil",
+    "Santiago, Chile",
+    "Shanghai, China",
+    "Chennai, India",
+    "Delhi, India",
+    "Mumbai, India",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Madrid, Spain",
+    "Houston, TX, USA"
+  ],
+  "Grassi": [
+    "New York, NY, USA",
+    "Jericho, NY, USA",
+    "Lake Success, NY, USA",
+    "White Plains, NY, USA",
+    "Pearl River, NY, USA",
+    "Rochester, NY, USA",
+    "Newburgh, NY, USA",
+    "Miami, FL, USA",
+    "Palm Beach, FL, USA",
+    "Sarasota, FL, USA",
+    "Park Ridge, NJ, USA",
+    "Needham, MA, USA",
+    "Austin, TX, USA",
+    "Stamford, CT, USA"
+  ],
+  "Gray Strategic Advisors, LLC": [
+    "Alexandria, VA, USA"
+  ],
+  "Greenwillow Capital": [
+    "Houston, TX, USA"
+  ],
+  "Grifols SA": [
+    "Barcelona, Spain",
+    "Parets del Vallès, Spain",
+    "Los Angeles, CA, USA",
+    "Clayton, NC, USA",
+    "Dublin, Ireland",
+    "Raleigh, NC, USA",
+    "San Diego, CA, USA",
+    "Washington D.C., USA",
+    "Goleta, CA, USA",
+    "Boca Raton, FL, USA",
+    "Miami, FL, USA",
+    "Toronto, ON, Canada",
+    "Madrid, Spain",
+    "Frankfurt, Germany",
+    "London, UK",
+    "Rome, Italy",
+    "Paris, France",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Lisbon, Portugal",
+    "Zurich, Switzerland",
+    "Sydney, Australia",
+    "Shanghai, China",
+    "Beijing, China",
+    "Tokyo, Japan",
+    "Singapore",
+    "Seoul, South Korea",
+    "Mumbai, India",
+    "São Paulo, Brazil",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina",
+    "Bogotá, Colombia",
+    "Santiago, Chile",
+    "Dubai, UAE",
+    "Johannesburg, South Africa"
+  ],
+  "Gunston Ventures": [
+    "Washington, D.C., USA"
+  ],
+  "Gyder Surgical": [
+    "Miami, FL, USA"
+  ],
+  "H Tree Capital": [
+    "New York, NY, USA"
+  ],
+  "H.C. Wainwright": [
+    "New York, NY, USA"
+  ],
+  "HCVC": [
+    "Paris, France"
+  ],
+  "HDAX Therapeutics": [
+    "Houston, TX, USA"
+  ],
+  "HEDA Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "HELP Therapeutics Co. Ltd.": [
+    "Seongnam-si, Gyeonggi-do, South Korea"
+  ],
+  "HJ Partners": [
+    "Seoul, South Korea"
+  ],
+  "HK InnoN": [
+    "Seoul, South Korea",
+    "Yongin, Gyeonggi-do, South Korea",
+    "Osong, Chungcheongbuk-do, South Korea"
+  ],
+  "HM Venture Partners": [
+    "Seoul, South Korea"
+  ],
+  "HTuO Biosciences": [
+    "Toronto, ON, Canada"
+  ],
+  "HYUNDAI BIOSCIECNE USA INC": [
+    "San Jose, CA, USA"
+  ],
+  "Hadean Ventures": [
+    "Oslo, Norway",
+    "London, UK"
+  ]
+}
+```
+```json
+{
+  "Halloran Consulting Group": [
+    "Boston, MA, USA",
+    "Raleigh, NC, USA"
+  ],
+  "Halo Pharma": [
+    "Whippany, NJ, USA (former HQ)",
+    "Mirabel, Quebec, Canada (former site)",
+    "San Jose, Costa Rica (former site)"
+  ],
+  "HanchorBio Inc": [
+    "San Francisco, CA, USA",
+    "Shanghai, China"
+  ],
+  "Hanmi Pharmaceutical": [
+    "Seoul, South Korea",
+    "Beijing, China",
+    "Ridgefield, NJ, USA"
+  ],
+  "Hansoh Pharma": [
+    "Lianyungang, Jiangsu, China",
+    "Shanghai, China",
+    "Beijing, China",
+    "Nanjing, China",
+    "Boston, MA, USA"
+  ],
+  "Harbor Biomedicines": [
+    "Cambridge, MA, USA"
+  ],
+  "Harbour BioMed": [
+    "Cambridge, MA, USA",
+    "Shanghai, China",
+    "Suzhou, China",
+    "Rotterdam, Netherlands"
+  ],
+  "Harmony Pharma Group": [
+    "Paris, France"
+  ],
+  "Harness Therapeutics": [
+    "Cambridge, UK"
+  ],
+  "HatchBio Fund": [
+    "Cambridge, MA, USA"
+  ],
+  "Hatteras Venture Partners": [
+    "Durham, NC, USA"
+  ],
+  "Havah Therapeutics, Inc": [
+    "San Diego, CA, USA"
+  ],
+  "Headlamp Health": [
+    "San Francisco, CA, USA"
+  ],
+  "Health Innovation Capital": [
+    "New York, NY, USA"
+  ],
+  "Health Technology Holding - HTH": [
+    "Dubai, UAE"
+  ],
+  "Health2047 Capital Partners LLC": [
+    "San Francisco, CA, USA"
+  ],
+  "HealthCap": [
+    "Stockholm, Sweden"
+  ],
+  "HealthTech capital": [
+    "Menlo Park, CA, USA"
+  ],
+  "Healthcare Capital Partners": [
+    "Atlanta, GA, USA"
+  ],
+  "Hemay": [
+    "Chengdu, Sichuan, China"
+  ]
+}
+```
+```json
+{
+  "Hemogenyx Pharmaceuticals": [
+    "3rd Floor, 168 Shoreditch High Street, London, E1 6HU, United Kingdom",
+    "590 Madison Avenue, 21st Floor, New York, NY 10022, USA"
+  ],
+  "Henlius USA": [
+    "1840 Gateway Drive, Suite 250, San Mateo, CA 94404, USA"
+  ],
+  "Hercules Capital": [
+    "525 University Ave, Suite 700, Palo Alto, CA 94301, USA",
+    "One Post Office Square, Suite 3300, Boston, MA 02109, USA",
+    "12275 El Camino Real, Suite 275, San Diego, CA 92130, USA",
+    "100 Field Point Road, Suite 200, Greenwich, CT 06830, USA",
+    "401 Congress Ave, Suite 1540, Austin, TX 78701, USA",
+    "35 Berkeley Square, 1st Floor, London W1J 5BF, UK"
+  ],
+  "Hestia Investments Ltd.": [
+    "C/O Stephenson Harwood Llp, 1 Finsbury Circus, London, EC2M 7SH, United Kingdom"
+  ],
+  "Hevolution Foundation": [
+    "Laysen Valley, Office Building 10-A, Riyadh, Kingdom of Saudi Arabia",
+    "125 High Street, Boston, MA 02110, USA"
+  ],
+  "Hexembio Inc.": [
+    "2368 Walsh Avenue, Santa Clara, CA 95051, USA",
+    "Building C11, Optics Valley Bio-City, 666 Gaoxin 2nd Road, Wuhan, Hubei Province, China"
+  ],
+  "High Cape Capital": [
+    "152 West 57th Street, New York, NY 10019, USA"
+  ],
+  "Highlight Capital HLC Fund": [
+    "Unit 2001, Highlight Center, 1000 Changping Rd, Jing'an Dist, Shanghai, China",
+    "Room 1301, China Central Place Office Building 1, 81 Jianguo Rd, Chaoyang Dist, Beijing, China",
+    "Room 2002-04, 20/F, Two International Finance Centre, 8 Finance Street, Central, Hong Kong"
+  ],
+  "Hike Ventures": [
+    "512 2nd Street, San Francisco, CA 94107, USA"
+  ],
+  "Hill Research - TheraGPT": [
+    "San Diego, CA, USA"
+  ],
+  "Hillhouse Investment": [
+    "Unit 2201-02, Two Pacific Place, 88 Queensway, Hong Kong",
+    "Suite 4101, China World Office 2, No.1 Jian Guo Men Wai Avenue, Chaoyang District, Beijing, China",
+    "18 Marina Boulevard, Level 31, Marina Bay Financial Centre Tower 1, Singapore 018980",
+    "9 West 57th Street, 43rd Floor, New York, NY 10019, USA",
+    "25 Berkeley Square, 3rd Floor, London, W1J 6HL, UK",
+    "Unit 2003, Wheelock Square, 1717 West Nanjing Road, Jing An District, Shanghai, China",
+    "1 Sansome Street, Suite 3500, San Francisco, CA 94104, USA"
+  ],
+  "HistoSonics, Inc.": [
+    "1100 Victors Way, Suite 10, Ann Arbor, MI 48108, USA"
+  ],
+  "HitGen Inc.": [
+    "No. 719, B-1, 1st Floor, Tianfu Life Science Park, No. 88, Keyuan South Road, Hi-Tech Zone, Chengdu 610041, China",
+    "12900 N. I-35, Suite 1400, Austin, TX 78753, USA",
+    "BioHub at Alderley Park, Macclesfield, SK10 4TG, UK"
+  ],
+  "Hogan Lovells US LLP": [
+    "One Atlantic Center, 1201 West Peachtree Street, NE, Suite 1900, Atlanta, GA 30309, USA",
+    "100 International Drive, Suite 2000, Baltimore, MD 21202, USA",
+    "100 Federal Street, Suite 3300, Boston, MA 02110, USA",
+    "111 South Tejon Street, Suite 600, Colorado Springs, CO 80903, USA",
+    "1675 Broadway, Suite 2600, Denver, CO 80202, USA",
+    "609 Main Street, Suite 3700, Houston, TX 77002, USA",
+    "1999 Avenue of the Stars, Suite 1400, Los Angeles, CA 90067, USA",
+    "400 West Market Street, Suite 2300, Louisville, KY 40202, USA",
+    "600 Brickell Avenue, Suite 2700, Miami, FL 33131, USA",
+    "80 South Eighth Street, Suite 900, Minneapolis, MN 55402, USA",
+    "875 Third Avenue, New York, NY 10022, USA",
+    "7930 Jones Branch Drive, Suite 1500, Tysons, VA 22102, USA",
+    "1700 Market Street, Suite 2500, Philadelphia, PA 19103, USA",
+    "1 Market Street, Spear Tower, Suite 2500, San Francisco, CA 94105, USA",
+    "4085 Campbell Avenue, Suite 200, Menlo Park, CA 94025, USA",
+    "555 13th Street, NW, Washington, DC 20004, USA"
+  ],
+  "Hongjing Capital": [
+    "Room 1605, Kingkey 100 Tower, Shennan East Road, Luohu District, Shenzhen, China",
+    "Room 2006, South Tower, China World Office 1, No.1 Jian Guo Men Wai Avenue, Chaoyang District, Beijing, China",
+    "Room 3901-3902, Two International Finance Centre, 8 Century Avenue, Pudong New Area, Shanghai, China"
+  ],
+  "Horizon 3 Healthcare Fund": [
+    "200 Clarendon Street, 52nd Floor, Boston, MA 02116, USA"
+  ],
+  "Horizon Technology Finance": [
+    "355 Research Parkway, Suite 100, Farmington, CT 06032, USA",
+    "525 University Ave, Suite 700, Palo Alto, CA 94301, USA",
+    "One Post Office Square, Suite 3300, Boston, MA 02109, USA",
+    "12275 El Camino Real, Suite 275, San Diego, CA 92130, USA"
+  ],
+  "Huahai Investment Co., Ltd (A subsidiary of Huahai Pharmaceutical Co., Ltd)": [
+    "18 Chunhui Road, Duqiao, Linhai, Zhejiang, P.R. China",
+    "Room 1701, Huashan Road, Xuhui District, Shanghai, P.R. China"
+  ],
+  "Huangpu River Capital": [
+    "Room 2307, Building 1, No. 666, Tianyaoqiao Road, Xuhui District, Shanghai, China"
+  ],
+  "Huicheng Biotechnology, Inc.": [
+    "1530 The Alameda Suite 110, San Jose, CA 95126, USA"
+  ]
+}
+```
+```json
+{
+  "Human Longevity Inc": [
+    "San Diego, CA, USA"
+  ],
+  "Hummingbird Ventures": [
+    "London, UK",
+    "Ghent, Belgium"
+  ],
+  "Hunniwell Lake Ventures": [
+    "San Jose, CA, USA"
+  ],
+  "Huonslab": [
+    "Seongnam-si, Gyeonggi-do, South Korea"
+  ],
+  "Hypatia Group": [
+    "New York, NY, USA"
+  ],
+  "IAG Capital Partners": [
+    "Bethesda, MD, USA"
+  ],
+  "IAPP Media": [
+    "Portsmouth, NH, USA",
+    "London, UK",
+    "Brussels, Belgium",
+    "Singapore",
+    "Washington D.C., USA"
+  ],
+  "IASO BIOTECHNOLOGY": [
+    "Shanghai, China",
+    "Princeton, NJ, USA"
+  ],
+  "ICG Life Sciences, ICG Capital": [
+    "London, UK",
+    "New York, NY, USA",
+    "Paris, France",
+    "Frankfurt, Germany",
+    "Hong Kong",
+    "Singapore",
+    "Sydney, Australia"
+  ],
+  "ICON Plc.": [
+    "Dublin, Ireland",
+    "Philadelphia, PA, USA",
+    "Raleigh-Durham, NC, USA",
+    "London, UK",
+    "Singapore",
+    "Sydney, Australia",
+    "Hyderabad, India",
+    "Tokyo, Japan"
+  ],
+  "IDG Capital": [
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong",
+    "New York, NY, USA",
+    "San Francisco, CA, USA",
+    "London, UK",
+    "Boston, MA, USA"
+  ],
+  "IGI": [
+    "Seoul, South Korea"
+  ],
+  "ILIAS Biologics Inc.": [
+    "Daejeon, South Korea"
+  ],
+  "IMBiologics": [
+    "Daejeon, South Korea"
+  ],
+  "IN CAPITAL": [
+    "Moscow, Russia"
+  ],
+  "IN8bio": [
+    "New York, NY, USA",
+    "Pleasanton, CA, USA"
+  ],
+  "INCE Capital": [
+    "Shanghai, China"
+  ],
+  "INOGROUP": [
+    "Zug, Switzerland"
+  ],
+  "INOVAIT / Sunnybrook Research Institute": [
+    "Toronto, ON, Canada"
+  ],
+  "IO Biotech": [
+    "Copenhagen, Denmark"
+  ]
+}
+```
+```json
+{
+  "IPF Partners": [
+    "London, UK",
+    "Paris, France",
+    "Singapore"
+  ],
+  "ITOCHU International, Inc.": [
+    "New York, NY, USA"
+  ],
+  "ITR Laboratories": [
+    "Montreal, Quebec, Canada"
+  ],
+  "IVIEW Therapeutics Inc.": [
+    "Cranbury, NJ, USA"
+  ],
+  "Iaso Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Iconoclast Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "IdB Holding": [
+    "Rome, Italy"
+  ],
+  "IgGenix": [
+    "South San Francisco, CA, USA"
+  ],
+  "Ignota Labs": [
+    "Oxford, UK"
+  ],
+  "Ildong Pharmaceutical": [
+    "Seoul, South Korea"
+  ],
+  "Illumina ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "ImBiome Inc.": [
+    "Houston, TX, USA"
+  ],
+  "Imaginostics Inc.": [
+    "Hanover, NH, USA"
+  ],
+  "Imbrium Therapeutics": [
+    "Research Triangle Park, NC, USA"
+  ],
+  "Immetas Therapeutics": [
+    "Waltham, MA, USA"
+  ],
+  "Immorta Bio, Inc": [
+    "San Diego, CA, USA"
+  ],
+  "ImmuPharma PLC": [
+    "London, UK"
+  ],
+  "Immugenia Inc.": [
+    "Montreal, Quebec, Canada"
+  ],
+  "Immungenetics AG": [
+    "Martinsried, Germany"
+  ],
+  "Immunis, Inc.": [
+    "Irvine, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Immunitas Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "ImmunoBiochem": [
+    "Vancouver, BC, Canada"
+  ],
+  "Immunophotonics, Inc.": [
+    "St. Louis, MO, USA"
+  ],
+  "Immunova": [
+    "Uppsala, Sweden"
+  ],
+  "Immunowake Inc.": [
+    "Tokyo, Japan"
+  ],
+  "Immunservice GmbH": [
+    "Berlin, Germany"
+  ],
+  "Immunyx Pharma": [
+    "London, UK"
+  ],
+  "Immuto Scientific": [
+    "San Diego, CA, USA"
+  ],
+  "Imperial College London": [
+    "London, UK (South Kensington Campus)",
+    "London, UK (White City Campus)",
+    "Ascot, UK (Silwood Park Campus)"
+  ],
+  "InCube Ventures": [
+    "San Jose, CA, USA"
+  ],
+  "InVivo Biosystems": [
+    "Eugene, OR, USA"
+  ],
+  "Inaya Therapeutics": [
+    "Boston, MA, USA"
+  ],
+  "Inceptor Bio": [
+    "Research Triangle Park, NC, USA",
+    "San Diego, CA, USA"
+  ],
+  "Indaco Bio Fund": [
+    "Milan, Italy"
+  ],
+  "Indegene": [
+    "Bengaluru, India",
+    "Hyderabad, India",
+    "Chennai, India",
+    "Mumbai, India",
+    "Gurgaon, India",
+    "Ahmedabad, India",
+    "Pune, India",
+    "Princeton, NJ, USA",
+    "New York, NY, USA",
+    "Atlanta, GA, USA",
+    "Bridgewater, NJ, USA",
+    "San Bruno, CA, USA",
+    "San Mateo, CA, USA",
+    "London, UK",
+    "Dublin, Ireland",
+    "Basel, Switzerland",
+    "Frankfurt, Germany",
+    "Madrid, Spain",
+    "Paris, France",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Singapore",
+    "Manila, Philippines",
+    "Kuala Lumpur, Malaysia"
+  ],
+  "Independent": [],
+  "Independent investor": [],
+  "IndieBio/SOSV": [
+    "San Francisco, CA, USA",
+    "New York, NY, USA",
+    "London, UK",
+    "Princeton, NJ, USA",
+    "Cork, Ireland",
+    "Shenzhen, China",
+    "Shanghai, China",
+    "Taipei, Taiwan"
+  ],
+  "Individual Investor": [],
+  "Infinant Health, Inc": [
+    "San Francisco, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Infinimmune": [
+    "Cambridge, MA, USA"
+  ],
+  "Infinitopes Precision Immunomics": [
+    "Oxford, England, UK"
+  ],
+  "Infinity Bio Inc.": [
+    "Foster City, CA, USA"
+  ],
+  "InflaRx": [
+    "Jena, Germany",
+    "Ann Arbor, MI, USA",
+    "Munich, Germany"
+  ],
+  "Informa": [
+    "London, UK",
+    "New York, NY, USA",
+    "Hong Kong",
+    "São Paulo, Brazil",
+    "Singapore",
+    "Sydney, Australia",
+    "Dubai, UAE"
+  ],
+  "Informa Connect": [
+    "London, UK",
+    "New York, NY, USA",
+    "Boston, MA, USA"
+  ],
+  "Ingenew Pharma Inc.": [
+    "Taipei, Taiwan",
+    "San Diego, CA, USA"
+  ],
+  "Inhalon Biopharma, Inc.": [
+    "Durham, NC, USA"
+  ],
+  "Inherent Biosciences": [
+    "Salt Lake City, UT, USA"
+  ],
+  "InkSpace Imaging": [
+    "Cleveland, OH, USA"
+  ],
+  "InnoPath Therapeutics": [
+    "Houston, TX, USA"
+  ],
+  "InnoPinnacle Fund": [
+    "Princeton, NJ, USA"
+  ],
+  "Innophore": [
+    "Graz, Austria"
+  ],
+  "Innospark Ventures": [
+    "Boston, MA, USA"
+  ],
+  "Innostellar Biotherapeutics Co.,Ltd": [
+    "Shanghai, China"
+  ],
+  "Innovacell K.K.": [
+    "Tokyo, Japan"
+  ],
+  "Innovating Capital": [
+    "New York, NY, USA",
+    "San Francisco, CA, USA"
+  ],
+  "Innovestor Life Science Ltd": [
+    "Helsinki, Finland"
+  ],
+  "Innovius Capital": [
+    "New York, NY, USA"
+  ],
+  "Inside Precision Medicine": [
+    "New Rochelle, NY, USA"
+  ]
+}
+```
+```json
+{
+  "Insight Partners": [
+    "New York, NY",
+    "London, UK",
+    "Tel Aviv, Israel"
+  ],
+  "Insmed Inc": [
+    "Bridgewater, NJ",
+    "Oxford, UK",
+    "Tokyo, Japan",
+    "Frankfurt, Germany",
+    "Amsterdam, Netherlands",
+    "Singapore"
+  ],
+  "Inspire Medical Systems, Inc.": [
+    "Golden Valley, MN",
+    "Germany",
+    "United Kingdom",
+    "Australia"
+  ],
+  "Integrated Nanotherapeutics": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Inteligex Inc": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Interaxon": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Interface Biosciences": [
+    "Vancouver, BC, Canada"
+  ],
+  "Interna Therapeutics": [
+    "Cambridge, MA"
+  ],
+  "Intract Pharma": [
+    "London, UK"
+  ],
+  "InveniAI": [
+    "Branford, CT"
+  ],
+  "Inventage Lab": [
+    "Daejeon, South Korea"
+  ],
+  "Inveready Asset Management": [
+    "Barcelona, Spain",
+    "Madrid, Spain",
+    "San Sebastián, Spain",
+    "Lisbon, Portugal"
+  ],
+  "Invest Ontario": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Investissement Québec": [
+    "Montréal, Quebec, Canada",
+    "Québec City, Quebec, Canada",
+    "Bécancour, Quebec, Canada",
+    "Gatineau, Quebec, Canada",
+    "Rimouski, Quebec, Canada",
+    "Saguenay, Quebec, Canada",
+    "Sherbrooke, Quebec, Canada",
+    "Sept-Îles, Quebec, Canada",
+    "Rouyn-Noranda, Quebec, Canada",
+    "Paris, France",
+    "Munich, Germany",
+    "London, UK",
+    "New York, NY",
+    "Boston, MA",
+    "Chicago, IL",
+    "Los Angeles, CA",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Tel Aviv, Israel"
+  ],
+  "Investors Circle": [
+    "San Francisco, CA",
+    "New York, NY"
+  ],
+  "IowaIBO, Inc": [
+    "Iowa City, IA"
+  ],
+  "Ipsen": [
+    "Boulogne-Billancourt, France",
+    "Cambridge, MA",
+    "Slough, UK",
+    "Munich, Germany",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "São Paulo, Brazil",
+    "Madrid, Spain",
+    "Milan, Italy"
+  ],
+  "Ipsos Advisory Healthcare": [
+    "Paris, France",
+    "New York, NY",
+    "London, UK",
+    "Chicago, IL",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Munich, Germany",
+    "Singapore"
+  ],
+  "Iseehear Inc.": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Island Pharmaceuticals Ltd": [
+    "Melbourne, Australia"
+  ]
+}
+```
+```json
+{
+  "JAFCO Group Co., Ltd.": [
+    "Tokyo, Japan",
+    "Nagoya, Japan",
+    "Osaka, Japan"
+  ],
+  "JD Bioscience": [
+    "Seoul, South Korea",
+    "Chuncheon-si, South Korea"
+  ],
+  "JEDFam Group": [
+    "Mumbai, India",
+    "Bangalore, India",
+    "Hyderabad, India"
+  ],
+  "JETRO": [
+    "Tokyo, Japan",
+    "Osaka, Japan",
+    "Nagoya, Japan",
+    "Yokohama, Japan",
+    "Kobe, Japan",
+    "Fukuoka, Japan",
+    "Sapporo, Japan",
+    "Sendai, Japan",
+    "Niigata, Japan",
+    "Shizuoka, Japan",
+    "Hamamatsu, Japan",
+    "Kanazawa, Japan",
+    "Kyoto, Japan",
+    "Hiroshima, Japan",
+    "Takamatsu, Japan",
+    "Matsuyama, Japan",
+    "Oita, Japan",
+    "Kumamoto, Japan",
+    "Kagoshima, Japan",
+    "Naha, Japan",
+    "Chiba, Japan",
+    "Seoul, South Korea",
+    "Busan, South Korea",
+    "Beijing, China",
+    "Shanghai, China",
+    "Guangzhou, China",
+    "Dalian, China",
+    "Hong Kong, China",
+    "Taipei, Taiwan",
+    "Ulaanbaatar, Mongolia",
+    "Jakarta, Indonesia",
+    "Surabaya, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Penang, Malaysia",
+    "Manila, Philippines",
+    "Bangkok, Thailand",
+    "Hanoi, Vietnam",
+    "Ho Chi Minh City, Vietnam",
+    "Vientiane, Laos",
+    "Phnom Penh, Cambodia",
+    "Yangon, Myanmar",
+    "Dhaka, Bangladesh",
+    "Kolkata, India",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Bengaluru, India",
+    "Karachi, Pakistan",
+    "Colombo, Sri Lanka",
+    "Dubai, UAE",
+    "Abu Dhabi, UAE",
+    "Riyadh, Saudi Arabia",
+    "Doha, Qatar",
+    "Sydney, Australia",
+    "Perth, Australia",
+    "Melbourne, Australia",
+    "Auckland, New Zealand",
+    "New York, USA",
+    "Atlanta, USA",
+    "Chicago, USA",
+    "Houston, USA",
+    "Los Angeles, USA",
+    "San Francisco, USA",
+    "Toronto, Canada",
+    "Vancouver, Canada",
+    "Mexico City, Mexico",
+    "São Paulo, Brazil",
+    "Rio de Janeiro, Brazil",
+    "Buenos Aires, Argentina",
+    "Santiago, Chile",
+    "Bogota, Colombia",
+    "Lima, Peru",
+    "London, UK",
+    "Paris, France",
+    "Düsseldorf, Germany",
+    "Hamburg, Germany",
+    "Munich, Germany",
+    "Berlin, Germany",
+    "Brussels, Belgium",
+    "Amsterdam, Netherlands",
+    "Milan, Italy",
+    "Rome, Italy",
+    "Madrid, Spain",
+    "Barcelona, Spain",
+    "Zurich, Switzerland",
+    "Geneva, Switzerland",
+    "Vienna, Austria",
+    "Copenhagen, Denmark",
+    "Stockholm, Sweden",
+    "Helsinki, Finland",
+    "Oslo, Norway",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Bucharest, Romania",
+    "Sofia, Bulgaria",
+    "Kyiv, Ukraine",
+    "Istanbul, Turkey",
+    "Moscow, Russia",
+    "St. Petersburg, Russia",
+    "Cairo, Egypt",
+    "Rabat, Morocco",
+    "Tunis, Tunisia",
+    "Algiers, Algeria",
+    "Nairobi, Kenya",
+    "Lagos, Nigeria",
+    "Johannesburg, South Africa"
+  ],
+  "JIC Venture Growth Investments Co., Ltd.": [
+    "Tokyo, Japan"
+  ],
+  "JIFENG VENTURES": [
+    "Shanghai, China"
+  ],
+  "JLS Fund": [
+    "Information not readily available publicly for a singular, identifiable entity."
+  ],
+  "JP Morgan": [
+    "New York, USA",
+    "Chicago, USA",
+    "San Francisco, USA",
+    "Los Angeles, USA",
+    "Dallas, USA",
+    "Houston, USA",
+    "Miami, USA",
+    "Boston, USA",
+    "Atlanta, USA",
+    "Seattle, USA",
+    "Washington D.C., USA",
+    "Toronto, Canada",
+    "Montreal, Canada",
+    "London, UK",
+    "Paris, France",
+    "Frankfurt, Germany",
+    "Dublin, Ireland",
+    "Luxembourg City, Luxembourg",
+    "Geneva, Switzerland",
+    "Zurich, Switzerland",
+    "Milan, Italy",
+    "Madrid, Spain",
+    "Amsterdam, Netherlands",
+    "Brussels, Belgium",
+    "Warsaw, Poland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Oslo, Norway",
+    "Helsinki, Finland",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Athens, Greece",
+    "Istanbul, Turkey",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Bucharest, Romania",
+    "Hong Kong, China",
+    "Singapore",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Beijing, China",
+    "Seoul, South Korea",
+    "Mumbai, India",
+    "Bangalore, India",
+    "New Delhi, India",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Manila, Philippines",
+    "Bangkok, Thailand",
+    "Taipei, Taiwan",
+    "Ho Chi Minh City, Vietnam",
+    "São Paulo, Brazil",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina",
+    "Santiago, Chile",
+    "Bogota, Colombia",
+    "Lima, Peru",
+    "Dubai, UAE",
+    "Riyadh, Saudi Arabia",
+    "Abu Dhabi, UAE",
+    "Doha, Qatar",
+    "Johannesburg, South Africa",
+    "Cairo, Egypt",
+    "Casablanca, Morocco"
+  ],
+  "JP Morgan Life Sciences and Healthcare": [
+    "New York, USA",
+    "Chicago, USA",
+    "San Francisco, USA",
+    "Los Angeles, USA",
+    "Dallas, USA",
+    "Houston, USA",
+    "Miami, USA",
+    "Boston, USA",
+    "Atlanta, USA",
+    "Seattle, USA",
+    "Washington D.C., USA",
+    "Toronto, Canada",
+    "Montreal, Canada",
+    "London, UK",
+    "Paris, France",
+    "Frankfurt, Germany",
+    "Dublin, Ireland",
+    "Luxembourg City, Luxembourg",
+    "Geneva, Switzerland",
+    "Zurich, Switzerland",
+    "Milan, Italy",
+    "Madrid, Spain",
+    "Amsterdam, Netherlands",
+    "Brussels, Belgium",
+    "Warsaw, Poland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Oslo, Norway",
+    "Helsinki, Finland",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Athens, Greece",
+    "Istanbul, Turkey",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Bucharest, Romania",
+    "Hong Kong, China",
+    "Singapore",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Beijing, China",
+    "Seoul, South Korea",
+    "Mumbai, India",
+    "Bangalore, India",
+    "New Delhi, India",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Manila, Philippines",
+    "Bangkok, Thailand",
+    "Taipei, Taiwan",
+    "Ho Chi Minh City, Vietnam",
+    "São Paulo, Brazil",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina",
+    "Santiago, Chile",
+    "Bogota, Colombia",
+    "Lima, Peru",
+    "Dubai, UAE",
+    "Riyadh, Saudi Arabia",
+    "Abu Dhabi, UAE",
+    "Doha, Qatar",
+    "Johannesburg, South Africa",
+    "Cairo, Egypt",
+    "Casablanca, Morocco"
+  ],
+  "JSR Corporation": [
+    "Tokyo, Japan",
+    "Yokkaichi, Japan",
+    "Chiba, Japan",
+    "Tsukuba, Japan",
+    "Sunnyvale, CA, USA",
+    "San Diego, CA, USA",
+    "Phoenix, AZ, USA",
+    "Portland, OR, USA",
+    "Leuven, Belgium",
+    "Darmstadt, Germany",
+    "Munich, Germany",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Beijing, China",
+    "Taipei, Taiwan",
+    "Singapore",
+    "Bangkok, Thailand",
+    "Kuala Lumpur, Malaysia",
+    "Gurgaon, India"
+  ],
+  "JT Pharma": [
+    "Osaka, Japan",
+    "Tokyo, Japan"
+  ],
+  "JT Ventures": [
+    "Tokyo, Japan"
+  ],
+  "JW Holdings": [
+    "Seoul, South Korea"
+  ],
+  "JW Pharmaceutical Corporation": [
+    "Seoul, South Korea",
+    "Dangjin, South Korea",
+    "Siheung, South Korea"
+  ],
+  "Jaguar Health, Inc.": [
+    "San Francisco, CA, USA"
+  ],
+  "Japan Bioindustry Association": [
+    "Tokyo, Japan"
+  ],
+  "Jene Advisors": [
+    "Shanghai, China"
+  ],
+  "JetStart VC": [
+    "San Francisco, CA, USA"
+  ],
+  "Jiahao Huang": [
+    "This is an individual's name, not a company with public locations."
+  ],
+  "Jiangsu Chia Tai Fenghai Pharmaceutical Co. Ltd.": [
+    "Nanjing, China",
+    "Liyang, China"
+  ]
+}
+```
+```json
+{
+  "Johnson & Johnson Innovation": [
+    "Cambridge (MA, USA)",
+    "San Francisco (CA, USA)",
+    "London (UK)",
+    "Shanghai (China)",
+    "Beerse (Belgium)",
+    "San Diego (CA, USA)",
+    "New York (NY, USA)"
+  ],
+  "Johnson & Johnson Innovation - JJDC, Inc.": [
+    "New Brunswick (NJ, USA)",
+    "Cambridge (MA, USA)",
+    "San Francisco (CA, USA)"
+  ],
+  "Johnston Associates Inc.": [
+    "Princeton (NJ, USA)"
+  ],
+  "Jones Boys Ventures": [
+    "Vancouver (BC, Canada)"
+  ],
+  "JourneyOne Ventures": [
+    "San Francisco (CA, USA)"
+  ],
+  "Joyance Partners": [
+    "San Francisco (CA, USA)"
+  ],
+  "Jubilant Biosys Limited": [
+    "Bengaluru (India)",
+    "Noida (India)",
+    "Malvern (PA, USA)"
+  ],
+  "Julius Clinical Research B.V.": [
+    "Zeist (Netherlands)"
+  ],
+  "Jupiter Neurosciences": [
+    "Jupiter (FL, USA)"
+  ],
+  "Juvena Therapeutics": [
+    "Menlo Park (CA, USA)"
+  ],
+  "K2 HealthVentures": [
+    "New York (NY, USA)",
+    "Menlo Park (CA, USA)"
+  ],
+  "K2X Technology and Life Science (formerly Kyto Technology and Life Science)": [
+    "Munich (Germany)"
+  ],
+  "KARIBU DUKANI": [
+    "N/A (No single corporate entity widely known by this name in relevant industries)"
+  ],
+  "KELES Digital Health": [
+    "Berlin (Germany)"
+  ],
+  "KESA Partners Inc": [
+    "New York (NY, USA)"
+  ],
+  "KIOMED PHARMA": [
+    "Montreal (QC, Canada)"
+  ],
+  "KKH Advisors": [
+    "New York (NY, USA)"
+  ],
+  "KLOTHO NEUROSCIENCES, INC.": [
+    "South San Francisco (CA, USA)"
+  ],
+  "KO Law": [
+    "Denver (CO, USA)",
+    "Boulder (CO, USA)",
+    "San Diego (CA, USA)"
+  ],
+  "KOTRA": [
+    "Seoul (South Korea)",
+    "New York (NY, USA)",
+    "London (UK)",
+    "Tokyo (Japan)",
+    "Beijing (China)",
+    "Frankfurt (Germany)",
+    "Los Angeles (CA, USA)"
+  ]
+}
+```
+```json
+{
+  "KP Healthcare Partners": [
+    "Salt Lake City, Utah, USA"
+  ],
+  "KUPANDO GmbH": [
+    "Munich, Germany"
+  ],
+  "Kaleida Capital": [
+    "London, United Kingdom"
+  ],
+  "Kancera AB": [
+    "Huddinge, Sweden"
+  ],
+  "Kanglin Biotec (Hangzhou) Co., Ltd.": [
+    "Hangzhou, China"
+  ],
+  "Kapoose Creek Bio": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "KeifeRx": [
+    "New York, New York, USA"
+  ],
+  "Keiretsu Forum": [
+    "San Francisco, California, USA",
+    "London, United Kingdom",
+    "Singapore",
+    "Sydney, Australia",
+    "Beijing, China"
+  ],
+  "Kerna Ventures": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Key2Meds": [
+    "London, United Kingdom"
+  ],
+  "Keybanc Capital Markets": [
+    "Atlanta, Georgia, USA",
+    "Boston, Massachusetts, USA",
+    "Charlotte, North Carolina, USA",
+    "Chicago, Illinois, USA",
+    "Cleveland, Ohio, USA",
+    "Dallas, Texas, USA",
+    "Denver, Colorado, USA",
+    "Houston, Texas, USA",
+    "Los Angeles, California, USA",
+    "New York, New York, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "Portland, Oregon, USA",
+    "San Francisco, California, USA",
+    "Seattle, Washington, USA",
+    "Stamford, Connecticut, USA",
+    "Toronto, Ontario, Canada"
+  ],
+  "Keylika Inc": [
+    "Menlo Park, California, USA"
+  ],
+  "Keystra Funds": [
+    "Zug, Switzerland"
+  ],
+  "Khosla Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "Kicker Ventures": [
+    "London, United Kingdom"
+  ],
+  "Kidron Capital Assets": [
+    "New York, New York, USA"
+  ],
+  "Kidswell Bio Corporation": [
+    "Tokyo, Japan"
+  ],
+  "Kindling Investment Partners": [
+    "New York, New York, USA"
+  ],
+  "Kinea Bio, Inc.": [
+    "South San Francisco, California, USA"
+  ],
+  "Kineo Finance": [
+    "London, United Kingdom",
+    "Amsterdam, Netherlands"
+  ]
+}
+```
+```json
+{
+  "Kinexcs Pte Ltd": [
+    "Singapore"
+  ],
+  "Kinexum": [
+    "Boulder, CO, USA",
+    "Silicon Valley, CA, USA"
+  ],
+  "KisoJi Biotechnology Inc.": [
+    "Boston, MA, USA",
+    "Kobe, Japan"
+  ],
+  "Kivu Biosciences": [
+    "San Francisco, CA, USA"
+  ],
+  "Komo Biosciences, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "Koneksa": [
+    "New York, NY, USA"
+  ],
+  "Kowa Research Institute": [
+    "Durham, NC, USA"
+  ],
+  "Kreamedica Holdings Inc.": [
+    "Seongnam-si, Gyeonggi-do, South Korea"
+  ],
+  "Kurma Partners SA": [
+    "Paris, France",
+    "Munich, Germany"
+  ],
+  "Kyowa Kirin, Inc": [
+    "Princeton, NJ, USA"
+  ],
+  "Kyung Hee University": [
+    "Seoul, South Korea",
+    "Suwon, Gyeonggi-do, South Korea",
+    "Namyangju, Gyeonggi-do, South Korea"
+  ],
+  "L&J Bio": [
+    "Seongnam-si, Gyeonggi-do, South Korea"
+  ],
+  "LABORATORIOS RUBIO SA": [
+    "Rubí, Barcelona, Spain"
+  ],
+  "LDV Partners": [
+    "New York, NY, USA"
+  ],
+  "LOUD Capital": [
+    "Columbus, OH, USA",
+    "Los Angeles, CA, USA"
+  ],
+  "LPOXY Therapeutics, Inc": [
+    "San Francisco, CA, USA"
+  ],
+  "LRI": [
+    "New Brunswick, NJ, USA"
+  ],
+  "LYFE Capital": [
+    "Shanghai, China",
+    "Palo Alto, CA, USA"
+  ],
+  "LYZZ Capital": [
+    "Shanghai, China"
+  ],
+  "Labcorp": [
+    "Burlington, NC, USA",
+    "San Diego, CA, USA",
+    "Indianapolis, IN, USA",
+    "Geneva, Switzerland",
+    "Singapore"
+  ]
+}
+```
+```json
+{
+  "LabyRx Immuno -Oncology": [
+    "San Francisco, CA, USA"
+  ],
+  "Ladenburg Thalmann & Co": [
+    "New York, NY, USA"
+  ],
+  "Lafana Holding": [
+    "Luxembourg"
+  ],
+  "Lahjavida, Inc.": [
+    "Wilmington, DE, USA"
+  ],
+  "Lair East Labs, LLC": [
+    "New York, NY, USA"
+  ],
+  "LallianSe": [
+    "Paris, France"
+  ],
+  "Landmark Capital Group, Inc.": [
+    "Newport Beach, CA, USA"
+  ],
+  "Latham BioPharm Group": [
+    "Cambridge, MA, USA"
+  ],
+  "LatticePoint Consulting": [
+    "Princeton, NJ, USA"
+  ],
+  "Laurent Pharmaceuticals": [
+    "Montreal, Canada"
+  ],
+  "Laverock Therapeutics": [
+    "Edinburgh, Scotland, UK"
+  ],
+  "Law360": [
+    "New York, NY, USA"
+  ],
+  "Leapfrog Bio": [
+    "Zurich, Switzerland"
+  ],
+  "Leman Biotech": [
+    "Geneva, Switzerland"
+  ],
+  "Leon Precision Capital": [
+    "Toronto, Canada"
+  ],
+  "Levine Media Group / The Bio Report": [
+    "New York, NY, USA"
+  ],
+  "LiVeritas Biosciences, Inc.": [
+    "San Mateo, CA, USA"
+  ],
+  "Liberi Group": [
+    "London, UK"
+  ],
+  "Life Science Angels": [
+    "San Francisco Bay Area, CA, USA"
+  ],
+  "Life Science Connect": [
+    "Erie, PA, USA"
+  ]
+}
+```
+```json
+{
+  "Life Sciences British Columbia": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "LifeLens Technologies": [
+    "San Diego, California, USA"
+  ],
+  "LifeLink Ventures": [
+    "Palo Alto, California, USA"
+  ],
+  "Lifespan Vision Ventures LLC": [
+    "Newton, Massachusetts, USA"
+  ],
+  "Lift Biosciences Ltd": [
+    "London, England, United Kingdom"
+  ],
+  "Liftt": [
+    "Montreal, Quebec, Canada"
+  ],
+  "LigaChem Biosciences (formerly LegoChem Biosciences)": [
+    "Daejeon, Republic of Korea",
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Lightbank": [
+    "Chicago, Illinois, USA"
+  ],
+  "Lightstone Ventures": [
+    "Palo Alto, California, USA",
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Lilac Therapuetics": [
+    "San Francisco, California, USA"
+  ],
+  "Lime Therapeutics": [
+    "San Diego, California, USA"
+  ],
+  "LincSwitch Therapeutics, Inc.": [
+    "San Francisco, California, USA"
+  ],
+  "Lincoln Park Capital Fund, LLC": [
+    "Chicago, Illinois, USA"
+  ],
+  "Linear Clinical Research": [
+    "Perth, Australia"
+  ],
+  "Lingmed Limited": [
+    "Beijing, China"
+  ],
+  "Lipo -Immuno Tech, LLC": [
+    "North Bethesda, Maryland, USA"
+  ],
+  "Liscure Biosciences": [
+    "Gyeonggi-do, Republic of Korea"
+  ],
+  "Live.Long.Life": [
+    "Hong Kong"
+  ],
+  "Livionex Inc.": [
+    "San Jose, California, USA"
+  ],
+  "Livivos Inc": [
+    "San Diego, California, USA"
+  ]
+}
+```
+```json
+{
+  "Lmito Therapeutics Inc.": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Locust Walk": [
+    "Boston, Massachusetts, USA",
+    "San Francisco, California, USA",
+    "New York, New York, USA",
+    "London, UK",
+    "Tokyo, Japan",
+    "Paris, France",
+    "Zurich, Switzerland"
+  ],
+  "LongGame Venture Capital": [
+    "San Francisco Bay Area, California, USA"
+  ],
+  "LongeVC": [
+    "Riga, Latvia"
+  ],
+  "Longeveron Inc.": [
+    "Miami, Florida, USA"
+  ],
+  "Longview Innovation": [
+    "Philadelphia, Pennsylvania, USA"
+  ],
+  "Longwood Biopharmaceuticals Co., Ltd.": [
+    "Shanghai, China"
+  ],
+  "Lonza Biologics": [
+    "Basel, Switzerland",
+    "Portsmouth, New Hampshire, USA",
+    "Slough, UK",
+    "Visp, Switzerland",
+    "Porriño, Spain",
+    "Singapore",
+    "Guangzhou, China",
+    "Houston, Texas, USA",
+    "Hayward, California, USA",
+    "Geleen, Netherlands"
+  ],
+  "LoopLab Bio GmbH": [
+    "Berlin, Germany"
+  ],
+  "Lotte Holdings": [
+    "Seoul, South Korea",
+    "Tokyo, Japan",
+    "New York, New York, USA",
+    "Moscow, Russia",
+    "Ho Chi Minh City, Vietnam",
+    "Shanghai, China",
+    "Jakarta, Indonesia"
+  ],
+  "Lowenstein Sandler": [
+    "Roseland, New Jersey, USA",
+    "New York, New York, USA",
+    "Palo Alto, California, USA",
+    "Washington, D.C., USA",
+    "Boston, Massachusetts, USA"
+  ],
+  "Loxigen": [
+    "Philadelphia, Pennsylvania, USA"
+  ],
+  "Loyal Valley Capital": [
+    "Shanghai, China",
+    "Hong Kong, China"
+  ],
+  "Ludicrous Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "Lumanity": [
+    "London, UK",
+    "Boston, Massachusetts, USA",
+    "New York, New York, USA",
+    "San Francisco, California, USA",
+    "Toronto, Canada",
+    "Basel, Switzerland",
+    "Munich, Germany",
+    "Tokyo, Japan",
+    "Shanghai, China"
+  ],
+  "Luminous Therapeutics": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Lumira Ventures": [
+    "Toronto, Ontario, Canada",
+    "Montreal, Quebec, Canada",
+    "Boston, Massachusetts, USA",
+    "Vancouver, British Columbia, Canada"
+  ],
+  "Lunar Biosciences": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Lunar Ventures": [
+    "Berlin, Germany"
+  ],
+  "Lupin Inc": [
+    "Mumbai, India",
+    "Baltimore, Maryland, USA",
+    "Somerset, New Jersey, USA",
+    "Amsterdam, Netherlands",
+    "Tokyo, Japan",
+    "Mexico City, Mexico",
+    "Johannesburg, South Africa",
+    "Sydney, Australia",
+    "Paris, France"
+  ]
+}
+```
+```json
+{
+  "Lymo Ventures": [
+    "San Francisco, California, United States"
+  ],
+  "Lynx Dx": [
+    "Ann Arbor, Michigan, United States"
+  ],
+  "Lynx Financial": [
+    "New York, New York, United States",
+    "Boston, Massachusetts, United States",
+    "Los Angeles, California, United States",
+    "Denver, Colorado, United States"
+  ],
+  "LynxDx, Inc.": [
+    "Ann Arbor, Michigan, United States"
+  ],
+  "M Ventures": [
+    "Amsterdam, Netherlands",
+    "Boston, Massachusetts, United States",
+    "Darmstadt, Germany",
+    "Menlo Park, California, United States",
+    "Tel Aviv, Israel"
+  ],
+  "M.I.A.M.I. AI Ventures & Future Fortune Fund": [
+    "Miami, Florida, United States"
+  ],
+  "M.S.Q. Ventures Inc.": [
+    "New York, New York, United States",
+    "Shanghai, China"
+  ],
+  "MAIA BIOTECHNOLOGY INC": [
+    "Chicago, Illinois, United States"
+  ],
+  "MAPREG": [
+    "Paris, France"
+  ],
+  "MC Services, Inc.": [
+    "Dusseldorf, Germany",
+    "Munich, Germany",
+    "Boston, Massachusetts, United States",
+    "San Francisco, California, United States"
+  ],
+  "MD Anderson Cancer Center": [
+    "Houston, Texas, United States",
+    "League City, Texas, United States",
+    "The Woodlands, Texas, United States",
+    "Sugar Land, Texas, United States",
+    "Katy, Texas, United States",
+    "Nassau Bay, Texas, United States",
+    "Bellaire, Texas, United States",
+    "Cypress, Texas, United States"
+  ],
+  "MDB Capital Holdings": [
+    "Santa Monica, California, United States"
+  ],
+  "MEDiC Life Sciences": [
+    "Houston, Texas, United States"
+  ],
+  "MEKanistic Therapeutics, Inc.": [
+    "Cambridge, Massachusetts, United States"
+  ],
+  "MFI, Inc.": [
+    "Lincoln, Rhode Island, United States"
+  ],
+  "MICHBIO": [
+    "Ann Arbor, Michigan, United States"
+  ],
+  "MIDI Medical Development": [
+    "Irvine, California, United States"
+  ],
+  "MII Fund": [
+    "Columbia, Maryland, United States"
+  ],
+  "MILKY WAY INVESTMENTS": [
+    "New York, New York, United States",
+    "London, United Kingdom"
+  ],
+  "MJH LIFE SCIENCES": [
+    "Cranbury, New Jersey, United States"
+  ]
+}
+```
+```json
+{
+  "MKC Biotherapeutics, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "MM +M": [
+    "New York, NY, USA",
+    "London, UK"
+  ],
+  "MOLCURE Inc.": [
+    "Yokohama, Japan"
+  ],
+  "MP Healthcare Venture Management": [
+    "Boston, MA, USA"
+  ],
+  "MPC Investments": [
+    "Hamburg, Germany"
+  ],
+  "MQB Partners Limited": [
+    "London, UK"
+  ],
+  "MRL Ventures Fund, Merck": [
+    "Cambridge, MA, USA",
+    "South San Francisco, CA, USA"
+  ],
+  "MRM Health": [
+    "Ghent, Belgium"
+  ],
+  "MULTIGENIX": [
+    "Princeton, NJ, USA"
+  ],
+  "Mabion S.A.": [
+    "Konstancin-Jeziorna, Poland"
+  ],
+  "Macuject Pty Ltd": [
+    "Brisbane, Australia"
+  ],
+  "Magnet Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Magsorbeo Biomedical": [
+    "Singapore"
+  ],
+  "MaidStone Life Sciences": [
+    "Ann Arbor, MI, USA"
+  ],
+  "Mannin Research": [
+    "Toronto, Canada"
+  ],
+  "Manta Ray": [
+    "Berlin, Germany",
+    "London, UK"
+  ],
+  "March of Dimes": [
+    "Arlington, VA, USA"
+  ],
+  "Marengo Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Maruho": [
+    "Osaka, Japan",
+    "Gotemba, Japan",
+    "Tamba, Japan"
+  ],
+  "Maryland Department of Commerce": [
+    "Baltimore, MD, USA",
+    "Germany",
+    "UK",
+    "China",
+    "Taiwan",
+    "Japan",
+    "South Korea",
+    "Israel",
+    "India",
+    "UAE",
+    "Ethiopia",
+    "Nigeria",
+    "Australia",
+    "Brazil",
+    "Mexico"
+  ]
+}
+```
+```json
+{
+  "Maryland Tech Council": [
+    "Rockville, Maryland, USA"
+  ],
+  "MassBio": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "MassMutual Ventures": [
+    "Boston, Massachusetts, USA",
+    "London, UK",
+    "Singapore"
+  ],
+  "Matisse Pharmaceuticals B.V.": [
+    "Maastricht, The Netherlands"
+  ],
+  "Mauve Social": [
+    "Remote"
+  ],
+  "Maxwell Biosciences, Inc.": [
+    "Austin, Texas, USA"
+  ],
+  "Mayewell Capital": [
+    "Sydney, Australia"
+  ],
+  "Mayo Clinic Ventures": [
+    "Rochester, Minnesota, USA"
+  ],
+  "McKesson Compile": [
+    "Irving, Texas, USA"
+  ],
+  "McQuade Center for Strategic Research & Development": [
+    "Lawrence, Kansas, USA"
+  ],
+  "Mecwins SA": [
+    "Madrid, Spain"
+  ],
+  "Med-Fine Capital": [
+    "Hong Kong"
+  ],
+  "MedTech Advantage Fund": [
+    "Cincinnati, Ohio, USA"
+  ],
+  "MedTech Strategist": [
+    "South San Francisco, California, USA"
+  ],
+  "Medexplore Ventures": [
+    "Paris, France"
+  ],
+  "Medical Excellence Capital": [
+    "Palo Alto, California, USA"
+  ],
+  "Medical Incubator Japan K.K.": [
+    "Tokyo, Japan"
+  ],
+  "Medicenna Therapeutics": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Medico Distribution DMCC": [
+    "Dubai, UAE"
+  ],
+  "Medipal Holdings Corporation": [
+    "Tokyo, Japan"
+  ]
+}
+```
+```json
+{
+  "Mediphage": [
+    "Toronto, Canada"
+  ],
+  "Mediwhale": [
+    "San Francisco, California, USA",
+    "Seoul, South Korea"
+  ],
+  "Meiji Pharma USA Inc.": [
+    "Parsippany, New Jersey, USA"
+  ],
+  "Meltwind": [
+    "London, UK"
+  ],
+  "Men's Health - Sarah Richards": [
+    "Not Applicable (individual writer/editor)"
+  ],
+  "Merck & Co., Inc.": [
+    "Rahway, New Jersey, USA",
+    "Kenilworth, New Jersey, USA",
+    "Upper Gwynedd, Pennsylvania, USA",
+    "West Point, Pennsylvania, USA",
+    "Boston, Massachusetts, USA",
+    "South San Francisco, California, USA",
+    "London, UK",
+    "Tokyo, Japan",
+    "Singapore"
+  ],
+  "Merck Digital Sciences Studio": [
+    "Boston, Massachusetts, USA",
+    "South San Francisco, California, USA",
+    "Rahway, New Jersey, USA"
+  ],
+  "Merck KGaA, Darmstadt, Germany": [
+    "Darmstadt, Germany",
+    "Billerica, Massachusetts, USA",
+    "Rockland, Massachusetts, USA",
+    "Molsheim, France",
+    "Tokyo, Japan"
+  ],
+  "Mercury": [
+    "San Francisco, California, USA"
+  ],
+  "Mercury Bio": [
+    "San Francisco, California, USA"
+  ],
+  "Merge Therapeutics": [
+    "Durham, North Carolina, USA"
+  ],
+  "Mergermarket - ION Analytics Group": [
+    "London, UK",
+    "New York, New York, USA",
+    "Hong Kong",
+    "Singapore",
+    "Dubai, UAE",
+    "Frankfurt, Germany"
+  ],
+  "Meritage Venture Group": [
+    "Denver, Colorado, USA"
+  ],
+  "Mesa Verde Venture Partners": [
+    "San Diego, California, USA"
+  ],
+  "Mesh Bio": [
+    "Singapore"
+  ],
+  "Mesoblast": [
+    "Melbourne, Australia",
+    "New York, New York, USA"
+  ],
+  "Methuselah Fund": [
+    "Springfield, Virginia, USA"
+  ],
+  "MetrioPharm AG": [
+    "Berlin, Germany"
+  ],
+  "Meyers Investments Family LP": [
+    "Los Altos, California, USA"
+  ],
+  "Michigan Capital Network": [
+    "Grand Rapids, Michigan, USA"
+  ]
+}
+```
+```json
+{
+  "Micron Biomedical, Inc": ["Atlanta, GA, USA"],
+  "Microplate Dx": ["South San Francisco, CA, USA"],
+  "Microvascular Therapeutics, Inc": ["Boulder, CO, USA"],
+  "Mid Atlantic Bio Angels": ["New York, NY, USA"],
+  "Mighty Spark Communications": ["New York, NY, USA"],
+  "Militia Hill Ventures": ["Blue Bell, PA, USA"],
+  "Milkomeda Capital": ["London, UK"],
+  "Mind Pharmaceuticals Corporation": ["Lexington, MA, USA"],
+  "MindImmune Therapeutics, Inc.": ["Newport, RI, USA"],
+  "MindRank": ["Guangzhou, China", "Boston, MA, USA"],
+  "Mineralys Therapeutics": ["Radnor, PA, USA"],
+  "Minnow ventures": ["London, UK"],
+  "Mint Venture Partners, Inc.": ["Menlo Park, CA, USA"],
+  "MiraBiologics": ["Menlo Park, CA, USA"],
+  "Misogi Labs": ["London, UK"],
+  "Mission BioCapital": ["Cambridge, MA, USA"],
+  "MitoRx Therapeutics Limited": ["Oxford, UK"],
+  "Mitomed Pharma Inc.": ["Fremont, CA, USA"],
+  "MitrAssist Lifesciences Limited": ["London, UK"],
+  "Mitsubishi Tanabe Pharma": ["Osaka, Japan", "Boston, MA, USA", "London, UK"]
+}
+```
+```json
+{
+  "Mitsubishi UFJ Capital Co.,Ltd.": [
+    "Tokyo, Japan"
+  ],
+  "Mitsui Global Investment": [
+    "Tokyo, Japan"
+  ],
+  "Mobius Scientific, Inc.": [
+    "San Carlos, CA, USA"
+  ],
+  "Mochida Pharmaceutical Co., Ltd.": [
+    "Tokyo, Japan",
+    "Gotemba, Japan",
+    "Shiga, Japan",
+    "Fuji, Japan",
+    "Hanamaki, Japan"
+  ],
+  "Modality.AI, Inc.": [
+    "Berkeley, CA, USA"
+  ],
+  "Modi Venture": [
+    "New Delhi, India"
+  ],
+  "MoglingBio": [
+    "Freiburg, Germany"
+  ],
+  "Molecular You": [
+    "Vancouver, BC, Canada"
+  ],
+  "Molecule to Market": [
+    "San Diego, CA, USA",
+    "London, UK"
+  ],
+  "Momentum Biotech": [
+    "San Diego, CA, USA"
+  ],
+  "Montrose Capital Partners": [
+    "Greenwich, CT, USA"
+  ],
+  "Moore Capital": [
+    "New York, NY, USA",
+    "London, UK"
+  ],
+  "Moore Venture Partners": [
+    "Sausalito, CA, USA"
+  ],
+  "Morgan Stanley": [
+    "New York, NY, USA",
+    "London, UK",
+    "Hong Kong",
+    "Tokyo, Japan",
+    "Mumbai, India",
+    "Sydney, Australia",
+    "Frankfurt, Germany"
+  ],
+  "Morningside Ventures": [
+    "Cambridge, MA, USA"
+  ],
+  "Morphocell Technologies": [
+    "Toronto, ON, Canada"
+  ],
+  "Mosaica Therapeutics": [
+    "La Jolla, CA, USA"
+  ],
+  "MultiOmic Health Limited": [
+    "Cambridge, UK"
+  ],
+  "Multimeric Biotherapeutics, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "Mustbio": [
+    "Singapore"
+  ]
+}
+```
+```json
+{
+  "Myostellar": [
+    "Basel, Switzerland"
+  ],
+  "Myria Biosciences AG": [
+    "Basel, Switzerland"
+  ],
+  "Myrio Therapeutics Pty Ltd": [
+    "Melbourne, Australia"
+  ],
+  "NACO Canada": [
+    "Toronto, Ontario, Canada"
+  ],
+  "NAYA Biosciences": [
+    "Cambridge, MA, USA",
+    "London, UK"
+  ],
+  "NEUMOUS INC.": [
+    "Berkeley, CA, USA"
+  ],
+  "NEVA SGR": [
+    "Rome, Italy",
+    "Milan, Italy"
+  ],
+  "NEXA BIO PARTNERS": [
+    "Singapore"
+  ],
+  "NFL Biosciences": [
+    "Montpellier, France"
+  ],
+  "NFX capital": [
+    "San Francisco, CA, USA",
+    "Palo Alto, CA, USA"
+  ],
+  "NH Theraguix": [
+    "Grenoble, France"
+  ],
+  "NIA/NIH": [
+    "Bethesda, MD, USA"
+  ],
+  "NIBEC Co.,Ltd.": [
+    "Seoul, South Korea"
+  ],
+  "NINDS": [
+    "Bethesda, MD, USA"
+  ],
+  "NKILT Therapeutics, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "NOBO Medicine Inc.": [
+    "Philadelphia, PA, USA"
+  ],
+  "NS Pharma Inc.": [
+    "Paramus, NJ, USA"
+  ],
+  "NSIP LLC": [
+    "Albuquerque, NM, USA"
+  ],
+  "NUAgo Therapeutics Inc": [
+    "Saskatoon, Saskatchewan, Canada"
+  ],
+  "NUP -CTx Inc.": [
+    "Hanam City, Gyeonggi Province, South Korea"
+  ]
+}
+```
+```json
+{
+  "NUTSHELL THERAPEUTICS": [
+    "Cambridge, MA, USA"
+  ],
+  "NY Ventures at Empire State Development": [
+    "New York, NY, USA",
+    "Albany, NY, USA"
+  ],
+  "Nabugen Therapeutics": [
+    "New Haven, CT, USA"
+  ],
+  "Nalu Bio": [
+    "San Diego, CA, USA"
+  ],
+  "Nammi Therapeutics, Inc.": [
+    "San Francisco, CA, USA"
+  ],
+  "Nano4Imaging GmbH": [
+    "Aachen, Germany"
+  ],
+  "NanoSyrinx Ltd": [
+    "Oxford, UK"
+  ],
+  "NanoViricides, Inc.": [
+    "Shelton, CT, USA"
+  ],
+  "Nanobiotix": [
+    "Paris, France",
+    "Cambridge, MA, USA"
+  ],
+  "Nanograb": [
+    "Daejeon, South Korea"
+  ],
+  "Nanopath": [
+    "Cambridge, MA, USA"
+  ],
+  "Narwhal Bio, Inc": [
+    "Cambridge, MA, USA"
+  ],
+  "Nasdaq": [
+    "New York, NY, USA",
+    "Stockholm, Sweden",
+    "London, UK",
+    "San Francisco, CA, USA",
+    "Boston, MA, USA",
+    "Vilnius, Lithuania"
+  ],
+  "National Newspaper Publishers Association": [
+    "Washington D.C., USA"
+  ],
+  "Nature Portfolio, Evaluate": [
+    "London, UK",
+    "Boston, MA, USA",
+    "New York, NY, USA",
+    "Heidelberg, Germany"
+  ],
+  "Navigo Proteins": [
+    "Braunschweig, Germany"
+  ],
+  "NeoVascularX, Inc.": [
+    "San Mateo, CA, USA"
+  ],
+  "Neoventures Biotechnology Europe": [
+    "London, UK"
+  ],
+  "Nest Catalyst Ventures": [
+    "Hong Kong"
+  ],
+  "NeuExcell Therapeutics Inc": [
+    "Gaithersburg, MD, USA"
+  ]
+}
+```
+```json
+{
+  "Neuland Laboratories Inc": [
+    "Hyderabad, India",
+    "Bonthapally, India",
+    "Pashamylaram, India",
+    "Gummadidala, India"
+  ],
+  "NeuraViva Therapeutics, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "Neurenati Therapeutics Inc": [
+    "Boston, MA, USA"
+  ],
+  "Neurocentrx Pharma Ltd": [
+    "London, UK"
+  ],
+  "Neuroelectrics USA Corporation": [
+    "Cambridge, MA, USA"
+  ],
+  "Neurotech Reports": [
+    "San Francisco, CA, USA"
+  ],
+  "Neuvation Ventures": [
+    "San Diego, CA, USA"
+  ],
+  "New England Hemolytics Inc.": [
+    "Burlington, MA, USA"
+  ],
+  "New Frontier Enterprises, LLC": [
+    "Princeton, NJ, USA"
+  ],
+  "New Perspectives, Inc": [
+    "Basking Ridge, NJ, USA"
+  ],
+  "New Rhein Healthcare Investors": [
+    "New York, NY, USA"
+  ],
+  "New Science Fund": [
+    "San Francisco, CA, USA"
+  ],
+  "NewCo Biotech, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "NewYorkBio": [
+    "New York, NY, USA"
+  ],
+  "Nex3": [
+    "Cambridge, MA, USA"
+  ],
+  "NextRNA Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Niche Biopharmaceuticals, LLC": [
+    "Exton, PA, USA"
+  ],
+  "Nielsen BioSciences": [
+    "San Diego, CA, USA"
+  ],
+  "Nieuw Amsterdam Advisors, LLC": [
+    "New York, NY, USA"
+  ],
+  "Nippon Shinyaku Co. Ltd": [
+    "Kyoto, Japan",
+    "Parsippany, NJ, USA",
+    "London, UK",
+    "Munich, Germany"
+  ]
+}
+```
+```json
+{
+  "Niremia Collective": [
+    "San Francisco, California, USA"
+  ],
+  "Nkarta": [
+    "South San Francisco, California, USA"
+  ],
+  "No Patient Left Behind": [
+    "Washington D.C., USA",
+    "New York City, New York, USA"
+  ],
+  "Noa Therapeutics": [
+    "Boston, Massachusetts, USA"
+  ],
+  "Noble Capital Markets": [
+    "Boca Raton, Florida, USA",
+    "New York City, New York, USA",
+    "London, UK",
+    "Boston, Massachusetts, USA",
+    "San Francisco, California, USA"
+  ],
+  "Nodal Therapeutics": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Nodenza Venture Partners": [
+    "Zug, Switzerland"
+  ],
+  "Nodes Advisors AG": [
+    "Zurich, Switzerland"
+  ],
+  "Nordmark Pharma GmbH": [
+    "Uetersen, Germany",
+    "Hamburg, Germany"
+  ],
+  "Norstella": [
+    "Yardley, Pennsylvania, USA",
+    "London, UK",
+    "Boston, Massachusetts, USA",
+    "New York City, New York, USA",
+    "Morrisville, North Carolina, USA"
+  ],
+  "North South Ventures": [
+    "New York City, New York, USA"
+  ],
+  "Northlea Partners LLLP": [
+    "New York City, New York, USA"
+  ],
+  "Norwest Venture Partners": [
+    "Palo Alto, California, USA",
+    "Bangalore, India"
+  ],
+  "Notogen, Inc.": [
+    "Berkeley, California, USA"
+  ],
+  "NovaCina": [
+    "Perth, Australia",
+    "Adelaide, Australia"
+  ],
+  "NovaQuest Capital Management": [
+    "Raleigh, North Carolina, USA"
+  ],
+  "Novago Therapeutics": [
+    "Basel, Switzerland"
+  ],
+  "Novalis II General Partner BV": [
+    "Ghent, Belgium"
+  ],
+  "Novastage Pharmaceuticals, Ltd.": [
+    "Seoul, South Korea"
+  ],
+  "Novateur Ventures Inc.": [
+    "Vancouver, British Columbia, Canada"
+  ]
+}
+```
+```json
+{
+  "Novatio Ventures": ["Boston, MA, USA"],
+  "Novel Biotechnology Inc.": ["New York, NY, USA"],
+  "Novigenix SA": ["Epalinges, Switzerland"],
+  "Novo Holdings": ["Copenhagen, Denmark", "Boston, MA, USA", "San Francisco, CA, USA", "London, UK"],
+  "Novo Nordisk": [
+    "Bagsværd, Denmark",
+    "Plainsboro, NJ, USA",
+    "Kalundborg, Denmark",
+    "Måløv, Denmark",
+    "Zürich, Switzerland",
+    "Seattle, WA, USA",
+    "Oxford, UK",
+    "Indianapolis, IN, USA",
+    "Clayton, NC, USA"
+  ],
+  "Novotech": [
+    "Sydney, Australia",
+    "San Francisco, CA, USA",
+    "Boston, MA, USA",
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Singapore",
+    "Kuala Lumpur, Malaysia",
+    "Bangkok, Thailand",
+    "Manila, Philippines",
+    "New Delhi, India",
+    "Tokyo, Japan"
+  ],
+  "Nucleus Network": ["Melbourne, Australia", "Brisbane, Australia", "Minneapolis, MN, USA"],
+  "Nucro -Technics": ["Toronto, ON, Canada"],
+  "NuevaBio LLC": ["Miami, FL, USA"],
+  "Nutmeg": ["London, UK"],
+  "NuvOx Theraputics": ["Tucson, AZ, USA"],
+  "OBI Pharma USA, Inc": ["South San Francisco, CA, USA"],
+  "OBIO": ["Toronto, ON, Canada"],
+  "OCMS Bio, LLC": ["San Diego, CA, USA"],
+  "ONCOCROSS": ["Seoul, South Korea"],
+  "ONEGENE BIOTECHNOLOGY": ["Taipei, Taiwan"],
+  "ONO PHARMA USA, INC.": ["Cambridge, MA, USA", "South San Francisco, CA, USA"],
+  "OPIS": [
+    "Rockville, MD, USA",
+    "Houston, TX, USA",
+    "London, UK",
+    "Singapore",
+    "Kuala Lumpur, Malaysia",
+    "Sydney, Australia"
+  ],
+  "ORCA Therapeutics": ["Rotterdam, Netherlands"],
+  "OXcan": ["Oxford, UK"]
+}
+```
+```json
+{
+  "Oath Surgical": [
+    "Redwood City, CA, USA"
+  ],
+  "Object Pharma": [
+    "London, UK"
+  ],
+  "Oblique Therapeutics": [
+    "Gothenburg, Sweden"
+  ],
+  "Oblita Therapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "Octane Bio LLC": [
+    "Cambridge, MA, USA"
+  ],
+  "Oculis": [
+    "Lausanne, Switzerland",
+    "Boston, MA, USA",
+    "Reykjavik, Iceland"
+  ],
+  "Ohio Life Sciences": [],
+  "Oji Pharma": [
+    "Princeton, NJ, USA"
+  ],
+  "Olfera": [
+    "Boston, MA, USA"
+  ],
+  "Olon USA": [
+    "Concord, OH, USA",
+    "Rochester, NY, USA",
+    "Germantown, WI, USA"
+  ],
+  "Omios Biologics": [
+    "Paris, France"
+  ],
+  "OmniaBio Inc.": [
+    "Hamilton, Ontario, Canada"
+  ],
+  "Omniscope Inc": [
+    "San Diego, CA, USA"
+  ],
+  "OncoRx Insights": [],
+  "Oncodea Corporation": [
+    "Houston, TX, USA"
+  ],
+  "Oncolytics Biotech INC.": [
+    "Calgary, Alberta, Canada",
+    "San Diego, CA, USA",
+    "Cambridge, MA, USA",
+    "London, UK"
+  ],
+  "Onconox Inc.": [
+    "Irvine, CA, USA"
+  ],
+  "Oncoshot Pte Ltd": [
+    "Singapore",
+    "Bangalore, India"
+  ],
+  "Oncoustics": [
+    "Waterloo, Ontario, Canada"
+  ],
+  "One Six 8 Ventures": [
+    "San Francisco, CA, USA"
+  ]
+}
+```
+```json
+{
+  "One Therapeutics Assets Limited": [
+    "Sutton, UK"
+  ],
+  "OniX Hub & Ventures": [
+    "London, UK",
+    "Bangkok, Thailand"
+  ],
+  "Only Orphans Cote": [
+    "Ndola, Zambia"
+  ],
+  "Ontario Government": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Onyx": [
+    "Sunderland, UK"
+  ],
+  "Opharmic Technology (HK) Limited": [
+    "Hong Kong, China",
+    "Waltham, MA, USA"
+  ],
+  "Oppenheimer & Co.": [
+    "New York, NY, USA",
+    "Boston, MA, USA",
+    "London, UK",
+    "Tel Aviv, Israel"
+  ],
+  "Oppilotech Ltd": [
+    "London, UK"
+  ],
+  "Opthea": [
+    "Melbourne, Australia",
+    "Redwood City, CA, USA"
+  ],
+  "Optimum Strategic Communications": [
+    "London, UK"
+  ],
+  "Opus8, Inc.": [
+    "San Francisco, CA, USA"
+  ],
+  "Oracle Investment Management": [
+    "New York, NY, USA"
+  ],
+  "Orange Grove Bio": [
+    "Cincinnati, OH, USA",
+    "New York, NY, USA"
+  ],
+  "OrbiMed": [
+    "New York, NY, USA",
+    "San Francisco, CA, USA",
+    "Shanghai, China",
+    "Herzliya, Israel",
+    "London, UK",
+    "Mumbai, India"
+  ],
+  "Orbit Discovery Ltd": [
+    "Oxford, UK"
+  ],
+  "Ordaos Bio": [
+    "Paris, France"
+  ],
+  "Oregon Bioscience Association": [
+    "Portland, OR, USA"
+  ],
+  "Oregon Venture Fund": [
+    "Portland, OR, USA"
+  ],
+  "Oresund Capital": [
+    "Copenhagen, Denmark"
+  ],
+  "Ori Biotech": [
+    "London, UK",
+    "Milford, CT, USA"
+  ]
+}
+```
+```json
+{
+  "Origenis GmbH": ["Martinsried, Germany"],
+  "Orikine Bio, S.L.": ["Barcelona, Spain"],
+  "Orio Therapeutics": ["Baltimore, MD, USA"],
+  "Orion Corporation Orion Pharma": ["Espoo, Finland", "Turku, Finland", "Oulu, Finland", "Kuopio, Finland", "Salo, Finland", "Nottingham, UK", "Stockholm, Sweden"],
+  "Orion Therapeutics, Inc.": ["Cambridge, MA, USA"],
+  "Orizuru Therapeutics, Inc.": ["Cambridge, MA, USA"],
+  "Osaka University": ["Suita, Osaka, Japan", "Toyonaka, Osaka, Japan", "Minoh, Osaka, Japan"],
+  "Osaka University Venture Capital Co., Ltd.": ["Suita, Osaka, Japan"],
+  "Osmol Therapeutics, Inc.": ["Cambridge, MA, USA"],
+  "Ostau Marque": [],
+  "Osteogen Technology Corp.": ["Taipei, Taiwan"],
+  "Outcome Capital": ["Boston, MA, USA"],
+  "Outrun Therapeutics": ["Barcelona, Spain"],
+  "Overseas Pharmaceuticals": ["Kolkata, India"],
+  "Owl Therapeutics": ["Tokyo, Japan"],
+  "OxSonics Therapeutics": ["Oxford, UK"],
+  "Oxford Finance": ["Alexandria, VA, USA", "San Diego, CA, USA", "Palo Alto, CA, USA", "Boston, MA, USA"],
+  "Oxford Medical Products Limited": ["Oxford, UK"],
+  "P95": ["Leuven, Belgium", "Antwerp, Belgium"],
+  "PDX Pharmaceuticals": ["Portland, OR, USA"]
+}
+```
+```json
+{
+  "PG Pharma": [
+    "Hyderabad, India",
+    "Roorkee, India"
+  ],
+  "PHIOGEN": [
+    "Gyeonggi-do, South Korea"
+  ],
+  "PNAS Therapeutics Ltd": [
+    "Cambridge, UK"
+  ],
+  "POP Biotechnologies": [
+    "Gainesville, Florida, USA"
+  ],
+  "POSTECH": [
+    "Pohang, South Korea"
+  ],
+  "PRISM BioLab Co., Ltd.": [
+    "Tokyo, Japan",
+    "Kawasaki, Japan"
+  ],
+  "PROMISS Diagnostics, Inc.": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "PRONAV Clinical": [
+    "Research Triangle Park, North Carolina, USA"
+  ],
+  "PTM Therapeutics, Inc.": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "PURMX Therapeutics, Inc.": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "PURPLE BIOTECH": [
+    "Daejeon, South Korea"
+  ],
+  "Pace Life Sciences": [
+    "Minneapolis, Minnesota, USA",
+    "San Jose, California, USA",
+    "San Diego, California, USA",
+    "Woburn, Massachusetts, USA",
+    "Shanghai, China"
+  ],
+  "Pacific 8 Ventures": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "Pacylex Pharmaceuticals, Inc.": [
+    "Edmonton, Alberta, Canada"
+  ],
+  "PairX Bio": [
+    "Oxford, UK"
+  ],
+  "Paladin Capital Group": [
+    "Washington, D.C., USA",
+    "New York, New York, USA",
+    "London, UK",
+    "Silicon Valley, California, USA"
+  ],
+  "Palden Management LLC": [
+    "New York, New York, USA"
+  ],
+  "Pan Cancer T": [
+    "Leiden, Netherlands"
+  ],
+  "Panacea Venture": [
+    "San Francisco, California, USA",
+    "Shanghai, China"
+  ],
+  "Panakes Partners SGRSPA": [
+    "Milan, Italy"
+  ]
+}
+```
+```json
+{
+  "Pandect Bioventures": [
+    "San Francisco, CA"
+  ],
+  "Pangen Fund I GP LLC": [
+    "New York, NY"
+  ],
+  "Panorama Research, Inc.": [
+    "La Jolla, CA"
+  ],
+  "Pappas Capital": [
+    "Research Triangle Park, NC"
+  ],
+  "Paradigm Capital": [
+    "San Francisco, CA",
+    "New York, NY"
+  ],
+  "Parexel International": [
+    "Newton, MA",
+    "Durham, NC",
+    "Berlin, Germany",
+    "Hyderabad, India",
+    "Singapore"
+  ],
+  "Particular Ventures LLC": [
+    "Miami, FL"
+  ],
+  "Path Fertility": [
+    "New York, NY"
+  ],
+  "Pathway Bioventures": [
+    "San Diego, CA"
+  ],
+  "Pattern Computer": [
+    "Bellevue, WA"
+  ],
+  "Pattern Pharma Inc.": [
+    "Cambridge, MA"
+  ],
+  "Pear VC": [
+    "Palo Alto, CA",
+    "New York, NY"
+  ],
+  "Pearl Holdings Acquisition Corp": [
+    "Richardson, TX"
+  ],
+  "Perceptive Advisors": [
+    "New York, NY"
+  ],
+  "Peregrine Ventures": [
+    "Herzliya Pituach, Israel"
+  ],
+  "Perfusion Medical": [
+    "Los Gatos, CA"
+  ],
+  "Perseo pharma AG": [
+    "Zürich, Switzerland"
+  ],
+  "Perseverance Capital Advisors LLC": [
+    "New York, NY"
+  ],
+  "Persica Pharmaceuticals Ltd": [
+    "Cheadle, UK"
+  ],
+  "Perspective Therapeutics": [
+    "Coronado, CA",
+    "Indianapolis, IN"
+  ]
+}
+```
+```json
+{
+  "Phaim Pharma": [
+    "Basel, Switzerland"
+  ],
+  "PharmEnable Therapeutics Limited": [
+    "Cambridge, UK"
+  ],
+  "Pharma Capital Partners": [
+    "New York, NY, USA"
+  ],
+  "Pharma Manufacturing": [
+    "Ramsey, NJ, USA"
+  ],
+  "PharmaCatalyst": [
+    "San Francisco, CA, USA"
+  ],
+  "Pharmaphorum": [
+    "London, UK"
+  ],
+  "Pharmascience Inc": [
+    "Montreal, Quebec, Canada"
+  ],
+  "PharmassetX": [
+    "Cambridge, MA, USA"
+  ],
+  "Phase Capital": [
+    "London, UK"
+  ],
+  "Phase Scientific International Ltd (HK)": [
+    "Hong Kong",
+    "Santa Clara, CA, USA"
+  ],
+  "Phase Two Ventures": [
+    "Sydney, Australia"
+  ],
+  "Phecda Medicine Co., Ltd.": [
+    "Shanghai, China"
+  ],
+  "Philadelphia Business Journal": [
+    "Philadelphia, PA, USA"
+  ],
+  "Philips": [
+    "Amsterdam, Netherlands",
+    "Cambridge, MA, USA",
+    "Eindhoven, Netherlands",
+    "Shanghai, China",
+    "Bangalore, India"
+  ],
+  "Phoenix Venture Partners": [
+    "Menlo Park, CA, USA"
+  ],
+  "Photonfund": [
+    "London, UK"
+  ],
+  "PhotoniCare": [
+    "Champaign, IL, USA"
+  ],
+  "Phrontline Biopharma": [
+    "Cambridge, MA, USA"
+  ],
+  "Physiologas Technologies Inc.": [
+    "Toronto, Ontario, Canada"
+  ],
+  "Picodya Technologies Ltd.": [
+    "Rehovot, Israel"
+  ]
+}
+```
+```json
+{
+  "Pictura Bio": [
+    "Cambridge, MA, USA"
+  ],
+  "Pilatus Biosciences SA": [
+    "Lugano, Switzerland"
+  ],
+  "Pin Therapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "Piper Sandler": [
+    "Aberdeen, UK",
+    "Atlanta, GA, USA",
+    "Austin, TX, USA",
+    "Baltimore, MD, USA",
+    "Beijing, China",
+    "Belfast, UK",
+    "Boston, MA, USA",
+    "Charlotte, NC, USA",
+    "Chicago, IL, USA",
+    "Cleveland, OH, USA",
+    "Dallas, TX, USA",
+    "Denver, CO, USA",
+    "Dublin, Ireland",
+    "Edinburgh, UK",
+    "Geneva, Switzerland",
+    "Hong Kong",
+    "Houston, TX, USA",
+    "Irvine, CA, USA",
+    "Kansas City, MO, USA",
+    "London, UK",
+    "Los Angeles, CA, USA",
+    "Manchester, UK",
+    "Minneapolis, MN, USA",
+    "Nashville, TN, USA",
+    "New York, NY, USA",
+    "Oslo, Norway",
+    "Philadelphia, PA, USA",
+    "Reading, UK",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "Short Hills, NJ, USA",
+    "Stockholm, Sweden",
+    "Washington D.C., USA",
+    "West Palm Beach, FL, USA",
+    "Zürich, Switzerland"
+  ],
+  "Piramal Pharma Solutions": [
+    "Ahmedabad, India",
+    "Aurora, ON, Canada",
+    "Digby, NS, Canada",
+    "Ennore, India",
+    "Grand Island, NY, USA",
+    "Grangemouth, UK",
+    "Heredia, Costa Rica",
+    "Lexington, KY, USA",
+    "Morpeth, UK",
+    "Pithampur, India",
+    "Riverview, MI, USA",
+    "Sellersville, PA, USA",
+    "Toronto, ON, Canada"
+  ],
+  "Pivotal bioVenture Partners": [
+    "Menlo Park, CA, USA",
+    "Shanghai, China"
+  ],
+  "Playground Global": [
+    "Palo Alto, CA, USA"
+  ],
+  "Plug and Play": [
+    "Abu Dhabi, UAE",
+    "Amsterdam, Netherlands",
+    "Antananarivo, Madagascar",
+    "Bangkok, Thailand",
+    "Beijing, China",
+    "Belo Horizonte, Brazil",
+    "Berlin, Germany",
+    "Brussels, Belgium",
+    "Calgary, Canada",
+    "Casablanca, Morocco",
+    "Cheonan, South Korea",
+    "Chicago, IL, USA",
+    "Detroit, MI, USA",
+    "Dubai, UAE",
+    "Guadalajara, Mexico",
+    "Hamburg, Germany",
+    "Helsinki, Finland",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Kyoto, Japan",
+    "Lisbon, Portugal",
+    "London, UK",
+    "Madrid, Spain",
+    "Manila, Philippines",
+    "Melbourne, Australia",
+    "Mexico City, Mexico",
+    "Milan, Italy",
+    "Munich, Germany",
+    "New York, NY, USA",
+    "Osaka, Japan",
+    "Paris, France",
+    "Pittsburgh, PA, USA",
+    "Rio de Janeiro, Brazil",
+    "Riyadh, Saudi Arabia",
+    "Santiago, Chile",
+    "São Paulo, Brazil",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Silicon Valley, CA, USA",
+    "Singapore",
+    "Stockholm, Sweden",
+    "Stuttgart, Germany",
+    "Sunnyvale, CA, USA",
+    "Taipei, Taiwan",
+    "Tel Aviv, Israel",
+    "Tokyo, Japan",
+    "Toronto, Canada",
+    "Vienna, Austria",
+    "Warsaw, Poland",
+    "Washington, D.C., USA"
+  ],
+  "Plum Alley": [
+    "New York, NY, USA"
+  ],
+  "Plurify": [
+    "San Francisco, CA, USA"
+  ],
+  "Pluvia Biotech": [
+    "San Diego, CA, USA"
+  ],
+  "Pneumagen Ltd": [
+    "St Andrews, Scotland, UK"
+  ],
+  "PoC Capital, LLC": [
+    "New York, NY, USA"
+  ],
+  "Polsky Center at UChicago": [
+    "Chicago, IL, USA"
+  ],
+  "PolyPeptide Group": [
+    "Berlin, Germany",
+    "Boston, MA, USA",
+    "Braine-l’Alleud, Belgium",
+    "Cambridge, UK",
+    "Colmar, France",
+    "Herzliya, Israel",
+    "Hillerød, Denmark",
+    "Malmö, Sweden",
+    "Mumbai, India",
+    "Osaka, Japan",
+    "San Diego, CA, USA",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Singapore",
+    "Taipei, Taiwan",
+    "Torrance, CA, USA"
+  ],
+  "Polyactiva Ltd": [
+    "Perth, WA, Australia"
+  ],
+  "Polymed Biopharmaceuticals, Inc.": [
+    "Burlington, MA, USA"
+  ],
+  "Ponce AI": [
+    "Boston, MA, USA"
+  ],
+  "Portal Innovations": [
+    "Chicago, IL, USA"
+  ],
+  "Portfolia Femtech Funds": [
+    "Menlo Park, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Potentia Fund": [
+    "New York, NY, USA",
+    "London, UK",
+    "Hong Kong",
+    "Singapore",
+    "Sydney, Australia"
+  ],
+  "PraanaTech": [
+    "Bengaluru, Karnataka, India"
+  ],
+  "Prazer Therapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "Preci -Health SA": [
+    "Lausanne, Switzerland"
+  ],
+  "Precision for Medicine": [
+    "Boston, MA, USA",
+    "Cambridge, MA, USA",
+    "New York, NY, USA",
+    "Philadelphia, PA, USA",
+    "Bethesda, MD, USA",
+    "Gaithersburg, MD, USA",
+    "Washington, DC, USA",
+    "Austin, TX, USA",
+    "Chicago, IL, USA",
+    "Orlando, FL, USA",
+    "Atlanta, GA, USA",
+    "San Diego, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Francisco, CA, USA",
+    "Toronto, ON, Canada",
+    "Vancouver, BC, Canada",
+    "London, UK",
+    "Marlow, UK",
+    "Manchester, UK",
+    "Edinburgh, UK",
+    "Dublin, Ireland",
+    "Paris, France",
+    "Milan, Italy",
+    "Munich, Germany",
+    "Madrid, Spain",
+    "Basel, Switzerland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Warsaw, Poland",
+    "Istanbul, Turkey",
+    "Tel Aviv, Israel",
+    "Dubai, UAE",
+    "Singapore",
+    "Sydney, Australia",
+    "Auckland, New Zealand",
+    "Tokyo, Japan",
+    "Seoul, South Korea",
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong"
+  ],
+  "Predictoma, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "PredxBio": [
+    "Boston, MA, USA"
+  ],
+  "Premas Technologies Inc": [
+    "Bengaluru, Karnataka, India",
+    "Chennai, Tamil Nadu, India",
+    "Hyderabad, Telangana, India",
+    "Noida, Uttar Pradesh, India",
+    "Pune, Maharashtra, India",
+    "Trivandrum, Kerala, India",
+    "Dubai, UAE",
+    "Sydney, Australia"
+  ],
+  "Premier Consulting": [
+    "Boston, MA, USA",
+    "Cambridge, MA, USA",
+    "Raleigh, NC, USA",
+    "Basking Ridge, NJ, USA",
+    "New York, NY, USA",
+    "Orlando, FL, USA",
+    "Austin, TX, USA",
+    "Dallas, TX, USA",
+    "Chicago, IL, USA",
+    "Washington, DC, USA",
+    "San Diego, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "Toronto, ON, Canada",
+    "London, UK",
+    "Reading, UK",
+    "Cambridge, UK",
+    "Glasgow, UK",
+    "Dublin, Ireland",
+    "Paris, France",
+    "Nice, France",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Milan, Italy",
+    "Rome, Italy",
+    "Madrid, Spain",
+    "Barcelona, Spain",
+    "Basel, Switzerland",
+    "Geneva, Switzerland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Amsterdam, Netherlands",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Brussels, Belgium",
+    "Singapore",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong",
+    "Tokyo, Japan",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Bengaluru, India",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Istanbul, Turkey",
+    "Tel Aviv, Israel",
+    "Dubai, UAE",
+    "Johannesburg, South Africa"
+  ],
+  "Premier Research Ltd": [
+    "Boston, MA, USA",
+    "Cambridge, MA, USA",
+    "Raleigh, NC, USA",
+    "Basking Ridge, NJ, USA",
+    "New York, NY, USA",
+    "Orlando, FL, USA",
+    "Austin, TX, USA",
+    "Dallas, TX, USA",
+    "Chicago, IL, USA",
+    "Washington, DC, USA",
+    "San Diego, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "Toronto, ON, Canada",
+    "London, UK",
+    "Reading, UK",
+    "Cambridge, UK",
+    "Glasgow, UK",
+    "Dublin, Ireland",
+    "Paris, France",
+    "Nice, France",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Milan, Italy",
+    "Rome, Italy",
+    "Madrid, Spain",
+    "Barcelona, Spain",
+    "Basel, Switzerland",
+    "Geneva, Switzerland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Amsterdam, Netherlands",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Brussels, Belgium",
+    "Singapore",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong",
+    "Tokyo, Japan",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Bengaluru, India",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Istanbul, Turkey",
+    "Tel Aviv, Israel",
+    "Dubai, UAE",
+    "Johannesburg, South Africa"
+  ],
+  "Prevail Partners LLC.": [
+    "Boston, MA, USA"
+  ],
+  "Primagene Therapeutics, Inc.": [
+    "La Jolla, CA, USA"
+  ],
+  "Primarius Capital": [
+    "Austin, TX, USA"
+  ],
+  "Prime Biotech Investments": [
+    "New York, NY, USA"
+  ],
+  "Prime Movers Lab": [
+    "Jackson, WY, USA",
+    "San Francisco, CA, USA"
+  ],
+  "Prime Number Capital": [
+    "New York, NY, USA"
+  ],
+  "PrimeLink Bio": [
+    "Woburn, MA, USA"
+  ],
+  "ProJenX, Inc.": [
+    "Boston, MA, USA"
+  ],
+  "ProPharma Group LLC": [
+    "Overland Park, KS, USA",
+    "Boston, MA, USA",
+    "Raleigh, NC, USA",
+    "Princeton, NJ, USA",
+    "Philadelphia, PA, USA",
+    "New York, NY, USA",
+    "Orlando, FL, USA",
+    "Houston, TX, USA",
+    "Dallas, TX, USA",
+    "Austin, TX, USA",
+    "Chicago, IL, USA",
+    "Washington, DC, USA",
+    "San Diego, CA, USA",
+    "Los Angeles, CA, USA",
+    "San Francisco, CA, USA",
+    "Seattle, WA, USA",
+    "Toronto, ON, Canada",
+    "Montreal, QC, Canada",
+    "London, UK",
+    "Reading, UK",
+    "Cambridge, UK",
+    "Dublin, Ireland",
+    "Paris, France",
+    "Nice, France",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Milan, Italy",
+    "Rome, Italy",
+    "Madrid, Spain",
+    "Barcelona, Spain",
+    "Basel, Switzerland",
+    "Geneva, Switzerland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Amsterdam, Netherlands",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Brussels, Belgium",
+    "Singapore",
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Beijing, China",
+    "Shanghai, China",
+    "Hong Kong",
+    "Tokyo, Japan",
+    "Seoul, South Korea",
+    "Taipei, Taiwan",
+    "Bengaluru, India",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Istanbul, Turkey",
+    "Tel Aviv, Israel",
+    "Dubai, UAE",
+    "Johannesburg, South Africa"
+  ],
+  "ProductLife Group": [
+    "Paris, France",
+    "Lyon, France",
+    "Lille, France",
+    "London, UK",
+    "Reading, UK",
+    "Dublin, Ireland",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Milan, Italy",
+    "Rome, Italy",
+    "Madrid, Spain",
+    "Barcelona, Spain",
+    "Basel, Switzerland",
+    "Geneva, Switzerland",
+    "Stockholm, Sweden",
+    "Copenhagen, Denmark",
+    "Amsterdam, Netherlands",
+    "Warsaw, Poland",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Vienna, Austria",
+    "Lisbon, Portugal",
+    "Brussels, Belgium",
+    "Istanbul, Turkey",
+    "Moscow, Russia",
+    "Kyiv, Ukraine",
+    "Bucharest, Romania",
+    "Athens, Greece",
+    "Helsinki, Finland",
+    "Oslo, Norway",
+    "Bratislava, Slovakia",
+    "Ljubljana, Slovenia",
+    "Zagreb, Croatia",
+    "Sofia, Bulgaria",
+    "Riga, Latvia",
+    "Vilnius, Lithuania",
+    "Tallinn, Estonia",
+    "Belgrade, Serbia",
+    "Boston, MA, USA",
+    "Raleigh, NC, USA",
+    "Philadelphia, PA, USA",
+    "Toronto, ON, Canada",
+    "Montreal, QC, Canada",
+    "Singapore",
+    "Sydney, Australia",
+    "Bengaluru, India",
+    "Tokyo, Japan",
+    "Shanghai, China",
+    "Seoul, South Korea",
+    "Sao Paulo, Brazil",
+    "Buenos Aires, Argentina",
+    "Mexico City, Mexico",
+    "Dubai, UAE",
+    "Cairo, Egypt",
+    "Johannesburg, South Africa"
+  ]
+}
+```
+```json
+{
+  "Profil IfS GmbH": [
+    "Munich, Germany"
+  ],
+  "Profound Research": [
+    "Darmstadt, Germany"
+  ],
+  "Profound Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Progeneer": [
+    "Frankfurt am Main, Germany"
+  ],
+  "Progenicyte Therapeutics, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "Prolevi Bio": [
+    "Boston, MA, USA"
+  ],
+  "PromptBio Inc": [
+    "New York, NY, USA"
+  ],
+  "Prosperity7": [
+    "Beijing, China",
+    "Riyadh, Saudi Arabia",
+    "San Francisco, CA, USA"
+  ],
+  "ProteinQure Inc": [
+    "London, UK"
+  ],
+  "ProteoWise": [
+    "Shanghai, China"
+  ],
+  "Provisio Ventures": [
+    "New York, NY, USA"
+  ],
+  "Proxima Ventures": [
+    "Santiago, Chile"
+  ],
+  "Puhe Biopharma": [
+    "Shanghai, China",
+    "Boston, MA, USA",
+    "San Diego, CA, USA"
+  ],
+  "Puissance Capital": [
+    "New York, NY, USA",
+    "Hong Kong, China"
+  ],
+  "Pullan Consulting": [
+    "North Vancouver, BC, Canada"
+  ],
+  "Pulmatrix, Inc.": [
+    "Lexington, MA, USA"
+  ],
+  "PureIMS bv": [
+    "Leiderdorp, Netherlands"
+  ],
+  "Purohit Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Pylum Biosciences": [
+    "London, UK"
+  ],
+  "Pyrojas Inc": [
+    "Boston, MA, USA"
+  ]
+}
+```
+```json
+{
+  "QR Genetics": ["Hong Kong"],
+  "Qiming Venture Partners": ["Beijing, China", "Shanghai, China", "Suzhou, China", "Hong Kong"],
+  "Qritive": ["Singapore", "Bengaluru, India"],
+  "Quan Capital": ["Hong Kong", "Shanghai, China", "Menlo Park, California, USA", "Palo Alto, California, USA"],
+  "QuanMol Tech, Inc.": ["San Francisco, California, USA"],
+  "Quantro Therapeutics": ["San Diego, California, USA"],
+  "Qum Therapeutics, Inc.": ["Cambridge, Massachusetts, USA"],
+  "Quotient Sciences": [
+    "Nottingham, UK",
+    "Rushden, UK",
+    "Edinburgh, UK",
+    "Reading, UK",
+    "Philadelphia, Pennsylvania, USA",
+    "Watertown, Massachusetts, USA",
+    "South Plainfield, New Jersey, USA"
+  ],
+  "QurCan Therapeutics Inc.": ["Boston, Massachusetts, USA"],
+  "RA Ventures": ["San Francisco, California, USA", "Boston, Massachusetts, USA", "New York, New York, USA"],
+  "RAINBOW Inc.": ["Locations not readily available or company name is too generic to pinpoint a specific entity within the typical context of the other listed companies."],
+  "RED TAILED HAWK VENTURE PARTNERS": ["Boston, Massachusetts, USA"],
+  "RM Global Partners LLC": ["Boston, Massachusetts, USA"],
+  "RS Oncology, LLC": ["Cambridge, Massachusetts, USA"],
+  "RSM US LLP": [
+    "Atlanta, Georgia, USA",
+    "Austin, Texas, USA",
+    "Boston, Massachusetts, USA",
+    "Charlotte, North Carolina, USA",
+    "Chicago, Illinois, USA",
+    "Dallas, Texas, USA",
+    "Denver, Colorado, USA",
+    "Detroit, Michigan, USA",
+    "Houston, Texas, USA",
+    "Kansas City, Missouri, USA",
+    "Los Angeles, California, USA",
+    "Miami, Florida, USA",
+    "Minneapolis, Minnesota, USA",
+    "New York, New York, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "Phoenix, Arizona, USA",
+    "Portland, Oregon, USA",
+    "San Francisco, California, USA",
+    "Seattle, Washington, USA",
+    "St. Louis, Missouri, USA",
+    "Tampa, Florida, USA",
+    "Washington D.C., USA",
+    "and numerous other regional offices across the United States"
+  ],
+  "RT MicroDx": ["San Jose, California, USA"],
+  "RTW Investments, LP": ["New York, New York, USA", "London, UK"],
+  "RUMI Scientific, Inc.": ["San Diego, California, USA"],
+  "RV Invest GmbH": ["Berlin, Germany"],
+  "RVC - Rockies Venture Club / Angel investor": ["Denver, Colorado, USA"]
+}
+```
+```json
+{
+  "Ractigen Therapeutics": [
+    "Daejeon, South Korea"
+  ],
+  "Radiance Biopharma": [
+    "Hyderabad, India"
+  ],
+  "Radiopharm Theranostics": [
+    "Sydney, Australia",
+    "New York, USA"
+  ],
+  "Radyus Research": [
+    "Palo Alto, California, USA"
+  ],
+  "Raglan Capital": [
+    "Dublin, Ireland"
+  ],
+  "Rakuten Medical, Inc.": [
+    "San Diego, California, USA",
+    "Tokyo, Japan",
+    "Kanagawa, Japan",
+    "Taipei, Taiwan"
+  ],
+  "Rambam AG": [
+    "Stans, Switzerland"
+  ],
+  "Ranok Therapeutics": [
+    "Hangzhou, China",
+    "Boston, Massachusetts, USA"
+  ],
+  "Rapport Therapeutics": [
+    "Boston, Massachusetts, USA"
+  ],
+  "RareMoon Consulting": [
+    "London, UK"
+  ],
+  "Ray Therapeutics": [
+    "San Diego, California, USA"
+  ],
+  "Raymond James": [
+    "St. Petersburg, Florida, USA (Headquarters)",
+    "Memphis, Tennessee, USA",
+    "Southfield, Michigan, USA",
+    "Calgary, Alberta, Canada",
+    "London, UK",
+    "Paris, France",
+    "Frankfurt, Germany"
+  ],
+  "Receptor.AI": [
+    "Lviv, Ukraine",
+    "Boston, Massachusetts, USA"
+  ],
+  "Reed -Ventures": [
+    "San Francisco, California, USA"
+  ],
+  "RegCell": [
+    "Tokyo, Japan"
+  ],
+  "Rege Nephro Co., Ltd.": [
+    "Tokyo, Japan"
+  ],
+  "Regend Therapeutics": [
+    "Tokyo, Japan"
+  ],
+  "Regeneron Pharmaceuticals": [
+    "Tarrytown, New York, USA (Headquarters)",
+    "Rensselaer, New York, USA",
+    "Dublin, Ireland",
+    "Limerick, Ireland",
+    "Basking Ridge, New Jersey, USA"
+  ],
+  "Reglagene, Inc.": [
+    "San Francisco, California, USA"
+  ],
+  "Rejuve Biotech, Inc": [
+    "Daejeon, South Korea"
+  ]
+}
+```
+```json
+{
+  "RejuvenRx Inc.": [
+    "Boston, MA, USA"
+  ],
+  "Rejuvenate Bio": [
+    "San Diego, CA, USA"
+  ],
+  "Rejuvenation Technologies Inc.": [
+    "Mountain View, CA, USA"
+  ],
+  "Remedy Plan Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Remiges Ventures": [
+    "Cambridge, MA, USA",
+    "Tokyo, Japan"
+  ],
+  "Ren Bioscience": [
+    "San Diego, CA, USA"
+  ],
+  "Repair Biotechnologies, Inc.": [
+    "New York, NY, USA"
+  ],
+  "Researcher": [
+    "London, UK",
+    "Bengaluru, India"
+  ],
+  "Resolian": [
+    "York, UK",
+    "Shrewsbury, PA, USA",
+    "Newark, DE, USA",
+    "Glasgow, UK",
+    "Macclesfield, UK",
+    "San Diego, CA, USA",
+    "Worcester, MA, USA",
+    "West Lafayette, IN, USA",
+    "Gaithersburg, MD, USA",
+    "Canton, MA, USA"
+  ],
+  "Retroviral Therapeutics": [
+    "San Carlos, CA, USA"
+  ],
+  "Reuters": [
+    "London, UK",
+    "New York, NY, USA",
+    "Toronto, Canada",
+    "Singapore, Singapore",
+    "Hong Kong",
+    "Tokyo, Japan"
+  ],
+  "Rezolute": [
+    "Redwood City, CA, USA"
+  ],
+  "Rhythm Biotherapeutics Inc": [
+    "Waltham, MA, USA"
+  ],
+  "Rhythm VC": [
+    "Cambridge, MA, USA"
+  ],
+  "Riverine Ventures": [
+    "New York, NY, USA"
+  ],
+  "Rivermount VC Fund LP": [
+    "New York, NY, USA"
+  ],
+  "Riverstone LLC": [
+    "New York, NY, USA",
+    "Houston, TX, USA",
+    "London, UK",
+    "Menlo Park, CA, USA"
+  ],
+  "Rize Oncology": [
+    "Chicago, IL, USA"
+  ],
+  "Robles BioCeutics": [
+    "Guaynabo, Puerto Rico, USA"
+  ],
+  "Rock Health": [
+    "San Francisco, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Root Venture Partners GP Limited": [
+    "London, England, United Kingdom"
+  ],
+  "Rootstock Equity Partners": [
+    "New York, NY, USA",
+    "San Francisco, CA, USA"
+  ],
+  "Rosetta Capital": [
+    "London, England, United Kingdom"
+  ],
+  "Roy Auty - Private investor": [
+    "Vancouver, British Columbia, Canada"
+  ],
+  "Rubedo Life Sciences": [
+    "Menlo Park, CA, USA"
+  ],
+  "Russo Partners": [
+    "New York, NY, USA"
+  ],
+  "Rx Bandz": [
+    "Los Angeles, CA, USA"
+  ],
+  "RyboDyn, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "S.Biomedics": [
+    "Madrid, Spain"
+  ],
+  "SBI investment Co., Ltd.": [
+    "Tokyo, Japan"
+  ],
+  "SBIR/NCI/NIH": [
+    "Bethesda, MD, USA"
+  ],
+  "SCHENA FAMILY TRUST": [],
+  "SDK Therapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "SDL Ventures, LLC": [
+    "San Francisco, CA, USA"
+  ],
+  "SEEDS Capital": [
+    "Singapore"
+  ],
+  "SF500": [
+    "San Francisco, CA, USA"
+  ],
+  "SFA Therapeutics, Inc.": [
+    "Philadelphia, PA, USA"
+  ],
+  "SOTIO Biotech": [
+    "Prague, Czech Republic",
+    "Boston, MA, USA",
+    "London, England, United Kingdom"
+  ],
+  "SPARC": [],
+  "SPOC Proteomics Inc": [
+    "Rockville, MD, USA"
+  ]
+}
+```
+```json
+{
+  "SPRIM Global Investments": [
+    "Barcelona, Spain",
+    "Bogotá, Colombia",
+    "Boston, Massachusetts, USA",
+    "Buenos Aires, Argentina",
+    "Cologne, Germany",
+    "Hong Kong, China",
+    "London, United Kingdom",
+    "Mexico City, Mexico",
+    "Milan, Italy",
+    "New York, New York, USA",
+    "Paris, France",
+    "Philadelphia, Pennsylvania, USA",
+    "San Francisco, California, USA",
+    "Santiago, Chile",
+    "São Paulo, Brazil",
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Singapore",
+    "Tokyo, Japan",
+    "Washington D.C., USA"
+  ],
+  "STA": [
+    "Shanghai, China",
+    "San Diego, California, USA",
+    "Changzhou, China",
+    "Suzhou, China",
+    "Nantong, China",
+    "Wuxi, China",
+    "Boston, Massachusetts, USA",
+    "Zurich, Switzerland"
+  ],
+  "STAT": [
+    "Boston, Massachusetts, USA",
+    "Washington, D.C., USA"
+  ],
+  "STIMIT AG": [
+    "Kreuzlingen, Switzerland"
+  ],
+  "SV Health Investors": [
+    "London, United Kingdom",
+    "Boston, Massachusetts, USA"
+  ],
+  "Safi Biotherapeutics": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Sagard Healthcare": [
+    "Paris, France",
+    "London, United Kingdom",
+    "Montreal, Canada",
+    "Toronto, Canada",
+    "New York, New York, USA",
+    "San Francisco, California, USA",
+    "Singapore",
+    "Abu Dhabi, UAE"
+  ],
+  "Sage Therapeutics": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "Saisei Ventures": [
+    "Sausalito, California, USA"
+  ],
+  "Salem Partners LLC": [
+    "Los Angeles, California, USA",
+    "New York, New York, USA"
+  ],
+  "Samsung Biologics": [
+    "Incheon, South Korea",
+    "Songdo, Incheon, South Korea",
+    "San Francisco, California, USA",
+    "Boston, Massachusetts, USA",
+    "New Jersey, USA",
+    "Frankfurt, Germany",
+    "Tokyo, Japan"
+  ],
+  "Samsung Ventures": [
+    "Seoul, South Korea",
+    "Menlo Park, California, USA",
+    "Cambridge, Massachusetts, USA",
+    "Tel Aviv, Israel",
+    "London, United Kingdom"
+  ],
+  "Samyang Holdings Corp.": [
+    "Seoul, South Korea",
+    "Boston, Massachusetts, USA",
+    "Tokyo, Japan",
+    "Shanghai, China"
+  ],
+  "San Francisco Business Times": [
+    "San Francisco, California, USA"
+  ],
+  "Sand Hill Angels": [
+    "Palo Alto, California, USA"
+  ],
+  "SandboxAQ": [
+    "Palo Alto, California, USA"
+  ],
+  "Sangel Capital": [
+    "Seoul, South Korea"
+  ],
+  "Santen, Inc.": [
+    "Emeryville, California, USA"
+  ],
+  "Sarcomatrix Therapeutics Corp.": [
+    "Waltham, Massachusetts, USA"
+  ],
+  "Saros Therapeutics, Inc.": [
+    "San Diego, California, USA"
+  ]
+}
+```
+```json
+{
+  "Sartorius": [
+    "Göttingen, Germany",
+    "Aubagne, France",
+    "Yauco, Puerto Rico",
+    "Stonehouse, UK",
+    "Port Washington, NY, USA",
+    "Fremont, CA, USA",
+    "Bangalore, India",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Cork, Ireland",
+    "Ann Arbor, MI, USA",
+    "Singapore",
+    "Sydney, Australia",
+    "São Paulo, Brazil"
+  ],
+  "Sartortius": [
+    "Göttingen, Germany",
+    "Aubagne, France",
+    "Yauco, Puerto Rico",
+    "Stonehouse, UK",
+    "Port Washington, NY, USA",
+    "Fremont, CA, USA",
+    "Bangalore, India",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Cork, Ireland",
+    "Ann Arbor, MI, USA",
+    "Singapore",
+    "Sydney, Australia",
+    "São Paulo, Brazil"
+  ],
+  "Scendea Ltd.": [
+    "Cambridge, UK",
+    "Dublin, Ireland"
+  ],
+  "ScienceMachine": [
+    "Boston, MA, USA"
+  ],
+  "Scientia Clinical Research": [
+    "Sydney, Australia",
+    "Newtown, NSW, Australia"
+  ],
+  "Scioto Biosciences": [
+    "Columbus, OH, USA"
+  ],
+  "Scotiabank": [
+    "Toronto, Canada",
+    "Mexico City, Mexico",
+    "Kingston, Jamaica",
+    "Santiago, Chile",
+    "New York, NY, USA",
+    "London, UK",
+    "Singapore",
+    "Hong Kong"
+  ],
+  "Scrip": [
+    "London, UK",
+    "New York, NY, USA",
+    "Tokyo, Japan"
+  ],
+  "Seal Rock Therapeutics": [
+    "San Francisco, CA, USA",
+    "Redwood City, CA, USA"
+  ],
+  "Search Terms: Filtered List": [],
+  "Second Swedish Pension Fund (AP2)": [
+    "Göteborg, Sweden"
+  ],
+  "Secretech Singapore Pte.Ltd.": [
+    "Singapore"
+  ],
+  "Seed4soft": [
+    "Prague, Czech Republic"
+  ],
+  "SeedFolio": [
+    "San Francisco, CA, USA"
+  ],
+  "SelectScience": [
+    "Bath, UK"
+  ],
+  "Selvita": [
+    "Krakow, Poland",
+    "Poznań, Poland",
+    "Cambridge, MA, USA"
+  ],
+  "Sen -Jam Pharmaceutical": [
+    "Boca Raton, FL, USA"
+  ],
+  "Sentinel BioTherapeutics, Inc": [
+    "San Diego, CA, USA"
+  ],
+  "Seoul National Univ. Hospital": [
+    "Seoul, South Korea"
+  ],
+  "Seragene Therapeutics": [
+    "Rockville, MD, USA"
+  ]
+}
+```
+```json
+{
+  "Seraxis Inc.": [
+    "Basel, Switzerland"
+  ],
+  "Serpentine Ventures": [
+    "Zurich, Switzerland"
+  ],
+  "Servier Pharmaceuticals": [
+    "Suresnes, France",
+    "Orléans, France",
+    "Croissy-Beaubourg, France",
+    "Boston, Massachusetts, USA",
+    "Arklow, Ireland",
+    "Jacareí, Brazil",
+    "Tianjin, China",
+    "Slough, UK",
+    "Warsaw, Poland",
+    "Laval, Quebec, Canada",
+    "Lisbon, Portugal",
+    "Prague, Czech Republic",
+    "Budapest, Hungary",
+    "Munich, Germany",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Moscow, Russia",
+    "Istanbul, Turkey",
+    "Melbourne, Australia",
+    "Tokyo, Japan",
+    "Seoul, South Korea",
+    "Ho Chi Minh City, Vietnam",
+    "Mumbai, India",
+    "Mexico City, Mexico",
+    "Buenos Aires, Argentina",
+    "Santiago, Chile",
+    "Bogotá, Colombia",
+    "Lima, Peru",
+    "Cairo, Egypt",
+    "Johannesburg, South Africa",
+    "Dubai, United Arab Emirates",
+    "Riyadh, Saudi Arabia",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Manila, Philippines",
+    "Bangkok, Thailand",
+    "Singapore, Singapore"
+  ],
+  "Shanghai Auzone Biotech Co.": [
+    "Shanghai, China"
+  ],
+  "Shanghai CirCode Biomed Co., Ltd.": [
+    "Shanghai, China"
+  ],
+  "Shanghai Healthcare Capital": [
+    "Shanghai, China"
+  ],
+  "Shaperon": [
+    "Seoul, South Korea",
+    "Boston, Massachusetts, USA"
+  ],
+  "ShareVault": [
+    "Los Gatos, California, USA"
+  ],
+  "Shaw Strategic Capital LLC": [
+    "McLean, Virginia, USA"
+  ],
+  "Shenzhen Kexing Pharmaceutical Co., Ltd.": [
+    "Shenzhen, China"
+  ],
+  "Shenzhen MagicRNA Biotech": [
+    "Shenzhen, China"
+  ],
+  "Shenzhen Sungening Biological Co., Ltd": [
+    "Shenzhen, China"
+  ],
+  "Shepherd Ventures III": [
+    "San Diego, California, USA"
+  ],
+  "Sherpa Healthcare Partners": [
+    "Seoul, South Korea"
+  ],
+  "Shinsei Capital Partners,Ltd": [
+    "Tokyo, Japan"
+  ],
+  "Shinvestor & Pratners, LLC": [
+    "New York, New York, USA"
+  ],
+  "Shorla Oncology": [
+    "Clonmel, Ireland",
+    "Boston, Massachusetts, USA"
+  ],
+  "SiVEC Biotechnologies, Inc.": [
+    "Basel, Switzerland"
+  ],
+  "Sichuan Real & Best Biotech": [
+    "Chengdu, Sichuan, China"
+  ],
+  "Signal Bioscience": [
+    "Shanghai, China",
+    "Boston, Massachusetts, USA"
+  ]
+}
+```
+```json
+{
+  "Signet Healthcare Partners": [
+    "New York, NY, USA"
+  ],
+  "Sila B": [
+    "Cambridge, MA, USA"
+  ],
+  "SillaJen Biotherapeutics": [
+    "Busan, South Korea",
+    "Seoul, South Korea",
+    "San Francisco, CA, USA"
+  ],
+  "Simmons & Simmons LLP": [
+    "Amsterdam, Netherlands",
+    "Beijing, China",
+    "Bristol, UK",
+    "Brussels, Belgium",
+    "Dublin, Ireland",
+    "Düsseldorf, Germany",
+    "Frankfurt, Germany",
+    "Hong Kong",
+    "Jeddah, Saudi Arabia (in association with Hammad & Al-Mehdar)",
+    "London, UK",
+    "Luxembourg, Luxembourg",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Munich, Germany",
+    "Paris, France",
+    "Shanghai, China",
+    "Singapore, Singapore",
+    "Tokyo, Japan"
+  ],
+  "Sinaptica Therapeutics": [
+    "South San Francisco, CA, USA"
+  ],
+  "Sinfonie Life Science Management GmbH": [
+    "Gräfelfing, Germany"
+  ],
+  "Singapore Economic Development Board": [
+    "Singapore, Singapore (Headquarters)",
+    "Boston, MA, USA",
+    "Chicago, IL, USA",
+    "Dallas, TX, USA",
+    "Los Angeles, CA, USA",
+    "New York, NY, USA",
+    "San Francisco, CA, USA",
+    "Washington D.C., USA",
+    "London, UK",
+    "Paris, France",
+    "Frankfurt, Germany",
+    "Stockholm, Sweden",
+    "Shanghai, China",
+    "Beijing, China",
+    "Shenzhen, China",
+    "Guangzhou, China",
+    "Chongqing, China",
+    "Chengdu, China",
+    "Suzhou, China",
+    "Hong Kong",
+    "Taipei, Taiwan",
+    "Tokyo, Japan",
+    "Osaka, Japan",
+    "Seoul, South Korea",
+    "Jakarta, Indonesia",
+    "Kuala Lumpur, Malaysia",
+    "Mumbai, India",
+    "New Delhi, India",
+    "Bangkok, Thailand",
+    "Hanoi, Vietnam",
+    "Ho Chi Minh City, Vietnam",
+    "Melbourne, Australia",
+    "Sydney, Australia",
+    "Tel Aviv, Israel",
+    "Dubai, UAE"
+  ],
+  "Sireau Labs": [
+    "San Francisco, CA, USA"
+  ],
+  "SirnaMed Therapeutics Inc.": [
+    "Toronto, ON, Canada"
+  ],
+  "Sirona Capital": [
+    "Perth, Australia"
+  ],
+  "Sixty Degree Capital": [
+    "Melbourne, Australia"
+  ],
+  "Skin Angels Inc": [
+    "San Francisco, CA, USA"
+  ],
+  "Skin2neuron Pty Ltd": [
+    "Sydney, Australia"
+  ],
+  "SmartLabs": [
+    "Boston, MA, USA",
+    "Cambridge, MA, USA",
+    "Waltham, MA, USA",
+    "South San Francisco, CA, USA",
+    "San Diego, CA, USA",
+    "Durham, NC, USA",
+    "Philadelphia, PA, USA"
+  ],
+  "Smartlens, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "Smilegate Investment Inc.": [
+    "Seoul, South Korea",
+    "Shanghai, China",
+    "Santa Monica, CA, USA"
+  ],
+  "Sofinnova Investments": [
+    "Menlo Park, CA, USA"
+  ],
+  "Sofinnova Partners": [
+    "Paris, France",
+    "London, UK",
+    "Milan, Italy"
+  ],
+  "SolasCure Ltd": [
+    "Norwich, UK"
+  ],
+  "Solgate": [
+    "Vienna, Austria"
+  ]
+}
+```
+```json
+{
+  "Solve FSHD Holdings Ltd": [
+    "Cambridge, MA, USA"
+  ],
+  "Solvias AG": [
+    "Kaiseraugst, Switzerland",
+    "Basel, Switzerland",
+    "Visp, Switzerland"
+  ],
+  "Sonire therapeutics Inc.": [
+    "South San Francisco, CA, USA"
+  ],
+  "Sontag Innovation Fund": [
+    "Jacksonville, FL, USA"
+  ],
+  "Sound Bioventures": [
+    "Copenhagen, Denmark",
+    "Cambridge, MA, USA"
+  ],
+  "Southern Star Research Pty Ltd": [
+    "Sydney, Australia",
+    "Melbourne, Australia",
+    "Brisbane, Australia",
+    "Perth, Australia",
+    "Adelaide, Australia",
+    "Auckland, New Zealand"
+  ],
+  "Sovargen": [
+    "Basel, Switzerland"
+  ],
+  "Sozo Ventures": [
+    "San Francisco, CA, USA",
+    "Tokyo, Japan"
+  ],
+  "Spiderwort Biotechnologies Inc.": [
+    "Ottawa, Ontario, Canada"
+  ],
+  "Spine BioPharma": [
+    "South San Francisco, CA, USA"
+  ],
+  "Spirea": [
+    "Cambridge, UK"
+  ],
+  "Sporos BioDiscovery": [
+    "Houston, TX, USA"
+  ],
+  "SpringRock Ventures": [
+    "Greenwich, CT, USA"
+  ],
+  "Springboard Enterprises": [
+    "New York, NY, USA",
+    "Washington, D.C., USA"
+  ],
+  "Springer Nature": [
+    "Berlin, Germany",
+    "Heidelberg, Germany",
+    "London, UK",
+    "New York, NY, USA",
+    "Tokyo, Japan",
+    "Beijing, China",
+    "New Delhi, India",
+    "Amsterdam, Netherlands",
+    "Paris, France",
+    "Boston, MA, USA",
+    "San Francisco, CA, USA",
+    "Toronto, Canada",
+    "Melbourne, Australia"
+  ],
+  "Springhood Ventures": [
+    "New York, NY, USA"
+  ],
+  "StageNext VC": [
+    "Tel Aviv, Israel",
+    "New York, NY, USA"
+  ],
+  "Stamm Bio": [
+    "Boston, MA, USA"
+  ],
+  "Stanford Blood Center": [
+    "Palo Alto, CA, USA",
+    "Campbell, CA, USA",
+    "Mountain View, CA, USA"
+  ],
+  "Stanford University": [
+    "Stanford, CA, USA"
+  ]
+}
+```
+```json
+{
+  "Star Tree Ventures": [
+    "Menlo Park, California"
+  ],
+  "Starbloom Capital": [
+    "New York, New York"
+  ],
+  "Starton Therapeutics": [
+    "Paramus, New Jersey"
+  ],
+  "Starvue Life Sciences": [
+    "New York, New York"
+  ],
+  "Stately Bio, Inc.": [
+    "San Francisco, California"
+  ],
+  "Stealth TechBio": [
+    "Not publicly disclosed"
+  ],
+  "Stelliger Partners": [
+    "New York, New York"
+  ],
+  "Stem Cell & Device Laboratory, Inc.": [
+    "Los Angeles, California"
+  ],
+  "Stephens, Inc.": [
+    "Little Rock, Arkansas",
+    "New York, New York",
+    "Atlanta, Georgia",
+    "Boston, Massachusetts",
+    "Charlotte, North Carolina",
+    "Chicago, Illinois",
+    "Dallas, Texas",
+    "Denver, Colorado",
+    "Houston, Texas",
+    "London, UK",
+    "San Francisco, California",
+    "Washington, D.C."
+  ],
+  "SterlingBio Corp": [
+    "San Diego, California"
+  ],
+  "SternAegis Ventures": [
+    "New York, New York"
+  ],
+  "Stifel": [
+    "St. Louis, Missouri",
+    "New York, New York",
+    "London, UK",
+    "Chicago, Illinois",
+    "San Francisco, California",
+    "Boston, Massachusetts",
+    "Baltimore, Maryland",
+    "Dallas, Texas",
+    "Denver, Colorado",
+    "Houston, Texas",
+    "Toronto, Canada",
+    "Zurich, Switzerland"
+  ],
+  "Stimuliver": [
+    "Lausanne, Switzerland"
+  ],
+  "Stingray Therapeutics, Inc.": [
+    "South San Francisco, California"
+  ],
+  "StoneWise": [
+    "Shanghai, China",
+    "Boston, Massachusetts"
+  ],
+  "Storycast Productions": [
+    "Atlanta, Georgia",
+    "Santa Monica, California"
+  ],
+  "Stratum Biosciences": [
+    "San Francisco, California"
+  ],
+  "Stroma Medical": [
+    "San Clemente, California"
+  ],
+  "Subsense Inc.": [
+    "South San Francisco, California"
+  ],
+  "Sumitomo Chemical America Inc.": [
+    "New York, New York",
+    "Houston, Texas",
+    "Morristown, New Jersey",
+    "Salt Lake City, Utah"
+  ]
+}
+```
+```json
+{
+  "Summer Capital": [
+    "Shanghai, China",
+    "Beijing, China",
+    "Hong Kong, China",
+    "Shenzhen, China"
+  ],
+  "Surv BioPharma": [
+    "San Francisco, California, USA"
+  ],
+  "Suven Pharmaceuticals and Cohance Lifesciences": [
+    "Hyderabad, India"
+  ],
+  "SwedenBIO": [
+    "Stockholm, Sweden"
+  ],
+  "Swiss Business Hub USA": [
+    "New York City, New York, USA",
+    "Washington D.C., USA",
+    "Atlanta, Georgia, USA",
+    "Boston, Massachusetts, USA",
+    "Chicago, Illinois, USA",
+    "San Francisco, California, USA"
+  ],
+  "Swiss Rockets AG": [
+    "Basel, Switzerland"
+  ],
+  "Sygnature Discovery Ltd": [
+    "Nottingham, UK",
+    "Alderley Park, UK",
+    "Cambridge, UK"
+  ],
+  "Symcel": [
+    "Kista, Stockholm, Sweden"
+  ],
+  "SynProx, Inc": [
+    "San Diego, California, USA"
+  ],
+  "Syneos Capital Advisory, LLC": [
+    "Morrisville, North Carolina, USA"
+  ],
+  "Syneos Health": [
+    "Morrisville, North Carolina, USA",
+    "Boston, Massachusetts, USA",
+    "Philadelphia, Pennsylvania, USA",
+    "San Diego, California, USA",
+    "London, UK",
+    "Maidenhead, UK",
+    "Munich, Germany",
+    "Frankfurt, Germany",
+    "Paris, France",
+    "Madrid, Spain",
+    "Milan, Italy",
+    "Basel, Switzerland",
+    "Dublin, Ireland",
+    "Amsterdam, Netherlands",
+    "Stockholm, Sweden",
+    "Toronto, Canada",
+    "Montreal, Canada",
+    "Bengaluru, India",
+    "Hyderabad, India",
+    "Shanghai, China",
+    "Tokyo, Japan",
+    "Sydney, Australia",
+    "Sao Paulo, Brazil",
+    "Mexico City, Mexico",
+    "Singapore",
+    "Seoul, South Korea"
+  ],
+  "Syner -G Biopharma Group": [
+    "Rockville, Maryland, USA",
+    "Gaithersburg, Maryland, USA"
+  ],
+  "Synergy Ventures": [
+    "Menlo Park, California, USA"
+  ],
+  "Syngene International Ltd": [
+    "Bengaluru, India",
+    "Mangaluru, India",
+    "Hyderabad, India",
+    "Princeton, New Jersey, USA"
+  ],
+  "Synlico Inc.": [
+    "Tokyo, Japan"
+  ],
+  "Syno Capital": [
+    "New York City, New York, USA"
+  ],
+  "Syntekabio USA Inc.": [
+    "Rockville, Maryland, USA"
+  ],
+  "SyntheX": [
+    "South San Francisco, California, USA"
+  ],
+  "Synthekine": [
+    "Menlo Park, California, USA"
+  ],
+  "Synthis Therapeutics, Inc.": [
+    "Philadelphia, Pennsylvania, USA"
+  ]
+}
+```
+```json
+{
+  "Syridex Bio": [
+    "San Francisco, California, USA"
+  ],
+  "TAISHO PHARMACEUTICAL CO., LTD.": [
+    "Tokyo, Japan",
+    "Saitama, Japan",
+    "Wayne, Pennsylvania, USA"
+  ],
+  "TATUM bioscience": [
+    "San Diego, California, USA"
+  ],
+  "TBD Angels": [
+    "San Francisco, California, USA"
+  ],
+  "TCP Health Ventures (legal entity: The Capital Partenership UK Limited)": [
+    "London, UK",
+    "New York, USA",
+    "Dubai, UAE"
+  ],
+  "TF Venture Capital Management Co., Ltd.": [
+    "Shanghai, China"
+  ],
+  "TILT Biotherapeutics Ltd": [
+    "Helsinki, Finland",
+    "Boston, Massachusetts, USA"
+  ],
+  "TLR Therapeutics, Inc.": [
+    "San Mateo, California, USA"
+  ],
+  "TMAB Therapeutics, Inc": [
+    "Waltham, Massachusetts, USA"
+  ],
+  "TPG Life Sciences Innovations": [
+    "Fort Worth, Texas, USA",
+    "San Francisco, California, USA",
+    "New York, USA",
+    "Boston, Massachusetts, USA"
+  ],
+  "TRIO Pharmaceuticals, Inc.": [
+    "Cambridge, Massachusetts, USA"
+  ],
+  "TWi Biotechnology": [
+    "Taipei, Taiwan",
+    "South San Francisco, California, USA"
+  ],
+  "TYK Medicines Inc": [
+    "Waltham, Massachusetts, USA"
+  ],
+  "Tagomics": [
+    "San Mateo, California, USA"
+  ],
+  "Taiho Ventures, LLC.": [
+    "Princeton, New Jersey, USA"
+  ],
+  "Taipu Life Science Investment": [
+    "Beijing, China"
+  ],
+  "Taiwania Capital": [
+    "Taipei, Taiwan",
+    "Boston, Massachusetts, USA"
+  ],
+  "Talentmark Ltd": [
+    "London, UK",
+    "Basel, Switzerland",
+    "Boston, Massachusetts, USA"
+  ],
+  "Talus Bio": [
+    "Seattle, Washington, USA"
+  ],
+  "Tamer Group": [
+    "Jeddah, Saudi Arabia"
+  ]
+}
+```
+```json
+{
+  "Tandem Ventures Srl": [
+    "Buenos Aires, Argentina",
+    "New York, USA"
+  ],
+  "Tang Capital LLC": [
+    "San Diego, CA, USA"
+  ],
+  "Tarnagulla Ventures Pty Ltd": [
+    "Melbourne, VIC, Australia"
+  ],
+  "Tay Therapeutics Limited": [
+    "Dundee, Scotland, UK"
+  ],
+  "Technomark Life Sciences": [
+    "Mumbai, India",
+    "Nashik, India"
+  ],
+  "Teclison": [
+    "Seoul, South Korea",
+    "Boston, MA, USA"
+  ],
+  "TegMine Therapeutics": [
+    "Cambridge, MA, USA"
+  ],
+  "Teijin Pharma LTD": [
+    "Tokyo, Japan"
+  ],
+  "Teitur Trophics": [
+    "Copenhagen, Denmark"
+  ],
+  "Telegraph Hill Partners": [
+    "San Francisco, CA, USA"
+  ],
+  "Tema": [
+    "Bologna, Italy"
+  ],
+  "Teralys Capital": [
+    "Montreal, Quebec, Canada"
+  ],
+  "Ternalys Therapeutics, Inc.": [
+    "San Diego, CA, USA"
+  ],
+  "Teva Pharmaceuticals": [
+    "Tel Aviv, Israel",
+    "Parsippany, NJ, USA"
+  ],
+  "The 90 -10 Institute": [
+    "Zurich, Switzerland"
+  ],
+  "The Benchmark Company, LLC": [
+    "New York, NY, USA"
+  ],
+  "The Cambridge Group": [
+    "Chicago, IL, USA"
+  ],
+  "The ChannelPro Network": [
+    "Chesterland, OH, USA"
+  ],
+  "The Good Science Fund VC": [
+    "New York, NY, USA"
+  ],
+  "The Imaging Wire": [
+    "New York, NY, USA"
+  ]
+}
+```
+```json
+{
+  "The Innovation Space": [
+    "Wilmington, DE, USA"
+  ],
+  "The Johns Hopkins Bloomberg School of Public Health": [
+    "Baltimore, MD, USA"
+  ],
+  "The Money Channel NYC": [
+    "New York, NY, USA"
+  ],
+  "The NuFund Venture Group": [
+    "San Diego, CA, USA",
+    "Boulder, CO, USA"
+  ],
+  "The Regenerative Health Association": [
+    "Geneva, Switzerland"
+  ],
+  "The San Francisco Standard": [
+    "San Francisco, CA, USA"
+  ],
+  "The University of Tokyo Edge Capital Partners Co., Ltd. (UTEC)": [
+    "Tokyo, Japan"
+  ],
+  "The Venture Collective": [
+    "London, UK"
+  ],
+  "TheraVac Biologics": [
+    "La Jolla, CA, USA"
+  ],
+  "Theradex Oncology": [
+    "Princeton, NJ, USA",
+    "London, UK",
+    "Philadelphia, PA, USA",
+    "Leiden, Netherlands",
+    "Osaka, Japan",
+    "Sydney, Australia"
+  ],
+  "Thermo Fisher Scientific": [
+    "Waltham, MA, USA",
+    "Carlsbad, CA, USA",
+    "Frederick, MD, USA",
+    "Shanghai, China",
+    "Bleiswijk, Netherlands",
+    "Swindon, UK"
+  ],
+  "Thiel Capital - Bio Fund": [
+    "San Francisco, CA, USA",
+    "Los Angeles, CA, USA",
+    "Austin, TX, USA"
+  ],
+  "Thinkhat Venture Studio": [
+    "San Francisco, CA, USA"
+  ],
+  "ThinkingNodeLife.ai": [
+    "Greater San Diego Area, CA, USA"
+  ],
+  "Thomas Jefferson University": [
+    "Philadelphia, PA, USA",
+    "East Falls, PA, USA"
+  ],
+  "TiCARos": [
+    "Seoul, South Korea"
+  ],
+  "Tiba Biotech LLC": [
+    "Cambridge, MA, USA"
+  ],
+  "Tiberend Strategic Advisors": [
+    "New York, NY, USA"
+  ],
+  "TikkunLev Therapeutics": [
+    "Greater Philadelphia Area, PA, USA"
+  ],
+  "Tikva Allocell Pte Ltd": [
+    "Singapore"
+  ]
+}
+```
+```json
+{
+  "Timmerman Report": [
+    "Seattle, WA, USA"
+  ],
+  "Tinkeso Therapeutics": [
+    "Lexington, MA, USA"
+  ],
+  "TippingPoint Biosciences": [
+    "South San Francisco, CA, USA"
+  ],
+  "Tiziana Life Sciences": [
+    "New York, NY, USA",
+    "London, UK"
+  ],
+  "Tokio Marine Holdings": [
+    "Tokyo, Japan",
+    "New York, NY, USA",
+    "London, UK"
+  ],
+  "Tonix Pharmaceuticals": [
+    "Chatham, NJ, USA",
+    "New York, NY, USA"
+  ],
+  "Toray Industries (America), Inc.": [
+    "New York, NY, USA"
+  ],
+  "Touchdown Ventures": [
+    "Philadelphia, PA, USA",
+    "San Francisco, CA, USA",
+    "Los Angeles, CA, USA"
+  ],
+  "Trace Biosciences": [
+    "Sydney, Australia"
+  ],
+  "Tranquil Clinical and Research Consulting Services": [
+    "Chennai, India"
+  ],
+  "Transimmune": [
+    "Boston, MA, USA"
+  ],
+  "Translink Capital": [
+    "Palo Alto, CA, USA"
+  ],
+  "Transpacific Venture Capital Partners": [
+    "Tokyo, Japan"
+  ],
+  "Travera": [
+    "South San Francisco, CA, USA"
+  ],
+  "Trellis Bioscience, Inc.": [
+    "Redwood City, CA, USA"
+  ],
+  "Treos Bio": [
+    "London, UK"
+  ],
+  "Trestle Biotherapeutics": [
+    "San Diego, CA, USA"
+  ],
+  "Treventis Corporation": [
+    "Gaithersburg, MD, USA"
+  ],
+  "TriNetX": [
+    "Cambridge, MA, USA",
+    "London, UK",
+    "Basel, Switzerland"
+  ],
+  "TrialWire": [
+    "Sydney, Australia"
+  ]
+}
+```
+```json
+{
+  "Trill Impact": [
+    "Stockholm, Sweden",
+    "Luxembourg City, Luxembourg"
+  ],
+  "Trillion Ventures Global Capital Fund": [
+    "Singapore",
+    "Jakarta, Indonesia"
+  ],
+  "Triovance Development Co": [
+    "Unit C, 12/F, Gemstar Tower, 23 Man Lok Street, Hung Hom, Kowloon, Hong Kong"
+  ],
+  "Triplebar Bio": [
+    "855 Industrial Rd, San Carlos, CA 94070, USA"
+  ],
+  "Triquetra Medicines": [
+    "124 Goodman St. Suite 1, Charlottesville, VA 22903, USA"
+  ],
+  "Trophic Communications": [
+    "Seestrasse 13, 80802 Munich, Germany"
+  ],
+  "Tryp Therapeutics": [
+    "11110 Roselle Street, Suite 210, San Diego, CA 92121, USA"
+  ],
+  "Tryptamine Therapeutics": [
+    "1199 West Pender Street, Suite 1000, Vancouver, British Columbia, V6E 2R1, Canada"
+  ],
+  "Tundra Targeted Therapeutics": [
+    "Winnipeg, Manitoba, Canada"
+  ],
+  "Tundra Ventures Management, LLC": [
+    "New York, NY, USA"
+  ],
+  "Tungsten Advisors": [
+    "220 Fifth Avenue, Suite 1605, New York, NY 10001, USA",
+    "1400 Lavaca Street, Suite 105, Austin, TX 78701, USA"
+  ],
+  "Two Bear Capital": [
+    "1200 US Hwy 93 N, Suite 230, Whitefish, MT 59937, USA"
+  ],
+  "Type6 Therapeutics": [
+    "Hochstrasse 131, 4053 Basel, Switzerland"
+  ],
+  "U -Ploid Biotechnologies": [
+    "Chesterford Research Park, Cambridge, CB10 1XL, UK"
+  ],
+  "US Angels and K2X": [
+    "Silicon Valley, California, USA",
+    "Los Angeles, California, USA"
+  ],
+  "US Capital Global": [
+    "One Sansome Street, Suite 2350, San Francisco, CA 94104, USA",
+    "575 Lexington Avenue, Suite 400, New York, NY 10022, USA",
+    "100 Southeast 2nd Street, Suite 2000, Miami, FL 33131, USA",
+    "750 N St Paul Street, Suite 250, Dallas, TX 75201, USA",
+    "25 Canada Square, Canary Wharf, London, E14 5LB, UK",
+    "General-Guisan-Quai 36, 8002 Zurich, Switzerland",
+    "One Central, Offices 1 & 2, The Offices Building, Level 8, PO Box 31215, Dubai, UAE"
+  ],
+  "UTokyo Innovation Platform Co.,Ltd. (UTIPC)": [
+    "Sanno Park Tower 19F, 2-11-1 Nagata-cho, Chiyoda-ku, Tokyo 100-6119, Japan"
+  ],
+  "Ubix Therapeutics": [
+    "#901, 134, Sagimakgol-ro, Jungwon-gu, Seongnam-si, Gyeonggi-do, Republic of Korea"
+  ],
+  "Umecrine Cognition": [
+    "Novum, Plan 5, Hälsovägen 7, 141 57 Huddinge (Stockholm), Sweden"
+  ],
+  "Umlaut.bio GmbH": [
+    "Köpenicker Str. 154, 10997 Berlin, Germany"
+  ]
+}
+```
+```json
+{
+  "Uncommon Bio": [
+    "Cambridge, MA, USA"
+  ],
+  "UniGlobe Capital": [
+    "London, UK",
+    "Dubai, UAE"
+  ],
+  "University of Glasgow": [
+    "Glasgow, Scotland, UK",
+    "Dumfries, Scotland, UK",
+    "London, England, UK"
+  ],
+  "University of Michigan Innovation Partnerships": [
+    "Ann Arbor, MI, USA"
+  ],
+  "Unnatural Products": [
+    "Austin, TX, USA"
+  ],
+  "UpStart Ventures": [
+    "Los Angeles, CA, USA"
+  ],
+  "Urkworks": [
+    "No public locations found"
+  ],
+  "Urth Capital Advisors": [
+    "Newport Beach, CA, USA"
+  ],
+  "Uvax Bio, LLC": [
+    "Spring House, PA, USA"
+  ],
+  "V -Bio Ventures": [
+    "Ghent, Belgium"
+  ],
+  "V2 Clinical": [
+    "Miami, FL, USA"
+  ],
+  "VA Bio": [
+    "Richmond, VA, USA"
+  ],
+  "VCapital": [
+    "Chicago, IL, USA"
+  ],
+  "VECT -HORUS": [
+    "Marseille, France"
+  ],
+  "VERAXA GmbH": [
+    "Heidelberg, Germany"
+  ],
+  "VERIMMUNE INC": [
+    "Rockville, MD, USA"
+  ],
+  "VI Ventures": [
+    "Beijing, China"
+  ],
+  "VICKERS VENTURE PARTNERS (S) P": [
+    "Singapore",
+    "Shanghai, China",
+    "San Diego, CA, USA",
+    "New York, NY, USA",
+    "Hong Kong"
+  ],
+  "VJO Canada Inc.": [
+    "Toronto, ON, Canada"
+  ],
+  "VRD HealthTech": [
+    "San Francisco, CA, USA"
+  ]
+}
+```
+```json
+{
+  "VSPharmTech": [
+    "Chengdu, Sichuan, China",
+    "Lewes, DE, USA"
+  ],
+  "VXP fund": [
+    "San Francisco, CA, USA"
+  ],
+  "Valink Therapeutics": [
+    "Pointe-Claire, Quebec, Canada"
+  ],
+  "Valuence Ventures": [
+    "Tokyo, Japan"
+  ],
+  "Vandria": [
+    "Cambridge, MA, USA"
+  ],
+  "Variational AI": [
+    "Vancouver, BC, Canada"
+  ],
+  "Varsity Healthcare Partners": [
+    "Los Angeles, CA, USA",
+    "New York, NY, USA"
+  ],
+  "VasoDynamics Ltd": [
+    "Chatham, Kent, UK"
+  ],
+  "VectorPoint Ventures": [
+    "Addison, TX, USA"
+  ],
+  "Veirulence Ltd": [
+    "London, UK",
+    "Cambridge, UK"
+  ],
+  "Venable LLP": [
+    "Baltimore, MD, USA",
+    "Chicago, IL, USA",
+    "Denver, CO, USA",
+    "Los Angeles, CA, USA",
+    "Miami, FL, USA",
+    "New York, NY, USA",
+    "San Francisco, CA, USA",
+    "Washington, DC, USA",
+    "Tysons, VA, USA",
+    "Wilmington, DE, USA",
+    "San Diego, CA, USA"
+  ],
+  "Ventac Partners, LLC": [
+    "Cambridge, MA, USA",
+    "London, UK",
+    "Zug, Switzerland",
+    "Paris, France"
+  ],
+  "Ventum Financial": [
+    "Montréal, Québec, Canada",
+    "Calgary, Alberta, Canada"
+  ],
+  "Venture Valuation / Biotechgate": [
+    "Zug, Switzerland",
+    "Zürich, Switzerland"
+  ],
+  "Veritus Research": [
+    "Boynton Beach, FL, USA"
+  ],
+  "Vertex Growth Fund": [
+    "Singapore"
+  ],
+  "Vertex Pharmaceuticals": [
+    "Boston, MA, USA",
+    "San Diego, CA, USA",
+    "Toronto, Canada",
+    "Paris, France",
+    "Munich, Germany",
+    "Dublin, Ireland",
+    "Rome, Italy",
+    "Lausanne, Switzerland",
+    "London, UK",
+    "Sydney, Australia",
+    "Vienna, Austria",
+    "Brussels, Belgium",
+    "Sao Paulo, Brazil",
+    "Prague, Czech Republic",
+    "Copenhagen, Denmark",
+    "Amsterdam, Netherlands",
+    "Madrid, Spain",
+    "Solna, Sweden"
+  ],
+  "Vertex Ventures": [
+    "Singapore",
+    "Bangalore, India",
+    "Jakarta, Indonesia",
+    "Ho Chi Minh City, Vietnam",
+    "Taipei, Taiwan",
+    "Delhi, India",
+    "Beijing, China",
+    "Shanghai, China",
+    "Shenzhen, China",
+    "San Francisco, CA, USA",
+    "Herzliya, Israel",
+    "Boston, MA, USA",
+    "Tokyo, Japan"
+  ],
+  "Vesica Health": [
+    "North Ryde, NSW, Australia"
+  ],
+  "Vevo Therapeutics": [
+    "Cambridge, MA, USA"
+  ]
+}
+```
+```json
+{
+  "ViCardia Therapeutics Inc.": [
+    "Carlsbad, CA"
+  ],
+  "Vibrant Tx": [
+    "San Diego, CA"
+  ],
+  "Vida Ventures": [
+    "Boston, MA",
+    "San Francisco, CA"
+  ],
+  "ViewMind": [
+    "Boston, MA"
+  ],
+  "Vigonvita Life Sciences Co., Ltd.": [
+    "Beijing, China"
+  ],
+  "Viking Scientific, Inc.": [
+    "Huntington Beach, CA"
+  ],
+  "Virginia Venture Partners": [
+    "Richmond, VA"
+  ],
+  "Vision Incubate": [],
+  "Vision Ventures": [
+    "Los Angeles, CA",
+    "New York, NY"
+  ],
+  "Vista Capital Advisors, LLC": [
+    "Miami, FL"
+  ],
+  "Viva BioInnovator": [
+    "Shanghai, China"
+  ],
+  "Vivalyx | Organ Vitality Tech": [
+    "Raleigh, NC"
+  ],
+  "Vivo Surgical": [
+    "Singapore"
+  ],
+  "Vivodyne": [
+    "Philadelphia, PA"
+  ],
+  "VivoxBio": [
+    "San Diego, CA"
+  ],
+  "WARF Ventures": [
+    "Madison, WI"
+  ],
+  "WBB Securities": [
+    "Los Angeles, CA"
+  ],
+  "WIRED": [
+    "San Francisco, CA",
+    "New York, NY",
+    "London, UK"
+  ],
+  "WONDFO BIOTECH": [
+    "Guangzhou, China",
+    "San Diego, CA"
+  ],
+  "WRF Capital": [
+    "Seattle, WA"
+  ]
+}
+```
+```json
+{
+  "Wall Street Journal": [
+    "New York, NY",
+    "Washington D.C.",
+    "London, UK",
+    "Brussels, Belgium",
+    "Hong Kong",
+    "Singapore",
+    "Tokyo, Japan"
+  ],
+  "Waterston Capital": [
+    "New York, NY"
+  ],
+  "Wayfinder Biosciences": [
+    "San Diego, CA"
+  ],
+  "Wayshine Biopharm": [
+    "Shanghai, China"
+  ],
+  "Weave": [
+    "Lehi, UT",
+    "Draper, UT"
+  ],
+  "Wellovate": [
+    "Denver, CO"
+  ],
+  "West Coast Angel Network": [
+    "Palo Alto, CA"
+  ],
+  "Westlake BioPartners": [
+    "Los Angeles, CA"
+  ],
+  "Westlake Genetech": [
+    "Hangzhou, China"
+  ],
+  "Whale Bay Capital": [
+    "Menlo Park, CA"
+  ],
+  "Wharton Alumni Angels": [
+    "New York, NY",
+    "San Francisco, CA",
+    "Los Angeles, CA",
+    "London, UK",
+    "Boston, MA",
+    "Atlanta, GA",
+    "Chicago, IL",
+    "Tel Aviv, Israel",
+    "Austin, TX",
+    "Dallas, TX",
+    "Houston, TX"
+  ],
+  "Wheeler Bio, Inc.": [
+    "Oklahoma City, OK"
+  ],
+  "WideTrial": [
+    "New York, NY"
+  ],
+  "William Galle & Associates": [
+    "Palo Alto, CA"
+  ],
+  "Winning Difference": [
+    "Houston, TX"
+  ],
+  "Wisemont Capital": [
+    "Palo Alto, CA"
+  ],
+  "World Economic Forum": [
+    "Cologny, Switzerland",
+    "New York, NY",
+    "San Francisco, CA",
+    "Beijing, China",
+    "Tokyo, Japan",
+    "Mumbai, India"
+  ],
+  "WuXi AppTec": [
+    "Shanghai, China",
+    "Suzhou, China",
+    "Wuhan, China",
+    "Tianjin, China",
+    "Philadelphia, PA, USA",
+    "San Diego, CA, USA",
+    "Boston, MA, USA",
+    "Cranbury, NJ, USA",
+    "Leverkusen, Germany"
+  ],
+  "WuXi Biologics": [
+    "Wuxi, China",
+    "Shanghai, China",
+    "Suzhou, China",
+    "Hangzhou, China",
+    "Cranbury, NJ, USA",
+    "Worcester, MA, USA",
+    "Dundalk, Ireland",
+    "Leverkusen, Germany"
+  ],
+  "Wuhan YZY Biopharma Co., Ltd.": [
+    "Wuhan, China"
+  ]
+}
+```
+```json
+{
+  "Wyss Center For Bio And Neuroengineering": [
+    "Geneva, Switzerland"
+  ],
+  "X -tosis, Inc.": [
+    "Cambridge, MA, USA"
+  ],
+  "XM Therapeutics, Inc.": [
+    "Boston, MA, USA"
+  ],
+  "XOMA Royalty": [
+    "Berkeley, CA, USA"
+  ],
+  "XYone Therapeutics Inc": [
+    "San Diego, CA, USA"
+  ],
+  "Xcellerant Ventures": [
+    "San Francisco, CA, USA"
+  ],
+  "Xella Health, PBC": [
+    "San Francisco, CA, USA"
+  ],
+  "Xeraya Capital": [
+    "Kuala Lumpur, Malaysia",
+    "London, UK",
+    "Boston, MA, USA"
+  ],
+  "Xizang Haisco Pharmaceutical Co., LTD.": [
+    "Lhasa, Tibet, China",
+    "Chengdu, Sichuan, China"
+  ],
+  "Xontogeny": [
+    "Cambridge, MA, USA"
+  ],
+  "Xpand Partners": [
+    "San Mateo, CA, USA"
+  ],
+  "Xylyx Bio, Inc.": [
+    "Newark, NJ, USA"
+  ],
+  "Yafo Capital": [
+    "Shanghai, China",
+    "New York, NY, USA"
+  ],
+  "Yakumed Limited": [
+    "London, UK"
+  ],
+  "Yale Ventures; Blavatnik Fund": [
+    "New Haven, CT, USA"
+  ],
+  "Yantze Investment": [
+    "Shanghai, China"
+  ],
+  "Yaqrit": [
+    "London, UK"
+  ],
+  "Yonjin Venture": [
+    "Seoul, South Korea"
+  ],
+  "Yorkville Advisors": [
+    "Mountainside, NJ, USA"
+  ],
+  "Young Bio": [
+    "Gyeonggi-do, South Korea"
+  ]
+}
+```
+```json
+{
+  "YourChoice Therapeutics Inc.": [
+    "La Jolla, CA, USA"
+  ],
+  "YouthBio Therapeutics Inc.": [
+    "Hong Kong, China",
+    "Cambridge, MA, USA"
+  ],
+  "Yuhan Corporation": [
+    "Seoul, South Korea",
+    "Yongin, South Korea",
+    "Cheongju, South Korea",
+    "Chungju, South Korea",
+    "Ridgefield Park, NJ, USA",
+    "Beijing, China",
+    "Ho Chi Minh City, Vietnam"
+  ],
+  "Z-Star Therapeutics": [
+    "Downers Grove, IL, USA"
+  ],
+  "ZCube, Zambon Research Venture": [
+    "Bresso, Italy"
+  ],
+  "ZHYL PRIVATE FUNDS 中和元良基金": [
+    "Shanghai, China"
+  ],
+  "ZTI BIOSCIENCES": [
+    "Mountain View, CA, USA"
+  ],
+  "ZYUS LIfe Sciences Inc.": [
+    "Saskatoon, SK, Canada"
+  ],
+  "ZedanMorgan Capital": [
+    "George Town, Cayman Islands"
+  ],
+  "Zeon Ventures": [
+    "Tokyo, Japan"
+  ],
+  "Zhejiang Tianyu Pharmaceutical Co., Ltd.": [
+    "Linhai, China",
+    "Hangzhou, China"
+  ],
+  "ZhongMei Capital": [
+    "New York, NY, USA"
+  ],
+  "Zilia": [
+    "Quebec City, QC, Canada"
+  ],
+  "ZipBio": [
+    "Chatsworth, CA, USA"
+  ],
+  "Zynext Ventures": [
+    "Cambridge, MA, USA"
+  ],
+  "adMare BioInnovations": [
+    "Vancouver, BC, Canada",
+    "Montreal, QC, Canada"
+  ],
+  "aisling capital": [
+    "New York, NY, USA"
+  ],
+  "argenx BV": [
+    "Gent, Belgium",
+    "Waltham, MA, USA",
+    "Boston, MA, USA",
+    "Tokyo, Japan"
+  ],
+  "biotx.ai Inc": [
+    "Potsdam, Germany",
+    "New York, NY, USA"
+  ],
+  "bit.bio": [
+    "Cambridge, UK",
+    "Cambridge, MA, USA"
+  ]
+}
+```
+```json
+{
+  "borex capital": [
+    "London, UK"
+  ],
+  "brain4care": [
+    "São Paulo, Brazil",
+    "Campinas, Brazil",
+    "Boston, USA"
+  ],
+  "catalyst -fund": [
+    "Nairobi, Kenya",
+    "New York, USA"
+  ],
+  "clock.bio": [
+    "Cambridge, USA"
+  ],
+  "de Gruyter Publishers": [
+    "Berlin, Germany",
+    "Boston, USA",
+    "Beijing, China"
+  ],
+  "e -Fund": [
+    "Toronto, Canada",
+    "Vancouver, Canada"
+  ],
+  "eGenesis, Inc.": [
+    "Cambridge, USA"
+  ],
+  "eGlint": [
+    "New York, USA"
+  ],
+  "eisnerAmper": [
+    "New York, USA",
+    "San Francisco, USA",
+    "Iselin, USA",
+    "Philadelphia, USA",
+    "Dublin, Ireland",
+    "London, UK",
+    "Grand Cayman, Cayman Islands"
+  ],
+  "elirazventures": [
+    "Tel Aviv, Israel"
+  ],
+  "i2020 Accelerator": [
+    "Milan, Italy"
+  ],
+  "iBio, Inc.": [
+    "San Diego, USA",
+    "Bryan, USA"
+  ],
+  "iBody Inc.": [
+    "Daejeon, South Korea"
+  ],
+  "iCLASS Discovery": [
+    "Minneapolis, USA"
+  ],
+  "iClinic": [
+    "São Paulo, Brazil"
+  ],
+  "iGan Partners": [
+    "Toronto, Canada"
+  ],
+  "iQure Pharma Inc": [
+    "San Diego, USA"
+  ],
+  "inCerebro Co., Ltd.": [
+    "Bangkok, Thailand"
+  ],
+  "ingineeon - advanced immunotherapeutics": [
+    "San Diego, USA"
+  ],
+  "inovation ventures": [
+    "San Francisco, USA"
+  ]
+}
+```
+```json
+{
+  "invIOs": [
+    "Vienna, Austria"
+  ],
+  "kez.biosolutions GmbH": [
+    "Gera, Germany"
+  ],
+  "material impact": [
+    "Boston, MA, USA"
+  ],
+  "o2h Ventures Ltd": [
+    "Cambridge, UK",
+    "Ahmedabad, India"
+  ],
+  "partneringONE": [
+    "Carlsbad, CA, USA",
+    "London, UK",
+    "Munich, Germany",
+    "Zurich, Switzerland"
+  ],
+  "rosewood capital": [
+    "San Francisco, CA, USA"
+  ],
+  "rpv": [
+    "Luxembourg City, Luxembourg"
+  ],
+  "seventure partners": [
+    "Paris, France",
+    "London, UK"
+  ],
+  "tenry pharmaceutical limitid": [
+    "Hong Kong, China",
+    "Guangzhou, China"
+  ]
+}
+```
